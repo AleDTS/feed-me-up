@@ -1,15 +1,15 @@
 [zap]
 title = "ZAP Imóveis - busca salva"
 url = "https://www.zapimoveis.com.br/aluguel/apartamentos/sc+florianopolis++pantanal/?transacao=aluguel&onde=%2CSanta+Catarina%2CFlorian%C3%B3polis%2C%2CPantanal%2C%2C%2Cneighborhood%2CBR%3ESanta+Catarina%3ENULL%3EFlorianopolis%3EBarrios%3EPantanal%2C-27.614619%2C-48.516222%2C%3B%2CSanta+Catarina%2CFlorian%C3%B3polis%2C%2CSaco+dos+Lim%C3%B5es%2C%2C%2Cneighborhood%2CBR%3ESanta+Catarina%3ENULL%3EFlorianopolis%3EBarrios%3ESaco+dos+Limoes%2C-27.605591%2C-48.531228%2C%3B%2CSanta+Catarina%2CFlorian%C3%B3polis%2C%2CCarvoeira%2C%2C%2Cneighborhood%2CBR%3ESanta+Catarina%3ENULL%3EFlorianopolis%3EBarrios%3ECarvoeira%2C-27.594124%2C-48.526226%2C%3B%2CSanta+Catarina%2CFlorian%C3%B3polis%2C%2CTrindade%2C%2C%2Cneighborhood%2CBR%3ESanta+Catarina%3ENULL%3EFlorianopolis%3EBarrios%3ETrindade%2C-27.594124%2C-48.526226%2C%3B%2CSanta+Catarina%2CFlorian%C3%B3polis%2C%2CC%C3%B3rrego+Grande%2C%2C%2Cneighborhood%2CBR%3ESanta+Catarina%3ENULL%3EFlorianopolis%3EBarrios%3ECorrego+Grande%2C-27.591888%2C-48.493989%2C%3B%2CSanta+Catarina%2CFlorian%C3%B3polis%2C%2CJos%C3%A9+Mendes%2C%2C%2Cneighborhood%2CBR%3ESanta+Catarina%3ENULL%3EFlorianopolis%3EBarrios%3EJose+Mendes%2C-27.43122%2C-48.436261%2C&tipos=apartamento_residencial%2Ckitnet_residencial&pagina=1&precoTotalMaximo=2000&ordem=Mais+recente"
-entrySelector = ".result-card > a"
-titleSelector = "a section.card__location"
-linkSelector = "a"
-contentSelector = "div.l-card__content"
+entrySelector = "div.result-card"
+titleSelector = "div.result-card div.listing-price p:first-child"
+linkSelector = "div.result-card a"
+contentSelector = "div.result-card div.l-card__content"
 
 [imovelweb]
 title = "Imovelweb"
 url = "https://www.imovelweb.com.br/apartamentos-aluguel-trindade-florianopolis-saco-dos-lim-es-carvoeira-jose-mendes-corrego-grande-pantanal-florianopolis-menos-1900-reales-ordem-publicado-maior.html"
 entrySelector = "div[data-to-posting]"
-titleSelector = "div[data-qa='POSTING_CARD_PRICE']"
-linkSelector = "a"
-contentSelector = "div > div:nth-child(2) > div:nth-child(1) > div:nth-child(1)"
+titleSelector = "div[data-to-posting] div[data-qa='POSTING_CARD_PRICE']"
+linkSelector = "div[data-to-posting] a"
+contentSelector = "div[data-to-posting] div > div:nth-child(2) > div:nth-child(1) > div:nth-child(1)"
