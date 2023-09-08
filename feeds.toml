@@ -20,4 +20,4 @@ url = "https://www.chavesnamao.com.br/apartamentos-para-alugar/sc-florianopolis/
 entrySelector = "div[class^='imoveis__Card']"
 titleSelector = "span.contentCard h2"
 linkSelector = "span.contentCard a"
-contentSelector = "span.contentCard"
+contentSelector = "div[class^='imoveis__Card']"
