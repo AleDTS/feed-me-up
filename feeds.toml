@@ -5,3 +5,19 @@ entrySelector = "div.result-card"
 titleSelector = "div.listing-price"
 linkSelector = "div.result-card a"
 contentSelector = "div.result-card div.l-card__content"
+
+[imoveis-sc]
+title = "Imóveis-SC"
+url = "https://www.imoveis-sc.com.br/florianopolis/apartamento/caeira-do-saco-dos-limoes_carvoeira_corrego-grande_jose-mendes_pantanal_saco-dos-limoes_trindade/quartos/1,2?page=1&ordenacao=recentes&valor=-2500&area=30-"
+entrySelector = "article.imovel"
+titleSelector = "h2.imovel-titulo"
+linkSelector = "h2.imovel-titulo a"
+contentSelector = "article.imovel"
+
+[chaves]
+title = "Chaves na mão"
+url = "https://www.chavesnamao.com.br/apartamentos-para-alugar/sc-florianopolis/saco-dos-limoes/?filtro=%7B%22bai%22%3A%5B13966%2C53003%2C13939%2C13952%2C13948%5D%2C%22pmax%22%3A2500%2C%22cnd%22%3Atrue%2C%22amin%22%3A30%7D"
+entrySelector = "div[class^='imoveis__Card']"
+titleSelector = "span.contentCard h2"
+linkSelector = "span.contentCard a"
+contentSelector = "span.contentCard"
