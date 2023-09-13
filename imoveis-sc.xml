@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.imoveis-sc.com.br/florianopolis/apartamento/caeira-do-saco-dos-limoes_carvoeira_corrego-grande_jose-mendes_pantanal_saco-dos-limoes_trindade/quartos/1,2?page=1&amp;ordenacao=recentes&amp;valor=-2500&amp;area=30-</id>
     <title>Imóveis-SC</title>
-    <updated>2023-09-13T05:40:05.541Z</updated>
+    <updated>2023-09-13T17:39:39.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.imoveis-sc.com.br/front/img/favicon/favicon.ico</icon>
     <entry>
@@ -1851,7 +1851,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1228685">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/terraz-aluguel-digital" class="fright imovel-anunciante" title="Terraz Aluguel Digital - 428.146" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_611b9c846aa82931824499000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/terraz-aluguel-digital" class="fright imovel-anunciante" title="Terraz Aluguel Digital - 429" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_611b9c846aa82931824499000.png)">
                 
                 
             </a>
@@ -1975,7 +1975,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1228672">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/brognoli-imoveis" class="fright imovel-anunciante" title="Brognoli Imóveis - 429" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_611ba1fd38c2b547686657000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/brognoli-imoveis" class="fright imovel-anunciante" title="Brognoli Imóveis - 431.8378" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_611ba1fd38c2b547686657000.png)">
                 
                 
             </a>
