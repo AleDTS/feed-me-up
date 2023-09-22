@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.imoveis-sc.com.br/florianopolis/apartamento/caeira-do-saco-dos-limoes_carvoeira_corrego-grande_jose-mendes_pantanal_saco-dos-limoes_trindade/quartos/1,2?page=1&amp;ordenacao=recentes&amp;valor=-2500&amp;area=30-</id>
     <title>Imóveis-SC</title>
-    <updated>2023-09-22T05:40:02.268Z</updated>
+    <updated>2023-09-22T17:39:51.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.imoveis-sc.com.br/front/img/favicon/favicon.ico</icon>
     <entry>
@@ -58,7 +58,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1278002">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/lideranca-imobiliaria" class="fright imovel-anunciante" title="Liderança Imobiliária - 293.475" style="background-image: url(https://admin.imoveis-sc.com.br/media/anunciantes/logotipo-6504b0783acb020230915162856.jpg)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/lideranca-imobiliaria" class="fright imovel-anunciante" title="Liderança Imobiliária - 263.475" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_650d92cf313e41274926347000.jpg)">
                 
                 
             </a>
@@ -173,7 +173,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1276515">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 179.625" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 149.625" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -359,7 +359,7 @@
         <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1272367.html"/>
         <updated>2023-09-08T17:48:46.907Z</updated>
         <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1272367">
-<input type="hidden" name="totalvalue" id="totalvalue" value="1850">
+<input type="hidden" name="totalvalue" id="totalvalue" value="1700">
 <input type="hidden" name="category" id="category" value="Aluguel">
     <div class="imovel-data">
         <header class="imovel-header">
@@ -380,9 +380,9 @@
             </div>
         </header>
                 <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
-            R$ <small itemprop="price">1.850,00</small>
+            R$ <small itemprop="price">1.700,00</small>
             <meta itemprop="priceCurrency" content="BRL">
-            <meta itemprop="lowprice" content="1.850,00">
+            <meta itemprop="lowprice" content="1.700,00">
         </span>
         <p class="imovel-descricao">
             Apartamentos em Florianópolis - Ótimo apartamento para aluguel localizado na rua Procopio Manoel Pires, no...
@@ -1382,7 +1382,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1241222">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/brognoli-imoveis" class="fright imovel-anunciante" title="Brognoli Imóveis - 398.3358" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_611ba1fd38c2b547686657000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/brognoli-imoveis" class="fright imovel-anunciante" title="Brognoli Imóveis - 399.0428" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_611ba1fd38c2b547686657000.png)">
                 
                 
             </a>
@@ -1818,7 +1818,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1228685">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/terraz-aluguel-digital" class="fright imovel-anunciante" title="Terraz Aluguel Digital - 499" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_611b9c846aa82931824499000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/terraz-aluguel-digital" class="fright imovel-anunciante" title="Terraz Aluguel Digital - 525.9024" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_611b9c846aa82931824499000.png)">
                 
                 
             </a>
@@ -1942,7 +1942,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1228672">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/brognoli-imoveis" class="fright imovel-anunciante" title="Brognoli Imóveis - 439.1612" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_611ba1fd38c2b547686657000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/brognoli-imoveis" class="fright imovel-anunciante" title="Brognoli Imóveis - 219" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_611ba1fd38c2b547686657000.png)">
                 
                 
             </a>
@@ -2203,7 +2203,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1218784">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/brognoli-imoveis" class="fright imovel-anunciante" title="Brognoli Imóveis - 403.3734" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_611ba1fd38c2b547686657000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/brognoli-imoveis" class="fright imovel-anunciante" title="Brognoli Imóveis - 402.3766" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_611ba1fd38c2b547686657000.png)">
                 
                 
             </a>
