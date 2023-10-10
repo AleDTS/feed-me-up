@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.imoveis-sc.com.br/florianopolis/apartamento/caeira-do-saco-dos-limoes_carvoeira_corrego-grande_jose-mendes_pantanal_saco-dos-limoes_trindade/quartos/1,2?page=1&amp;ordenacao=recentes&amp;valor=-2500&amp;area=30-</id>
     <title>Imóveis-SC</title>
-    <updated>2023-10-10T05:39:50.268Z</updated>
+    <updated>2023-10-10T17:39:53.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.imoveis-sc.com.br/front/img/favicon/favicon.ico</icon>
     <entry>
@@ -376,7 +376,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1276515">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 446.7862" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 444.0492" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -499,7 +499,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1272367">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 358.0712" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 357.5" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -906,226 +906,6 @@
 </button>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868]]></title>
-        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html</id>
-        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html"/>
-        <updated>2023-10-04T05:39:31.488Z</updated>
-        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="799905">
-<input type="hidden" name="totalvalue" id="totalvalue" value="2400">
-<input type="hidden" name="category" id="category" value="Aluguel">
-    <div class="imovel-data">
-        <header class="imovel-header">
-            <h2 class="imovel-titulo">
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html">
-                    Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868
-
-                    <meta itemprop="name" content="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-                    <meta itemprop="brand" content="Ibagy Imóveis">
-                    <meta itemprop="model" content="Apartamento">
-                    <meta itemprop="sku" content="79868">
-                </a>
-            </h2>
-            <div class="imovel-extra">
-                <strong>Florianópolis, Trindade</strong>
-                <span>Cód.: 79868</span>
-                
-            </div>
-        </header>
-                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
-            R$ <small itemprop="price">2.400,00</small>
-            <meta itemprop="priceCurrency" content="BRL">
-            <meta itemprop="lowprice" content="2.400,00">
-        </span>
-        <p class="imovel-descricao">
-            Apartamentos em Florianópolis - Apartamento com 2 dormitórios sendo 1 suíte, sala com sacada, cozinha com...
-        </p>
-        <ul class="imovel-info">
-                                    <li>
-                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
-                <span><strong>2</strong> quartos</span>
-            </li>
-                                    <li>
-                <i class="mdi mdi-shower mdi-30px"></i>
-                <span><strong>1</strong> suíte</span>
-            </li>
-                                    <li>
-                <i class="mdi mdi-car mdi-30px"></i>
-                <span><strong>1</strong> vaga</span>
-            </li>
-                                         <li>
-                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
-                    <span><strong>64,0</strong> m²</span>
-                </li>
-                                        </ul>
-        <div class="imovel-actions">
-            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
-            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/799905">
-                Entrar em contato
-            </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 213.125" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
-                
-                
-            </a>
-        </div>
-    </div>
-        <div class="imovel-imagem owl-carousel owl-theme ">
-                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-0-64c3835ca56a31101234325.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-1-64c3835ca56a8234749480.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-2-64ca20f1c62702038573162.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-3-64c3835ca56ae1110628256.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-4-64c3835ca56b11418994285.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-5-64c3835ca56b42135920282.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-6-64ca20f1c627d512917718.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-7-64ca20f1c62801158250771.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-8-64ca20f1c6283843680803.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-9-64ca20f1c62871653644074.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-10-64ca20f1c628a867761737.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-11-64ca20f1c628d1326763034.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-12-64ca20f1c628f2024505185.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-13-64ca20f1c6293289912691.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-14-64ca20f1c62962040854165.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-15-64ca20f1c62991431802873.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-799905.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-799905-16-64ca20f1c629b600983619.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 63.98 m² - 79868">
-        </a>
-                    </div>
-
-    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="799905" data-value="1">
-	<i class="fa fa-heart-o "></i>
-</button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 58.54 m² - 103541]]></title>
-        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-793848.html</id>
-        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-793848.html"/>
-        <updated>2023-10-04T05:39:31.491Z</updated>
-        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="793848">
-<input type="hidden" name="totalvalue" id="totalvalue" value="1650">
-<input type="hidden" name="category" id="category" value="Aluguel">
-    <div class="imovel-data">
-        <header class="imovel-header">
-            <h2 class="imovel-titulo">
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-793848.html">
-                    Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 58.54 m² - 103541
-
-                    <meta itemprop="name" content="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 58.54 m² - 103541">
-                    <meta itemprop="brand" content="Ibagy Imóveis">
-                    <meta itemprop="model" content="Apartamento">
-                    <meta itemprop="sku" content="103541">
-                </a>
-            </h2>
-            <div class="imovel-extra">
-                <strong>Florianópolis, Carvoeira</strong>
-                <span>Cód.: 103541</span>
-                
-            </div>
-        </header>
-                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
-            R$ <small itemprop="price">1.650,00</small>
-            <meta itemprop="priceCurrency" content="BRL">
-            <meta itemprop="lowprice" content="1.650,00">
-        </span>
-        <p class="imovel-descricao">
-            Apartamentos em Florianópolis - Ótimo apartamento de 1 dormitório na Carvoeira, Florianópolis. Com 58.54m² de...
-        </p>
-        <ul class="imovel-info">
-                                    <li>
-                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
-                <span><strong>1</strong> quarto</span>
-            </li>
-                                                <li>
-                <i class="mdi mdi-car mdi-30px"></i>
-                <span><strong>1</strong> vaga</span>
-            </li>
-                                         <li>
-                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
-                    <span><strong>58,5</strong> m²</span>
-                </li>
-                                        </ul>
-        <div class="imovel-actions">
-            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-793848.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
-            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/793848">
-                Entrar em contato
-            </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 336.7712" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
-                
-                
-            </a>
-        </div>
-    </div>
-        <div class="imovel-imagem owl-carousel owl-theme ">
-                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-793848.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-793848-0-651e7f8ad68661333023271.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 58.54 m² - 103541">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-793848.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-793848-1-651e7f8ad686e2076151858.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 58.54 m² - 103541">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-793848.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-793848-2-651e7f8ad6875515868567.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 58.54 m² - 103541">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-793848.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-793848-3-651e7f8ad687b2074532623.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 58.54 m² - 103541">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-793848.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-793848-4-651e7f8ad68801803996684.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 58.54 m² - 103541">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-793848.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-793848-5-651e7f8ad6886914239114.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 58.54 m² - 103541">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-793848.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-793848-6-651e7f8ad688c1815989742.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 58.54 m² - 103541">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-793848.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-793848-7-651e7f8ad6897828884764.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 58.54 m² - 103541">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-793848.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-793848-8-651e7f8ad689b1982138529.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 58.54 m² - 103541">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-793848.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-793848-9-651e7f8ad689e636394007.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 58.54 m² - 103541">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-793848.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-793848-10-651e7f8ad68a21484012768.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 58.54 m² - 103541">
-        </a>
-                    </div>
-
-    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="793848" data-value="1">
-	<i class="fa fa-heart-o "></i>
-</button>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.85 m² - 111130]]></title>
         <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-779114.html</id>
         <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-779114.html"/>
@@ -1174,7 +954,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/779114">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 369.8942" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 379.025" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
