@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
+    <title>Listen Notes - clips</title>
+    <updated>2023-10-23T20:22:11.221Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.listennotes.com/static/v4/img/logo/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
+        <link href="https://www.listennotes.com/@aledts/podcast-clips/"/>
+        <updated>2023-10-23T20:22:10.275Z</updated>
+        <content type="html"><![CDATA[<div class="flex-1 flex items-center text-sm text-helper-color">
+Page 1 of 16 clips
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+SENTIDOS do TRABALHO]]></title>
+        <id>https://www.listennotes.com/podcast-clips/sentidos-do-trabalho-ZMr0neof5T1/</id>
+        <link href="https://www.listennotes.com/podcast-clips/sentidos-do-trabalho-ZMr0neof5T1/"/>
+        <updated>2023-10-23T20:22:10.402Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/sentidos-do-trabalho-ZMr0neof5T1/" title="SENTIDOS do TRABALHO">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/vibes-em-análise-EJsQvoc0D9e-IpKdX3ucUBO.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/sentidos-do-trabalho-ZMr0neof5T1/" title="SENTIDOS do TRABALHO" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+SENTIDOS do TRABALHO
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>Oct. 12, 2023</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/sentidos-do-trabalho-ZMr0neof5T1/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:31:56
+to 00:33:36
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+milton santos; pensamento trans-humanista; pandemia e nômade digital
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+3. Alô, é do suporte?]]></title>
+        <id>https://www.listennotes.com/podcast-clips/3-al%C3%B4-%C3%A9-do-suporte-GoeASNF5Jhu/</id>
+        <link href="https://www.listennotes.com/podcast-clips/3-al%C3%B4-%C3%A9-do-suporte-GoeASNF5Jhu/"/>
+        <updated>2023-10-23T20:22:10.411Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/3-alô-é-do-suporte-GoeASNF5Jhu/" title="3. Alô, é do suporte?">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/primeiro-contato-b9-henrique-sampaio-Y1ET5h2gp3c-l7kfyjOZdbA.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/3-alô-é-do-suporte-GoeASNF5Jhu/" title="3. Alô, é do suporte?" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+3. Alô, é do suporte?
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>Oct. 12, 2023</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/3-alô-é-do-suporte-GoeASNF5Jhu/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:57:18
+to 00:58:51
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+espinha dorsal de uma política liberalizante no brasil
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+A força do El Niño]]></title>
+        <id>https://www.listennotes.com/podcast-clips/a-for%C3%A7a-do-el-ni%C3%B1o-ahlRWIJeD9z/</id>
+        <link href="https://www.listennotes.com/podcast-clips/a-for%C3%A7a-do-el-ni%C3%B1o-ahlRWIJeD9z/"/>
+        <updated>2023-10-23T20:22:10.411Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/a-força-do-el-niño-ahlRWIJeD9z/" title="A força do El Niño">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/pesquisa-brasil-revista-pesquisa-fapesp-h0Z8l5ujdzW-1cbljAXB6VG.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/a-força-do-el-niño-ahlRWIJeD9z/" title="A força do El Niño" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+A força do El Niño
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>Oct. 12, 2023</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/a-força-do-el-niño-ahlRWIJeD9z/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:16:43
+to 00:23:00
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+explicação el niño; impacto na pesca
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+#279 – A retomada da Saúde no Governo Lula III (c_ Gabriel Brito)]]></title>
+        <id>https://www.listennotes.com/podcast-clips/279-a-retomada-da-sa%C3%BAde-no-governo-lula-iii-c_-wcXifo6pP8S/</id>
+        <link href="https://www.listennotes.com/podcast-clips/279-a-retomada-da-sa%C3%BAde-no-governo-lula-iii-c_-wcXifo6pP8S/"/>
+        <updated>2023-10-23T20:22:10.411Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/279-a-retomada-da-saúde-no-governo-lula-iii-c_-wcXifo6pP8S/" title="#279 – A retomada da Saúde no Governo Lula III (c_ Gabriel Brito)">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/lado-b-do-rio-central-3-podcasts-qp6ZH7M8wsv-PzH5qyWjYeh.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/279-a-retomada-da-saúde-no-governo-lula-iii-c_-wcXifo6pP8S/" title="#279 – A retomada da Saúde no Governo Lula III (c_ Gabriel Brito)" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+#279 – A retomada da Saúde no Governo Lula III (c_ Gabriel Brito)
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>Oct. 12, 2023</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/279-a-retomada-da-saúde-no-governo-lula-iii-c_-wcXifo6pP8S/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:27:12
+to 00:36:00
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+feitos dos primeiro 6 meses ministério da saúde com nisia trindade
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+79 | Empresas Cúmplices da Ditadura - com Edson Teles]]></title>
+        <id>https://www.listennotes.com/podcast-clips/79-empresas-c%C3%BAmplices-da-ditadura-com-edson-teles-rZY8MJ14Du2/</id>
+        <link href="https://www.listennotes.com/podcast-clips/79-empresas-c%C3%BAmplices-da-ditadura-com-edson-teles-rZY8MJ14Du2/"/>
+        <updated>2023-10-23T20:22:10.412Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/79-empresas-cúmplices-da-ditadura-com-edson-teles-rZY8MJ14Du2/" title="79 | Empresas Cúmplices da Ditadura - com Edson Teles">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/pauta-pública-agência-pública-agência-pública-lF62tsjCD1_-9x0XUS5eVCk.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/79-empresas-cúmplices-da-ditadura-com-edson-teles-rZY8MJ14Du2/" title="79 | Empresas Cúmplices da Ditadura - com Edson Teles" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+79 | Empresas Cúmplices da Ditadura - com Edson Teles
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>Oct. 12, 2023</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/79-empresas-cúmplices-da-ditadura-com-edson-teles-rZY8MJ14Du2/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:11:07
+to 00:13:11
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+mineradora ataca povos indígenas
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+#249 - Crises, Sobrecarga e Vida Adulta]]></title>
+        <id>https://www.listennotes.com/podcast-clips/249-crises-sobrecarga-e-vida-adulta-Ds2SiPx1kwt/</id>
+        <link href="https://www.listennotes.com/podcast-clips/249-crises-sobrecarga-e-vida-adulta-Ds2SiPx1kwt/"/>
+        <updated>2023-10-23T20:22:10.420Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/249-crises-sobrecarga-e-vida-adulta-Ds2SiPx1kwt/" title="#249 - Crises, Sobrecarga e Vida Adulta">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/introvertendo-autismo-por-autistas-1ZVMFAE2uxY-s-8zyhHojlG.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/249-crises-sobrecarga-e-vida-adulta-Ds2SiPx1kwt/" title="#249 - Crises, Sobrecarga e Vida Adulta" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+#249 - Crises, Sobrecarga e Vida Adulta
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>July 1, 2023</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/249-crises-sobrecarga-e-vida-adulta-Ds2SiPx1kwt/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:17:13
+to 00:20:15
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+frustração com interações
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+#214 - Disfunção Executiva]]></title>
+        <id>https://www.listennotes.com/podcast-clips/214-disfun%C3%A7%C3%A3o-executiva-QO5YNq0CbdU/</id>
+        <link href="https://www.listennotes.com/podcast-clips/214-disfun%C3%A7%C3%A3o-executiva-QO5YNq0CbdU/"/>
+        <updated>2023-10-23T20:22:10.426Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/214-disfunção-executiva-QO5YNq0CbdU/" title="#214 - Disfunção Executiva">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/introvertendo-autismo-por-autistas-1ZVMFAE2uxY-s-8zyhHojlG.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/214-disfunção-executiva-QO5YNq0CbdU/" title="#214 - Disfunção Executiva" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+#214 - Disfunção Executiva
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>Jan. 12, 2023</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/214-disfunção-executiva-QO5YNq0CbdU/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:12:06
+to 00:14:29
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+memória de trabalho; dificuldade de organização
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+#214 - Disfunção Executiva]]></title>
+        <id>https://www.listennotes.com/podcast-clips/214-disfun%C3%A7%C3%A3o-executiva-TPUOxlKINpL/</id>
+        <link href="https://www.listennotes.com/podcast-clips/214-disfun%C3%A7%C3%A3o-executiva-TPUOxlKINpL/"/>
+        <updated>2023-10-23T20:22:10.432Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/214-disfunção-executiva-TPUOxlKINpL/" title="#214 - Disfunção Executiva">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/introvertendo-autismo-por-autistas-1ZVMFAE2uxY-s-8zyhHojlG.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/214-disfunção-executiva-TPUOxlKINpL/" title="#214 - Disfunção Executiva" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+#214 - Disfunção Executiva
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>Jan. 12, 2023</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/214-disfunção-executiva-TPUOxlKINpL/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:09:35
+to 00:12:06
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+controle inibitório; atenção seletiva
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+#214 - Disfunção Executiva]]></title>
+        <id>https://www.listennotes.com/podcast-clips/214-disfun%C3%A7%C3%A3o-executiva-yeUD01jT6lf/</id>
+        <link href="https://www.listennotes.com/podcast-clips/214-disfun%C3%A7%C3%A3o-executiva-yeUD01jT6lf/"/>
+        <updated>2023-10-23T20:22:10.436Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/214-disfunção-executiva-yeUD01jT6lf/" title="#214 - Disfunção Executiva">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/introvertendo-autismo-por-autistas-1ZVMFAE2uxY-s-8zyhHojlG.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/214-disfunção-executiva-yeUD01jT6lf/" title="#214 - Disfunção Executiva" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+#214 - Disfunção Executiva
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>Jan. 12, 2023</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/214-disfunção-executiva-yeUD01jT6lf/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:02:45
+to 00:07:48
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+funções/disfunções executivas; exemplo do ônibus, tomada de decisão no meio do caminho
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+#206 - Idosos Autistas]]></title>
+        <id>https://www.listennotes.com/podcast-clips/206-idosos-autistas-wtHpKIjbcUE/</id>
+        <link href="https://www.listennotes.com/podcast-clips/206-idosos-autistas-wtHpKIjbcUE/"/>
+        <updated>2023-10-23T20:22:10.446Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/206-idosos-autistas-wtHpKIjbcUE/" title="#206 - Idosos Autistas">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/introvertendo-autismo-por-autistas-1ZVMFAE2uxY-s-8zyhHojlG.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/206-idosos-autistas-wtHpKIjbcUE/" title="#206 - Idosos Autistas" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+#206 - Idosos Autistas
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>Jan. 12, 2023</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/206-idosos-autistas-wtHpKIjbcUE/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:02:25
+to 00:07:44
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+dificuldades na vida profissional
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+#226 - Estereótipos Autistas na Tecnologia]]></title>
+        <id>https://www.listennotes.com/podcast-clips/226-estere%C3%B3tipos-autistas-na-tecnologia-LjOQXHnu_JY/</id>
+        <link href="https://www.listennotes.com/podcast-clips/226-estere%C3%B3tipos-autistas-na-tecnologia-LjOQXHnu_JY/"/>
+        <updated>2023-10-23T20:22:10.449Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/226-estereótipos-autistas-na-tecnologia-LjOQXHnu_JY/" title="#226 - Estereótipos Autistas na Tecnologia">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/introvertendo-autismo-por-autistas-1ZVMFAE2uxY-s-8zyhHojlG.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/226-estereótipos-autistas-na-tecnologia-LjOQXHnu_JY/" title="#226 - Estereótipos Autistas na Tecnologia" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+#226 - Estereótipos Autistas na Tecnologia
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>Jan. 12, 2023</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/226-estereótipos-autistas-na-tecnologia-LjOQXHnu_JY/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:06:41
+to 00:11:24
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+você nem parece autista
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+#227 - O Autismo é uma Deficiência? - A palestra]]></title>
+        <id>https://www.listennotes.com/podcast-clips/227-o-autismo-%C3%A9-uma-defici%C3%AAncia-a-palestra-E7yxIoA3hBm/</id>
+        <link href="https://www.listennotes.com/podcast-clips/227-o-autismo-%C3%A9-uma-defici%C3%AAncia-a-palestra-E7yxIoA3hBm/"/>
+        <updated>2023-10-23T20:22:10.451Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/227-o-autismo-é-uma-deficiência-a-palestra-E7yxIoA3hBm/" title="#227 - O Autismo é uma Deficiência? - A palestra">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/introvertendo-autismo-por-autistas-1ZVMFAE2uxY-s-8zyhHojlG.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/227-o-autismo-é-uma-deficiência-a-palestra-E7yxIoA3hBm/" title="#227 - O Autismo é uma Deficiência? - A palestra" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+#227 - O Autismo é uma Deficiência? - A palestra
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>Jan. 12, 2023</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/227-o-autismo-é-uma-deficiência-a-palestra-E7yxIoA3hBm/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:40:43
+to 00:43:18
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+ser autista ou ter autismo?
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+Cidade livre #06 – Galo e Ludmila Costhek Abílio]]></title>
+        <id>https://www.listennotes.com/podcast-clips/cidade-livre-06-galo-e-ludmila-costhek-ab%C3%ADlio-KugCyx0rqW5/</id>
+        <link href="https://www.listennotes.com/podcast-clips/cidade-livre-06-galo-e-ludmila-costhek-ab%C3%ADlio-KugCyx0rqW5/"/>
+        <updated>2023-10-23T20:22:10.454Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/cidade-livre-06-galo-e-ludmila-costhek-abílio-KugCyx0rqW5/" title="Cidade livre #06 – Galo e Ludmila Costhek Abílio">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/guilhotina-le-monde-diplomatique-brasil-HIRVk_PfXN5-DpMJskKfUzo.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/cidade-livre-06-galo-e-ludmila-costhek-abílio-KugCyx0rqW5/" title="Cidade livre #06 – Galo e Ludmila Costhek Abílio" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+Cidade livre #06 – Galo e Ludmila Costhek Abílio
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>July 18, 2021</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/cidade-livre-06-galo-e-ludmila-costhek-abílio-KugCyx0rqW5/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:54:26
+to 01:01:08
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+Uberização e cooperativas
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+O que diz o relatório direito à comunicação no Brasil?]]></title>
+        <id>https://www.listennotes.com/podcast-clips/o-que-diz-o-relat%C3%B3rio-direito-%C3%A0-comunica%C3%A7%C3%A3o-no-zsT4BREYw63/</id>
+        <link href="https://www.listennotes.com/podcast-clips/o-que-diz-o-relat%C3%B3rio-direito-%C3%A0-comunica%C3%A7%C3%A3o-no-zsT4BREYw63/"/>
+        <updated>2023-10-23T20:22:10.456Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/o-que-diz-o-relatório-direito-à-comunicação-no-zsT4BREYw63/" title="O que diz o relatório direito à comunicação no Brasil?">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/levante-sua-voz-intervozes-coletivo-brasil-P-_bMwiRTAy-UGx3YZvhzft.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/o-que-diz-o-relatório-direito-à-comunicação-no-zsT4BREYw63/" title="O que diz o relatório direito à comunicação no Brasil?" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+O que diz o relatório direito à comunicação no Brasil?
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>June 28, 2021</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/o-que-diz-o-relatório-direito-à-comunicação-no-zsT4BREYw63/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:16:23
+to 00:18:26
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+"Desenvolver e ressignificar as tecnologias significa disputar o futuro"
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+BBB Tá On: a eliminação de Nego Di – com Ivan Mizanzuk]]></title>
+        <id>https://www.listennotes.com/podcast-clips/bbb-t%C3%A1-on-a-elimina%C3%A7%C3%A3o-de-nego-di-com-ivan-aehXHMctl1-/</id>
+        <link href="https://www.listennotes.com/podcast-clips/bbb-t%C3%A1-on-a-elimina%C3%A7%C3%A3o-de-nego-di-com-ivan-aehXHMctl1-/"/>
+        <updated>2023-10-23T20:22:10.459Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/bbb-tá-on-a-eliminação-de-nego-di-com-ivan-aehXHMctl1-/" title="BBB Tá On: a eliminação de Nego Di – com Ivan Mizanzuk">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/bbb-big-brother-brasil-gshow-CB62geNDVUu-Ys1jT-CAMDB.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/bbb-tá-on-a-eliminação-de-nego-di-com-ivan-aehXHMctl1-/" title="BBB Tá On: a eliminação de Nego Di – com Ivan Mizanzuk" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+BBB Tá On: a eliminação de Nego Di – com Ivan Mizanzuk
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>Feb. 18, 2021</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/bbb-tá-on-a-eliminação-de-nego-di-com-ivan-aehXHMctl1-/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:22:30
+to 00:25:00
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+mizanzuk foi pra globo
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+#124: O bolsonarismo frita seus generais]]></title>
+        <id>https://www.listennotes.com/podcast-clips/124-o-bolsonarismo-frita-seus-generais-0WNv29RfLrU/</id>
+        <link href="https://www.listennotes.com/podcast-clips/124-o-bolsonarismo-frita-seus-generais-0WNv29RfLrU/"/>
+        <updated>2023-10-23T20:22:10.461Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/124-o-bolsonarismo-frita-seus-generais-0WNv29RfLrU/" title="#124: O bolsonarismo frita seus generais">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/foro-de-teresina-piauí-gn61O-xLkZr-nxQPTMA0Ogm.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/124-o-bolsonarismo-frita-seus-generais-0WNv29RfLrU/" title="#124: O bolsonarismo frita seus generais" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+#124: O bolsonarismo frita seus generais
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>Nov. 3, 2020</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/124-o-bolsonarismo-frita-seus-generais-0WNv29RfLrU/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:34:19
+to 00:40:51
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+2a onda covid
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17]]></title>
+        <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
+        <link href="https://www.listennotes.com/@aledts/podcast-clips/"/>
+        <updated>2023-10-23T20:22:10.277Z</updated>
+        <content type="html"><![CDATA[<a href="/podcast-clips/" class="ln-btn ln-btn-secondary">
+Curate your own podcast clips
+<span class="ln-icon-arrow-right"></span>
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18]]></title>
+        <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
+        <link href="https://www.listennotes.com/@aledts/podcast-clips/"/>
+        <updated>2023-10-23T20:22:10.279Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-16">
+<div class="col-span-1">
+<div class="mb-4">
+<div class="rounded-full inline-flex justify-center items-center bg-brand-200 text-brand-500 w-14 h-14 inline">
+<div class="w-6">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+</div>
+</div>
+<div class="font-bold text-lg mb-8">
+CREATE PODCAST CLIPS
+</div>
+<div class="text-normal mb-8">
+<ul class="list-decimal list-inside">
+<li>
+Find a podcast episode.
+</li>
+<li>
+<span class="font-semibold">⋯ MORE</span>
+→
+<span class="font-semibold">Create a clip</span>
+</li>
+</ul>
+</div>
+<div>
+<div class="mt-4">
+<a href="https://cdn-images-1.listennotes.com/web/image/0b64235f76774bc6b58653dfcd44e7c0.png" title="Click to see large image" data-action="image-modal-trigger" data-detail="{&quot;image&quot;: &quot;https://cdn-images-1.listennotes.com/web/image/0b64235f76774bc6b58653dfcd44e7c0.png&quot; }">
+<img src="https://cdn-images-1.listennotes.com/web/image/0b64235f76774bc6b58653dfcd44e7c0.png" class="shadow rounded-md hover:opacity-50" alt="CREATE PODCAST CLIPS">
+</a>
+</div>
+</div>
+</div>
+<div class="col-span-1">
+<div class="mb-4">
+<div class="rounded-full inline-flex justify-center items-center bg-brand-200 text-brand-500 w-14 h-14 inline">
+<div class="w-6">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M503.691 189.836L327.687 37.851C312.281 24.546 288 35.347 288 56.015v80.053C127.371 137.907 0 170.1 0 322.326c0 61.441 39.581 122.309 83.333 154.132 13.653 9.931 33.111-2.533 28.077-18.631C66.066 312.814 132.917 274.316 288 272.085V360c0 20.7 24.3 31.453 39.687 18.164l176.004-152c11.071-9.562 11.086-26.753 0-36.328z"></path></svg>
+</div>
+</div>
+</div>
+<div class="font-bold text-lg mb-8">
+SHARE
+</div>
+<div class="text-normal mb-8">
+<div>
+Share the link of a clip to social media. Get an embedded player automatically. (<a href="https://twitter.com/wenbinf/status/1305773175922327554" class="text-brand-500 font-semibold" target="_blank" rel="nofollow noreferrer" title="Embedded player on Twitter">Example</a>)
+</div>
+</div>
+<div>
+<div class="mt-4">
+<a href="https://cdn-images-1.listennotes.com/web/image/983ddf47deb14e45848f25e2adec26a0.png" title="Click to see large image" data-action="image-modal-trigger" data-detail="{&quot;image&quot;: &quot;https://cdn-images-1.listennotes.com/web/image/983ddf47deb14e45848f25e2adec26a0.png&quot; }">
+<img src="https://cdn-images-1.listennotes.com/web/image/983ddf47deb14e45848f25e2adec26a0.png" class="shadow rounded-md hover:opacity-50" alt="SHARE">
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="mt-16">
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-16">
+<div class="col-span-1">
+<div class="mb-4">
+<div class="rounded-full inline-flex justify-center items-center bg-brand-200 text-brand-500 w-14 h-14 inline">
+<div class="w-6">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M216 0h80c13.3 0 24 10.7 24 24v168h87.7c17.8 0 26.7 21.5 14.1 34.1L269.7 378.3c-7.5 7.5-19.8 7.5-27.3 0L90.1 226.1c-12.6-12.6-3.7-34.1 14.1-34.1H192V24c0-13.3 10.7-24 24-24zm296 376v112c0 13.3-10.7 24-24 24H24c-13.3 0-24-10.7-24-24V376c0-13.3 10.7-24 24-24h146.7l49 49c20.1 20.1 52.5 20.1 72.6 0l49-49H488c13.3 0 24 10.7 24 24zm-124 88c0-11-9-20-20-20s-20 9-20 20 9 20 20 20 20-9 20-20zm64 0c0-11-9-20-20-20s-20 9-20 20 9 20 20 20 20-9 20-20z"></path></svg>
+</div>
+</div>
+</div>
+<div class="font-bold text-lg mb-8">
+DOWNLOAD VIDEO / AUDIO
+</div>
+<div class="text-normal mb-8">
+<ul class="list-decimal list-inside">
+<li>
+Go to a clip page. (<a href="https://www.listennotes.com/clips/kevin-systrom-and-mike-krieger-how-to-build-a-1veL6PJ8mw-/" class="text-brand-500 font-semibold" target="_blank">Example</a>)
+</li>
+<li>
+<span class="font-semibold">DOWNLOAD</span>
+→
+<span class="font-semibold">Video clip file / Audio clip file</span>
+</li>
+</ul>
+</div>
+<div>
+<div class="mt-4">
+<a href="https://production.listennotes.com/web/image/fe73d366e16d4631b1580831118c171a.png" title="Click to see large image" data-action="image-modal-trigger" data-detail="{&quot;image&quot;: &quot;https://production.listennotes.com/web/image/fe73d366e16d4631b1580831118c171a.png&quot; }">
+<img src="https://production.listennotes.com/web/image/fe73d366e16d4631b1580831118c171a.png" class="shadow rounded-md hover:opacity-50" alt="DOWNLOAD VIDEO / AUDIO">
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content>
+    </entry>
+</feed>
