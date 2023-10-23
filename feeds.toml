@@ -21,3 +21,11 @@ entrySelector = "div[class^='imoveis__Card']"
 titleSelector = "span.contentCard h2"
 linkSelector = "span.contentCard a"
 contentSelector = "div[class^='imoveis__Card']"
+
+[ln-clips]
+title = "Listen Notes - clips"
+url = "https://www.listennotes.com/@aledts/podcast-clips/"
+entrySelector = "[role='tabpanel'] > div > div"
+titleSelector = "h3 > a"
+linkSelector = "h3 > a"
+contentSelector = ".ln-page-card > div > div:nth-child(2)"
