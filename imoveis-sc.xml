@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.imoveis-sc.com.br/florianopolis/apartamento/caeira-do-saco-dos-limoes_carvoeira_corrego-grande_jose-mendes_pantanal_saco-dos-limoes_trindade/quartos/1,2?page=1&amp;ordenacao=recentes&amp;valor=-2500&amp;area=30-</id>
     <title>Imóveis-SC</title>
-    <updated>2023-12-26T05:39:47.223Z</updated>
+    <updated>2023-12-26T17:39:44.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.imoveis-sc.com.br/front/img/favicon/favicon.ico</icon>
     <entry>
@@ -64,70 +64,62 @@
             </a>
         </div>
     </div>
-        <div class="imovel-imagem owl-carousel owl-theme owl-loaded">
-                        
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-580px, 0px, 0px); transition: all 0s ease 0s; width: 6380px;"><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-16-658156b0aa713653399884.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-17-658156b0aa7161138781329.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item active" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-0-658156b0aa6dc1003610031.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-1-658156b0aa6e11449298903.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-2-658156b0aa6e4997010513.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-3-658156b0aa6e71291830918.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-4-658156b0aa6ea370567673.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-5-658156b0aa6ed199306845.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-6-658156b0aa6f085720199.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-7-658156b0aa6f31681219062.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-8-658156b0aa6f785288525.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-9-658156b0aa6fa961055349.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-10-658156b0aa6fd797628372.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-11-658156b0aa700880802601.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-12-658156b0aa707616774828.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-13-658156b0aa70a1840233554.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-14-658156b0aa70d598383365.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-15-658156b0aa7102098599260.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-16-658156b0aa713653399884.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-17-658156b0aa7161138781329.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-0-658156b0aa6dc1003610031.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1301962.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1301962-1-658156b0aa6e11449298903.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 44.27 m² - 99893">
-        </a></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style=""><i class="fa fa-angle-left"></i></div><div class="owl-next" style=""><i class="fa fa-angle-right"></i></div></div><div style="display: none;" class="owl-dots"></div></div></div>
+        </a>
+                    </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1301962" data-value="1">
 	<i class="fa fa-heart-o "></i>
@@ -186,82 +178,74 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1301706">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 394.625" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 391.2916" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
         </div>
     </div>
-        <div class="imovel-imagem owl-carousel owl-theme owl-loaded">
-                        
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-580px, 0px, 0px); transition: all 0s ease 0s; width: 6960px;"><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-18-6582a86421f05223461416.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-19-6582a86421f091778006334.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item active" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-0-6582a86421eba1217839048.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-1-6582a86421ec11779498110.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-2-6582a86421ec82140159966.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-3-6582a86421ece482962135.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-4-6582a86421ed32112637732.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-5-6582a86421ed71809676609.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-6-6582a86421eda1117465449.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-7-6582a86421ede790243714.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-8-6582a86421ee12104693673.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-9-6582a86421ee51982413944.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-10-6582a86421ee81836149421.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-11-6582a86421eec679292608.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-12-6582a86421ef01156629575.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-13-6582a86421ef3972418576.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-14-6582a86421ef7344854638.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-15-6582a86421efb1396460989.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-16-6582a86421efe294330037.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-17-6582a86421f0275388912.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-18-6582a86421f05223461416.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-19-6582a86421f091778006334.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-0-6582a86421eba1217839048.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1301706.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1301706-1-6582a86421ec11779498110.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 44.93 m² - 121718">
-        </a></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style=""><i class="fa fa-angle-left"></i></div><div class="owl-next" style=""><i class="fa fa-angle-right"></i></div></div><div style="display: none;" class="owl-dots"></div></div></div>
+        </a>
+                    </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1301706" data-value="1">
 	<i class="fa fa-heart-o "></i>
@@ -325,52 +309,44 @@
             </a>
         </div>
     </div>
-        <div class="imovel-imagem owl-carousel owl-theme owl-loaded">
-                        
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-620px, 0px, 0px); transition: all 0s ease 0s; width: 4960px;"><div class="owl-item cloned" style="width: 310px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1300559-10-65783013ab2591940042969.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios - LC141">
-        </a></div><div class="owl-item cloned" style="width: 310px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1300559-11-65783013ab261985561304.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios - LC141">
-        </a></div><div class="owl-item active" style="width: 310px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1300559-0-65783013ab213367875669.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios - LC141">
-        </a></div><div class="owl-item" style="width: 310px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1300559-1-65783013ab21c359336333.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios - LC141">
-        </a></div><div class="owl-item" style="width: 310px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1300559-2-65783013ab2231206222099.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios - LC141">
-        </a></div><div class="owl-item" style="width: 310px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1300559-3-65783013ab22a474551769.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios - LC141">
-        </a></div><div class="owl-item" style="width: 310px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1300559-4-65783013ab231855428389.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios - LC141">
-        </a></div><div class="owl-item" style="width: 310px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1300559-5-65783013ab238535597828.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios - LC141">
-        </a></div><div class="owl-item" style="width: 310px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1300559-6-65783013ab23e252067190.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios - LC141">
-        </a></div><div class="owl-item" style="width: 310px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1300559-7-65783013ab245733764860.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios - LC141">
-        </a></div><div class="owl-item" style="width: 310px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1300559-8-65783013ab24c836317421.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios - LC141">
-        </a></div><div class="owl-item" style="width: 310px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1300559-9-65783013ab2531776485752.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios - LC141">
-        </a></div><div class="owl-item" style="width: 310px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1300559-10-65783013ab2591940042969.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios - LC141">
-        </a></div><div class="owl-item" style="width: 310px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1300559-11-65783013ab261985561304.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios - LC141">
-        </a></div><div class="owl-item cloned" style="width: 310px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1300559-0-65783013ab213367875669.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios - LC141">
-        </a></div><div class="owl-item cloned" style="width: 310px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1300559.html?isc_source=SD" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1300559-1-65783013ab21c359336333.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios - LC141">
-        </a></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style=""><i class="fa fa-angle-left"></i></div><div class="owl-next" style=""><i class="fa fa-angle-right"></i></div></div><div style="display: none;" class="owl-dots"></div></div></div>
+        </a>
+                    </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1300559" data-value="1">
 	<i class="fa fa-heart-o "></i>
@@ -439,94 +415,86 @@
             </a>
         </div>
     </div>
-        <div class="imovel-imagem owl-carousel owl-theme owl-loaded">
-                        
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-580px, 0px, 0px); transition: all 0s ease 0s; width: 8700px;"><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-24-658692d25f2711738188962.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-25-658692d25f2751283157351.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item active" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-0-658692d25f21b1962384788.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-1-64a536021c797902699846.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-2-64a536021c799607634382.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-3-64a536021c79b832478420.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-4-64a536021c79d925852666.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-5-64a536021c79f1888441545.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-6-64a536021c7a11826876952.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-7-64a536021c7a3842489028.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-8-64a536021c7a51538670730.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-9-64a536021c7a7529386802.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-10-64a536021c7a91261331527.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-11-64a536021c7ad447548866.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-12-64a536021c7af1650471797.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-13-64a536021c7b1754876549.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-14-64a536021c7b31460221822.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-15-658692d25f251962040474.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-16-658692d25f2551217350767.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-17-658692d25f2581895797781.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-18-658692d25f25c1177112770.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-19-658692d25f260371307196.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-20-658692d25f2631003593527.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-21-658692d25f267150580324.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-22-658692d25f26a573513409.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-23-658692d25f26e1517379749.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-24-658692d25f2711738188962.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-25-658692d25f2751283157351.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-0-658692d25f21b1962384788.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/saco-dos-limoes/apartamento-florianopolis-saco-dos-limoes-1223524.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-sacodoslimoes-1223524-1-64a536021c797902699846.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Saco dos Limões em Florianópolis com 1 Dormitórios (1 suíte) e 45 m² - 118998">
-        </a></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style=""><i class="fa fa-angle-left"></i></div><div class="owl-next" style=""><i class="fa fa-angle-right"></i></div></div><div style="display: none;" class="owl-dots"></div></div></div>
+        </a>
+                    </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1223524" data-value="1">
 	<i class="fa fa-heart-o "></i>
@@ -587,61 +555,53 @@
             </a>
         </div>
     </div>
-        <div class="imovel-imagem owl-carousel owl-theme owl-loaded">
-                        
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-580px, 0px, 0px); transition: all 0s ease 0s; width: 5510px;"><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-13-65339a1eb62461206838534.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-14-65339a1eb6248987550430.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item active" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-0-65339a1eb62271288928705.jpg" class="" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-1-65339a1eb622b138865275.jpg" class="" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-2-65339a1eb622e1473634185.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-3-65339a1eb62301476028599.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-4-65339a1eb62322092598033.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-5-65339a1eb6234780831401.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-6-65339a1eb62371616561499.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-7-65339a1eb62391205592042.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-8-65339a1eb623b115290756.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-9-65339a1eb623d564604084.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-10-65339a1eb6240332344222.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-11-65339a1eb6242469850095.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-12-65339a1eb6244983312696.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-13-65339a1eb62461206838534.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-14-65339a1eb6248987550430.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-0-65339a1eb62271288928705.jpg" class="" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/jose-mendes/apartamento-florianopolis-jose-mendes-1197629.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-josemendes-1197629-1-65339a1eb622b138865275.jpg" class="" width="290" height="250" alt="Apartamento no Bairro José Mendes em Florianópolis com 2 Dormitórios e 60 m² - 118264">
-        </a></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style=""><i class="fa fa-angle-left"></i></div><div class="owl-next" style=""><i class="fa fa-angle-right"></i></div></div><div style="display: none;" class="owl-dots"></div></div></div>
+        </a>
+                    </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1197629" data-value="1">
 	<i class="fa fa-heart-o "></i>
@@ -706,70 +666,62 @@
             </a>
         </div>
     </div>
-        <div class="imovel-imagem owl-carousel owl-theme owl-loaded">
-                        
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-580px, 0px, 0px); transition: all 0s ease 0s; width: 6380px;"><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-16-65699950975651369757732.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-17-65699950975671670543643.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item active" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-0-65699950975392060286847.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-1-63bfcaad08aae540588429.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-2-656999509753f926825637.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-3-65699950975411053497972.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-4-65699950975441284284195.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-5-6569995097546972368989.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-6-65699950975481035932713.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-7-656999509754a64693035.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-8-656999509754c993720370.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-9-656999509754e962904197.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-10-65699950975582102114072.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-11-656999509755b412423428.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-12-656999509755d2106598918.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-13-656999509755f1942659534.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-14-65699950975611517366542.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-15-65699950975631659946000.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-16-65699950975651369757732.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-17-65699950975671670543643.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-0-65699950975392060286847.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1184717.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1184717-1-63bfcaad08aae540588429.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 30.33 m² - 117930">
-        </a></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style=""><i class="fa fa-angle-left"></i></div><div class="owl-next" style=""><i class="fa fa-angle-right"></i></div></div><div style="display: none;" class="owl-dots"></div></div></div>
+        </a>
+                    </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1184717" data-value="1">
 	<i class="fa fa-heart-o "></i>
@@ -834,55 +786,47 @@
             </a>
         </div>
     </div>
-        <div class="imovel-imagem owl-carousel owl-theme owl-loaded">
-                        
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-580px, 0px, 0px); transition: all 0s ease 0s; width: 4930px;"><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-11-658692d2cecff759857577.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-12-658692d2ced031089777218.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div><div class="owl-item active" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-0-63049c426daf81657841315.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-1-658692d2cecdb1363249518.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-2-658692d2cecdf2039441533.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-3-658692d2cece31199496591.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-4-658692d2cece71896380533.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-5-658692d2cecea2062048868.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-6-658692d2cecee2019212162.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-7-658692d2cecf11520081709.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-8-658692d2cecf51744021500.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-9-658692d2cecf81253401451.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-10-658692d2cecfc1456097945.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-11-658692d2cecff759857577.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-12-658692d2ced031089777218.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-0-63049c426daf81657841315.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1141598.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1141598-1-658692d2cecdb1363249518.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 116663">
-        </a></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style=""><i class="fa fa-angle-left"></i></div><div class="owl-next" style=""><i class="fa fa-angle-right"></i></div></div><div style="display: none;" class="owl-dots"></div></div></div>
+        </a>
+                    </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1141598" data-value="1">
 	<i class="fa fa-heart-o "></i>
@@ -947,97 +891,89 @@
             </a>
         </div>
     </div>
-        <div class="imovel-imagem owl-carousel owl-theme owl-loaded">
-                        
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-580px, 0px, 0px); transition: all 0s ease 0s; width: 8990px;"><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-25-658156b0d217a729455328.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-26-658156b0d217d2140449161.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item active" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-0-658156b0d211a280162871.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-1-658156b0d211f966456994.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-2-658156b0d2123178311301.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-3-658156b0d21261510162893.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-4-658156b0d2129240777978.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-5-658156b0d212c988323317.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-6-658156b0d213a660260982.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-7-658156b0d213d436869236.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-8-658156b0d2141394231800.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-9-658156b0d21441313557950.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-10-658156b0d21471740675140.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-11-658156b0d214a1729426346.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-12-658156b0d214e1391541202.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-13-658156b0d2151635782153.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-14-658156b0d21541880680141.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-15-658156b0d21572133367657.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-16-658156b0d215a1588798791.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-17-658156b0d2160113409571.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-18-658156b0d216345903654.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-19-658156b0d21661065119165.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-20-658156b0d2169210767042.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-21-658156b0d216d1389108788.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-22-658156b0d2170578169789.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-23-658156b0d2173596627942.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-24-658156b0d2177156966653.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-25-658156b0d217a729455328.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-26-658156b0d217d2140449161.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-0-658156b0d211a280162871.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-1-658156b0d211f966456994.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style=""><i class="fa fa-angle-left"></i></div><div class="owl-next" style=""><i class="fa fa-angle-right"></i></div></div><div style="display: none;" class="owl-dots"></div></div></div>
+        </a>
+                    </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1026357" data-value="1">
 	<i class="fa fa-heart-o "></i>
@@ -1236,7 +1172,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/867406">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 476.2202" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 473.8668" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
