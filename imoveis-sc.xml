@@ -2,9 +2,192 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.imoveis-sc.com.br/florianopolis/apartamento/caeira-do-saco-dos-limoes_carvoeira_corrego-grande_jose-mendes_pantanal_saco-dos-limoes_trindade/quartos/1,2?page=1&amp;ordenacao=recentes&amp;valor=-2500&amp;area=30-</id>
     <title>Imóveis-SC</title>
-    <updated>2024-01-26T05:39:31.722Z</updated>
+    <updated>2024-01-26T17:39:30.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.imoveis-sc.com.br/front/img/favicon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120]]></title>
+        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html</id>
+        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html"/>
+        <updated>2024-01-26T17:39:21.990Z</updated>
+        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1312779">
+<input type="hidden" name="totalvalue" id="totalvalue" value="0">
+<input type="hidden" name="category" id="category" value="Aluguel">
+    <div class="imovel-data">
+        <header class="imovel-header">
+            <h2 class="imovel-titulo">
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html">
+                    Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120
+
+                    <meta itemprop="name" content="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+                    <meta itemprop="brand" content="Auxiliadora Predial - Florianópolis - Lagoa da Conceição">
+                    <meta itemprop="model" content="Apartamento">
+                    <meta itemprop="sku" content="459120">
+                </a>
+            </h2>
+            <div class="imovel-extra">
+                <strong>Florianópolis, Pantanal</strong>
+                <span>Cód.: 459120</span>
+                
+            </div>
+        </header>
+                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
+             <small itemprop="price">Consultar</small>
+            <meta itemprop="priceCurrency" content="BRL">
+            <meta itemprop="lowprice" content="">
+        </span>
+        <p class="imovel-descricao">
+            Apartamentos em Florianópolis
+        </p>
+        <ul class="imovel-info">
+                                    <li>
+                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
+                <span><strong>2</strong> quartos</span>
+            </li>
+                                    <li>
+                <i class="mdi mdi-shower mdi-30px"></i>
+                <span><strong>1</strong> suíte</span>
+            </li>
+                                    <li>
+                <i class="mdi mdi-car mdi-30px"></i>
+                <span><strong>2</strong> vagas</span>
+            </li>
+                                                 </ul>
+        <div class="imovel-actions">
+            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
+            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1312779">
+                Entrar em contato
+            </button>
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/auxiliadora-predial-florianopolis-lagoa-da-conceicao" class="fright imovel-anunciante" title="Auxiliadora Predial - Florianópolis - Lagoa da Conceição - 277.5" style="background-image: url(https://admin.imoveis-sc.com.br/media/anunciantes/logotipo-65af065097ff820240122212032.png)">
+                
+                
+            </a>
+        </div>
+    </div>
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-0-65b373dee04a7570652069.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-1-65b373dee04ab1866167202.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-2-65b373dee04ad436934275.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-3-65b373dee04af1095100755.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-4-65b373dee04b12003712051.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-5-65b373dee04b4811465636.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-6-65b373dee04b61074693846.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-7-65b373dee04b8425076482.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-8-65b373dee04ba2003802.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-9-65b373dee04bd456654321.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-10-65b373dee04bf671156208.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-11-65b373dee04c11632441699.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-12-65b373dee04c32013898728.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-13-65b373dee04c61224613903.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-14-65b373dee04c9634234523.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-15-65b373dee04cb1940544300.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-16-65b373dee04cd1317514728.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-17-65b373dee04cf1103617892.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-18-65b373dee04d21472619776.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-19-65b373dee04d4238690062.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-20-65b373dee04d6605063957.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-21-65b373dee04d8801887347.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-22-65b373dee04db1552808422.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-23-65b373dee04dd547239058.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-24-65b373dee04df2135866845.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-25-65b373dee04e1683961453.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-26-65b373dee04e41507399683.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-27-65b373dee04e61873697156.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-28-65b373dee04e8309254703.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-29-65b373dee04ea1323325926.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-30-65b373dee04ec1384525498.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-31-65b373dee04ef1639805680.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-32-65b373dee04f1117008870.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-33-65b373dee04f3880849551.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-34-65b373dee04f550940004.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-35-65b373dee04f7871246013.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-36-65b373dee04fa1477803314.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-37-65b373dee04fc848372590.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1312779.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1312779-38-65b373dee04fe1687971642.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) - 459120">
+        </a>
+                    </div>
+
+    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1312779" data-value="1">
+	<i class="fa fa-heart-o "></i>
+</button>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 50 m² - 122122]]></title>
         <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1307983.html</id>
@@ -37,7 +220,7 @@
             <meta itemprop="lowprice" content="2.100,00">
         </span>
         <p class="imovel-descricao">
-            Apartamentos em Florianópolis - Apartamento próximo da UFSC, 01 dormitório, banheiro,  sala, cozinha com...
+            Apartamentos em Florianópolis - Apartamento para alugar no bairro Carvoeira em Florianópolis. Com 1 dormitório,...
         </p>
         <ul class="imovel-info">
                                     <li>
@@ -58,7 +241,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1307983">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 204.15" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 216.825" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -66,218 +249,41 @@
     </div>
         <div class="imovel-imagem owl-carousel owl-theme ">
                         <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1307983.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1307983-0-65b0c295589921054437838.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 50 m² - 122122">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1307983-0-65b36593f039798564163.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 50 m² - 122122">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1307983.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1307983-1-65b0c295589961824202889.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 50 m² - 122122">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1307983-1-65b36593f039b857760628.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 50 m² - 122122">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1307983.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1307983-2-65b36593f039f1098639715.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 50 m² - 122122">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1307983.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1307983-3-65b36593f03a21312737599.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 50 m² - 122122">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1307983.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1307983-4-65b36593f03a51919827587.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 50 m² - 122122">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1307983.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1307983-5-65b36593f03a81661460051.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 50 m² - 122122">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1307983.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1307983-6-65b36593f03ab399039051.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 50 m² - 122122">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1307983.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1307983-7-65b36593f03af1572961101.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 50 m² - 122122">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1307983.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1307983-8-65b36593f03b22044841036.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 50 m² - 122122">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1307983.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1307983-9-65b36593f03b5921033998.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 50 m² - 122122">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1307983.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1307983-10-65b36593f03b8848521735.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 50 m² - 122122">
         </a>
                     </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1307983" data-value="1">
-	<i class="fa fa-heart-o "></i>
-</button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223]]></title>
-        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html</id>
-        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html"/>
-        <updated>2024-01-23T05:39:13.878Z</updated>
-        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1306877">
-<input type="hidden" name="totalvalue" id="totalvalue" value="0">
-<input type="hidden" name="category" id="category" value="Aluguel">
-    <div class="imovel-data">
-        <header class="imovel-header">
-            <h2 class="imovel-titulo">
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html">
-                    Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223
-
-                    <meta itemprop="name" content="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-                    <meta itemprop="brand" content="Auxiliadora Predial - Florianópolis - Santa Mônica">
-                    <meta itemprop="model" content="Apartamento">
-                    <meta itemprop="sku" content="459223">
-                </a>
-            </h2>
-            <div class="imovel-extra">
-                <strong>Florianópolis, Pantanal</strong>
-                <span>Cód.: 459223</span>
-                
-            </div>
-        </header>
-                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
-             <small itemprop="price">Consultar</small>
-            <meta itemprop="priceCurrency" content="BRL">
-            <meta itemprop="lowprice" content="">
-        </span>
-        <p class="imovel-descricao">
-            Apartamentos em Florianópolis
-        </p>
-        <ul class="imovel-info">
-                                    <li>
-                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
-                <span><strong>1</strong> quarto</span>
-            </li>
-                                                                         </ul>
-        <div class="imovel-actions">
-            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
-            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1306877">
-                Entrar em contato
-            </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/auxiliadora-predial-florianopolis-santa-monica" class="fright imovel-anunciante" title="Auxiliadora Predial - Florianópolis - Santa Mônica - 205.5" style="background-image: url(https://admin.imoveis-sc.com.br/media/anunciantes/logotipo-65af0429e0ab120240122211121.png)">
-                
-                
-            </a>
-        </div>
-    </div>
-        <div class="imovel-imagem owl-carousel owl-theme ">
-                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306877-0-65af0459b87a8749902754.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306877-1-65af0459b87ac1741187430.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306877-2-65af0459b87af2009345164.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306877-3-65af0459b87b1129068188.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306877-4-65af0459b87b32097287763.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306877-5-65af0459b87b6140024317.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306877-6-65af0459b87b82051393578.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306877-7-65af0459b87ba1408472723.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306877-8-65af0459b87ce600632695.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306877-9-65af0459b87d11205985976.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306877-10-65af0459b87d41163337985.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306877-11-65af0459b87d6502761553.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306877-12-65af0459b87d91040887768.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306877-13-65af0459b87db850019209.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306877-14-65af0459b87dd862700319.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306877.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306877-15-65af0459b87e01840078491.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459223">
-        </a>
-                    </div>
-
-    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1306877" data-value="1">
-	<i class="fa fa-heart-o "></i>
-</button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459769]]></title>
-        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306869.html</id>
-        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306869.html"/>
-        <updated>2024-01-23T05:39:13.912Z</updated>
-        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1306869">
-<input type="hidden" name="totalvalue" id="totalvalue" value="0">
-<input type="hidden" name="category" id="category" value="Aluguel">
-    <div class="imovel-data">
-        <header class="imovel-header">
-            <h2 class="imovel-titulo">
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306869.html">
-                    Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459769
-
-                    <meta itemprop="name" content="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459769">
-                    <meta itemprop="brand" content="Auxiliadora Predial - Florianópolis - Santa Mônica">
-                    <meta itemprop="model" content="Apartamento">
-                    <meta itemprop="sku" content="459769">
-                </a>
-            </h2>
-            <div class="imovel-extra">
-                <strong>Florianópolis, Pantanal</strong>
-                <span>Cód.: 459769</span>
-                
-            </div>
-        </header>
-                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
-             <small itemprop="price">Consultar</small>
-            <meta itemprop="priceCurrency" content="BRL">
-            <meta itemprop="lowprice" content="">
-        </span>
-        <p class="imovel-descricao">
-            Apartamentos em Florianópolis
-        </p>
-        <ul class="imovel-info">
-                                    <li>
-                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
-                <span><strong>1</strong> quarto</span>
-            </li>
-                                                <li>
-                <i class="mdi mdi-car mdi-30px"></i>
-                <span><strong>1</strong> vaga</span>
-            </li>
-                                                 </ul>
-        <div class="imovel-actions">
-            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306869.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
-            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1306869">
-                Entrar em contato
-            </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/auxiliadora-predial-florianopolis-santa-monica" class="fright imovel-anunciante" title="Auxiliadora Predial - Florianópolis - Santa Mônica - 193.5" style="background-image: url(https://admin.imoveis-sc.com.br/media/anunciantes/logotipo-65af0429e0ab120240122211121.png)">
-                
-                
-            </a>
-        </div>
-    </div>
-        <div class="imovel-imagem owl-carousel owl-theme ">
-                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306869.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306869-0-65af0459b7b2e819465966.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459769">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306869.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306869-1-65af0459b7b321965703420.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459769">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306869.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306869-2-65af0459b7b34321652261.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459769">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306869.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306869-3-65af0459b7b37692622294.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459769">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306869.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306869-4-65af0459b7b393697252.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459769">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306869.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306869-5-65af0459b7b3b1607642552.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459769">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306869.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306869-6-65af0459b7b3e778283454.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459769">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306869.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306869-7-65af0459b7b401792885488.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459769">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306869.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306869-8-65af0459b7b421514936400.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459769">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306869.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306869-9-65af0459b7b451971942726.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459769">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306869.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306869-10-65af0459b7b47932075611.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459769">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1306869.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1306869-11-65af0459b7b49922225337.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios - 459769">
-        </a>
-                    </div>
-
-    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1306869" data-value="1">
 	<i class="fa fa-heart-o "></i>
 </button>]]></content>
     </entry>
@@ -482,7 +488,7 @@
         <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1304613.html"/>
         <updated>2024-01-13T17:39:21.433Z</updated>
         <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1304613">
-<input type="hidden" name="totalvalue" id="totalvalue" value="2000">
+<input type="hidden" name="totalvalue" id="totalvalue" value="2500">
 <input type="hidden" name="category" id="category" value="Aluguel">
     <div class="imovel-data">
         <header class="imovel-header">
@@ -503,9 +509,9 @@
             </div>
         </header>
                 <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
-            R$ <small itemprop="price">2.000,00</small>
+            R$ <small itemprop="price">2.500,00</small>
             <meta itemprop="priceCurrency" content="BRL">
-            <meta itemprop="lowprice" content="2.000,00">
+            <meta itemprop="lowprice" content="2.500,00">
         </span>
         <p class="imovel-descricao">
             Apartamentos em florianopolis - Excelente apartamento em ótima localização, próximo a UFSC, com 2 sacadas, garagem...
@@ -529,7 +535,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1304613">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 135.375" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 152.025" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -692,7 +698,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1304072">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 280.7416" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 279.1918" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -1189,153 +1195,6 @@
 </button>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712]]></title>
-        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html</id>
-        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html"/>
-        <updated>2023-12-19T17:39:19.585Z</updated>
-        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1026357">
-<input type="hidden" name="totalvalue" id="totalvalue" value="1700">
-<input type="hidden" name="category" id="category" value="Aluguel">
-    <div class="imovel-data">
-        <header class="imovel-header">
-            <h2 class="imovel-titulo">
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html">
-                    Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712
-
-                    <meta itemprop="name" content="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-                    <meta itemprop="brand" content="Ibagy Imóveis">
-                    <meta itemprop="model" content="Apartamento">
-                    <meta itemprop="sku" content="87712">
-                </a>
-            </h2>
-            <div class="imovel-extra">
-                <strong>Florianópolis, Pantanal</strong>
-                <span>Cód.: 87712</span>
-                
-            </div>
-        </header>
-                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
-            R$ <small itemprop="price">1.700,00</small>
-            <meta itemprop="priceCurrency" content="BRL">
-            <meta itemprop="lowprice" content="1.700,00">
-        </span>
-        <p class="imovel-descricao">
-            Apartamentos em Florianópolis - Apartamento com 1 quarto, cozinha com armários, área de serviço, sala com sacada,...
-        </p>
-        <ul class="imovel-info">
-                                    <li>
-                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
-                <span><strong>1</strong> quarto</span>
-            </li>
-                                                <li>
-                <i class="mdi mdi-car mdi-30px"></i>
-                <span><strong>1</strong> vaga</span>
-            </li>
-                                         <li>
-                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
-                    <span><strong>55,0</strong> m²</span>
-                </li>
-                                        </ul>
-        <div class="imovel-actions">
-            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
-            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1026357">
-                Entrar em contato
-            </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 416.32" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
-                
-                
-            </a>
-        </div>
-    </div>
-        <div class="imovel-imagem owl-carousel owl-theme ">
-                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-0-658156b0d211a280162871.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-1-658156b0d211f966456994.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-2-658156b0d2123178311301.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-3-658156b0d21261510162893.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-4-658156b0d2129240777978.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-5-658156b0d212c988323317.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-6-658156b0d213a660260982.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-7-658156b0d213d436869236.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-8-658156b0d2141394231800.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-9-658156b0d21441313557950.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-10-658156b0d21471740675140.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-11-658156b0d214a1729426346.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-12-658156b0d214e1391541202.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-13-658156b0d2151635782153.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-14-658156b0d21541880680141.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-15-658156b0d21572133367657.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-16-658156b0d215a1588798791.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-17-658156b0d2160113409571.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-18-658156b0d216345903654.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-19-658156b0d21661065119165.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-20-658156b0d2169210767042.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-21-658156b0d216d1389108788.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-22-658156b0d2170578169789.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-23-658156b0d2173596627942.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-24-658156b0d2177156966653.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-25-658156b0d217a729455328.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1026357.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1026357-26-658156b0d217d2140449161.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 1 Dormitórios e 55 m² - 87712">
-        </a>
-                    </div>
-
-    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1026357" data-value="1">
-	<i class="fa fa-heart-o "></i>
-</button>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539]]></title>
         <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html</id>
         <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html"/>
@@ -1742,6 +1601,218 @@
                     </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="910999" data-value="1">
+	<i class="fa fa-heart-o "></i>
+</button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334]]></title>
+        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html</id>
+        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html"/>
+        <updated>2024-01-26T17:39:22.160Z</updated>
+        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="813847">
+<input type="hidden" name="totalvalue" id="totalvalue" value="2500">
+<input type="hidden" name="category" id="category" value="Aluguel">
+    <div class="imovel-data">
+        <header class="imovel-header">
+            <h2 class="imovel-titulo">
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html">
+                    Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334
+
+                    <meta itemprop="name" content="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334">
+                    <meta itemprop="brand" content="Ibagy Imóveis">
+                    <meta itemprop="model" content="Apartamento">
+                    <meta itemprop="sku" content="107334">
+                </a>
+            </h2>
+            <div class="imovel-extra">
+                <strong>Florianópolis, Carvoeira</strong>
+                <span>Cód.: 107334</span>
+                
+            </div>
+        </header>
+                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
+            R$ <small itemprop="price">2.500,00</small>
+            <meta itemprop="priceCurrency" content="BRL">
+            <meta itemprop="lowprice" content="2.500,00">
+        </span>
+        <p class="imovel-descricao">
+            Apartamentos em Florianópolis - Apartamento mobiliado com 2 dormitórios, com armários,  camas de casal e...
+        </p>
+        <ul class="imovel-info">
+                                    <li>
+                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
+                <span><strong>2</strong> quartos</span>
+            </li>
+                                                <li>
+                <i class="mdi mdi-car mdi-30px"></i>
+                <span><strong>1</strong> vaga</span>
+            </li>
+                                         <li>
+                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
+                    <span><strong>58,5</strong> m²</span>
+                </li>
+                                        </ul>
+        <div class="imovel-actions">
+            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
+            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/813847">
+                Entrar em contato
+            </button>
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 355.0912" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+                
+                
+            </a>
+        </div>
+    </div>
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-813847-0-5fd493018e19e3187437.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-813847-1-65a39396923c2369829188.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-813847-2-65a39396923c595693182.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-813847-3-65a39396923c91327367957.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-813847-4-65a39396923cb1428095377.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-813847-5-65a39396923ce550603756.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-813847-6-65a39396923d2332018075.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-813847-7-65a39396923d523040223.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-813847-8-65a39396923d71238662124.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-813847-9-65a39396923da1459766922.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-813847-10-65a39396923de770418234.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-813847-11-65a39396923e1241168500.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-813847-12-65a39396923e41856787667.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-813847-13-65a39396923e72073768195.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-813847.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-813847-14-65a39396923ea757726020.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.5 m² - 107334">
+        </a>
+                    </div>
+
+    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="813847" data-value="1">
+	<i class="fa fa-heart-o "></i>
+</button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 76.46 m² - 107561]]></title>
+        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html</id>
+        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html"/>
+        <updated>2024-01-26T17:39:22.161Z</updated>
+        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="797285">
+<input type="hidden" name="totalvalue" id="totalvalue" value="2400">
+<input type="hidden" name="category" id="category" value="Aluguel">
+    <div class="imovel-data">
+        <header class="imovel-header">
+            <h2 class="imovel-titulo">
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html">
+                    Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 76.46 m² - 107561
+
+                    <meta itemprop="name" content="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 76.46 m² - 107561">
+                    <meta itemprop="brand" content="Ibagy Imóveis">
+                    <meta itemprop="model" content="Apartamento">
+                    <meta itemprop="sku" content="107561">
+                </a>
+            </h2>
+            <div class="imovel-extra">
+                <strong>Florianópolis, Trindade</strong>
+                <span>Cód.: 107561</span>
+                
+            </div>
+        </header>
+                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
+            R$ <small itemprop="price">2.400,00</small>
+            <meta itemprop="priceCurrency" content="BRL">
+            <meta itemprop="lowprice" content="2.400,00">
+        </span>
+        <p class="imovel-descricao">
+            Apartamentos em Florianópolis - Apartamento 02 dormitórios, sendo 01 com armários e piso laminado, sala de jantar...
+        </p>
+        <ul class="imovel-info">
+                                    <li>
+                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
+                <span><strong>2</strong> quartos</span>
+            </li>
+                                                                 <li>
+                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
+                    <span><strong>76,5</strong> m²</span>
+                </li>
+                                        </ul>
+        <div class="imovel-actions">
+            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
+            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/797285">
+                Entrar em contato
+            </button>
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 340.3914" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+                
+                
+            </a>
+        </div>
+    </div>
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-797285-0-5f8033b9e1aa41367741167.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 76.46 m² - 107561">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-797285-1-5fabb576515131960993510.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 76.46 m² - 107561">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-797285-2-5fabb576515c21372980287.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 76.46 m² - 107561">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-797285-3-5fabb576516721216152428.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 76.46 m² - 107561">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-797285-4-5fabb576517221500269734.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 76.46 m² - 107561">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-797285-5-5fabb576517d1946312014.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 76.46 m² - 107561">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-797285-6-5fabb57651881776947464.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 76.46 m² - 107561">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-797285-7-5fabb576519302061468348.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 76.46 m² - 107561">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-797285-8-5fabb576519df1527175783.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 76.46 m² - 107561">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-797285-9-5fabb57651a8e317181307.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 76.46 m² - 107561">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-797285-10-5fabb57651b3c176337644.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 76.46 m² - 107561">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-797285-11-5fabb57651bef304622782.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 76.46 m² - 107561">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-797285.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-797285-12-5fabb57651ca0727216476.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 76.46 m² - 107561">
+        </a>
+                    </div>
+
+    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="797285" data-value="1">
 	<i class="fa fa-heart-o "></i>
 </button>]]></content>
     </entry>
