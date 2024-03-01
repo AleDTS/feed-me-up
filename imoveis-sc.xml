@@ -2,9 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.imoveis-sc.com.br/florianopolis/apartamento/caeira-do-saco-dos-limoes_carvoeira_corrego-grande_jose-mendes_pantanal_saco-dos-limoes_trindade/quartos/1,2?page=1&amp;ordenacao=recentes&amp;valor=-2500&amp;area=30-</id>
     <title>Imóveis-SC</title>
-    <updated>2024-03-01T05:40:19.809Z</updated>
+    <updated>2024-03-01T17:42:57.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.imoveis-sc.com.br/front/img/favicon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios - 466600]]></title>
+        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1320789.html</id>
+        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1320789.html"/>
+        <updated>2024-03-01T17:42:49.598Z</updated>
+        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1320789">
+<input type="hidden" name="totalvalue" id="totalvalue" value="0">
+<input type="hidden" name="category" id="category" value="Aluguel">
+    <div class="imovel-data">
+        <header class="imovel-header">
+            <h2 class="imovel-titulo">
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1320789.html">
+                    Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios - 466600
+
+                    <meta itemprop="name" content="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios - 466600">
+                    <meta itemprop="brand" content="Auxiliadora Predial - Florianópolis - Santa Mônica">
+                    <meta itemprop="model" content="Apartamento">
+                    <meta itemprop="sku" content="466600">
+                </a>
+            </h2>
+            <div class="imovel-extra">
+                <strong>Florianópolis, Pantanal</strong>
+                <span>Cód.: 466600</span>
+                
+            </div>
+        </header>
+                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
+             <small itemprop="price">Consultar</small>
+            <meta itemprop="priceCurrency" content="BRL">
+            <meta itemprop="lowprice" content="">
+        </span>
+        <p class="imovel-descricao">
+            Apartamentos em Florianópolis
+        </p>
+        <ul class="imovel-info">
+                                    <li>
+                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
+                <span><strong>2</strong> quartos</span>
+            </li>
+                                                                         </ul>
+        <div class="imovel-actions">
+            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1320789.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
+            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1320789">
+                Entrar em contato
+            </button>
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/auxiliadora-predial-florianopolis-santa-monica" class="fright imovel-anunciante" title="Auxiliadora Predial - Florianópolis - Santa Mônica - 201" style="background-image: url(https://admin.imoveis-sc.com.br/media/anunciantes/logotipo-65af0429e0ab120240122211121.png)">
+                
+                
+            </a>
+        </div>
+    </div>
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1320789.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1320789-0-65e19862416be903148136.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios - 466600">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1320789.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1320789-1-65e19862416c42021331411.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios - 466600">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1320789.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1320789-2-65e19862416c7496441161.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios - 466600">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1320789.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1320789-3-65e19862416ca876427654.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios - 466600">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1320789.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1320789-4-65e19862416cc1102098652.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios - 466600">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1320789.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1320789-5-65e19862416ce2015428878.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios - 466600">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1320789.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1320789-6-65e19862416d01853378795.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios - 466600">
+        </a>
+                    </div>
+
+    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1320789" data-value="1">
+	<i class="fa fa-heart-o "></i>
+</button>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 25 m² - 122198]]></title>
         <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1313862.html</id>
@@ -573,7 +652,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1307983">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 351.8246" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 350.1012" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -891,7 +970,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1304613">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 456.8554" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 454.0246" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -989,7 +1068,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1304072">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 265.3512" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 263.7412" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -1125,7 +1204,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1304070">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 387.575" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 386.4774" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -1318,7 +1397,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1180174">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 120" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 365" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -1358,134 +1437,6 @@
                     </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1180174" data-value="1">
-	<i class="fa fa-heart-o "></i>
-</button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539]]></title>
-        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html</id>
-        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html"/>
-        <updated>2024-02-28T17:39:59.321Z</updated>
-        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1023584">
-<input type="hidden" name="totalvalue" id="totalvalue" value="1800">
-<input type="hidden" name="category" id="category" value="Aluguel">
-    <div class="imovel-data">
-        <header class="imovel-header">
-            <h2 class="imovel-titulo">
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html">
-                    Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539
-
-                    <meta itemprop="name" content="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-                    <meta itemprop="brand" content="Ibagy Imóveis">
-                    <meta itemprop="model" content="Apartamento">
-                    <meta itemprop="sku" content="115539">
-                </a>
-            </h2>
-            <div class="imovel-extra">
-                <strong>Florianópolis, Trindade</strong>
-                <span>Cód.: 115539</span>
-                
-            </div>
-        </header>
-                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
-            R$ <small itemprop="price">1.800,00</small>
-            <meta itemprop="priceCurrency" content="BRL">
-            <meta itemprop="lowprice" content="1.800,00">
-        </span>
-        <p class="imovel-descricao">
-            Apartamentos em Florianópolis - Apartamento semi mobiliado com dormitório e sala conjugados, cozinha com armário,...
-        </p>
-        <ul class="imovel-info">
-                                    <li>
-                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
-                <span><strong>1</strong> quarto</span>
-            </li>
-                                                                 <li>
-                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
-                    <span><strong>34,8</strong> m²</span>
-                </li>
-                                        </ul>
-        <div class="imovel-actions">
-            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
-            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1023584">
-                Entrar em contato
-            </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 362.8474" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
-                
-                
-            </a>
-        </div>
-    </div>
-        <div class="imovel-imagem owl-carousel owl-theme ">
-                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-0-65b214507a92c1138703505.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-1-65a24216a0f9f660792750.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-2-65a24216a0fa3970330070.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-3-65a24216a0fa82128252802.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-4-65a24216a0fac2120787905.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-5-65a24216a0fb02088086386.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-6-65a24216a0fb4321285745.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-7-65a24216a0fb81645199796.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-8-65a24216a0fbc838339422.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-9-65a24216a0fc01656579786.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-10-65b214507a9441091356372.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-11-65b214507a9481492202840.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-12-65b214507a94a453761071.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-13-65b214507a94c373308976.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-14-65b214507a94f106816253.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-15-65b214507a9511880919767.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-16-65b214507a9531923287933.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-17-65b214507a9552114248241.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-18-65b214507a9571905411547.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-19-65b214507a9591919064807.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-20-65b214507a95c77040060.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1023584.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1023584-21-65b214507a95e200542680.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 1 Dormitórios e 34.77 m² - 115539">
-        </a>
-                    </div>
-
-    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1023584" data-value="1">
 	<i class="fa fa-heart-o "></i>
 </button>]]></content>
     </entry>
