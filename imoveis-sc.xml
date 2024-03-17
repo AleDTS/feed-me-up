@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.imoveis-sc.com.br/florianopolis/apartamento/caeira-do-saco-dos-limoes_carvoeira_corrego-grande_jose-mendes_pantanal_saco-dos-limoes_trindade/quartos/1,2?page=1&amp;ordenacao=recentes&amp;valor=-2500&amp;area=30-</id>
     <title>Imóveis-SC</title>
-    <updated>2024-03-17T05:39:45.368Z</updated>
+    <updated>2024-03-17T17:39:37.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.imoveis-sc.com.br/front/img/favicon/favicon.ico</icon>
     <entry>
@@ -1073,7 +1073,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1304072">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 255.9642" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 258.2518" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -1141,7 +1141,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1304070">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 311.7174" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 312.9088" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -1426,7 +1426,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1023584">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 425.1628" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 425.825" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -1502,111 +1502,6 @@
                     </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1023584" data-value="1">
-	<i class="fa fa-heart-o "></i>
-</button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 38.19 m² - 112965]]></title>
-        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html</id>
-        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html"/>
-        <updated>2024-03-06T17:39:31.808Z</updated>
-        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="874386">
-<input type="hidden" name="totalvalue" id="totalvalue" value="1900">
-<input type="hidden" name="category" id="category" value="Aluguel">
-    <div class="imovel-data">
-        <header class="imovel-header">
-            <h2 class="imovel-titulo">
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html">
-                    Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 38.19 m² - 112965
-
-                    <meta itemprop="name" content="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 38.19 m² - 112965">
-                    <meta itemprop="brand" content="Ibagy Imóveis">
-                    <meta itemprop="model" content="Apartamento">
-                    <meta itemprop="sku" content="112965">
-                </a>
-            </h2>
-            <div class="imovel-extra">
-                <strong>Florianópolis, Carvoeira</strong>
-                <span>Cód.: 112965</span>
-                
-            </div>
-        </header>
-                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
-            R$ <small itemprop="price">1.900,00</small>
-            <meta itemprop="priceCurrency" content="BRL">
-            <meta itemprop="lowprice" content="1.900,00">
-        </span>
-        <p class="imovel-descricao">
-            Apartamentos em Florianópolis - Kitnet com 38m², cozinha com móveis planejados e bancada de pedra, banheiro com box...
-        </p>
-        <ul class="imovel-info">
-                                    <li>
-                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
-                <span><strong>1</strong> quarto</span>
-            </li>
-                                                <li>
-                <i class="mdi mdi-car mdi-30px"></i>
-                <span><strong>1</strong> vaga</span>
-            </li>
-                                         <li>
-                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
-                    <span><strong>38,2</strong> m²</span>
-                </li>
-                                        </ul>
-        <div class="imovel-actions">
-            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
-            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/874386">
-                Entrar em contato
-            </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 330.1268" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
-                
-                
-            </a>
-        </div>
-    </div>
-        <div class="imovel-imagem owl-carousel owl-theme ">
-                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-874386-0-63f87fa357f13446314683.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 38.19 m² - 112965">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-874386-1-65e2dc4a1f9161360018895.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 38.19 m² - 112965">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-874386-2-65e2dc4a1f91a520027626.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 38.19 m² - 112965">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-874386-3-65e2dc4a1f91d1235041007.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 38.19 m² - 112965">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-874386-4-65e2dc4a1f920520436170.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 38.19 m² - 112965">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-874386-5-65e2dc4a1f9241309177733.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 38.19 m² - 112965">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-874386-6-65e2dc4a1f927846670471.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 38.19 m² - 112965">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-874386-7-65e2dc4a1f92b530715101.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 38.19 m² - 112965">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-874386-8-65e2dc4a1f92e395432264.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 38.19 m² - 112965">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-874386-9-65e2dc4a1f9321888797291.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 38.19 m² - 112965">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-874386-10-65e2dc4a1f9411838408412.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 38.19 m² - 112965">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-874386-11-65e2dc4a1f9442097317900.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 38.19 m² - 112965">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-874386.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-874386-12-65e2dc4a1f9481346088749.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 1 Dormitórios e 38.19 m² - 112965">
-        </a>
-                    </div>
-
-    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="874386" data-value="1">
 	<i class="fa fa-heart-o "></i>
 </button>]]></content>
     </entry>
