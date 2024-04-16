@@ -2,16 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
     <title>Listen Notes - clips</title>
-    <updated>2024-04-16T05:39:21.735Z</updated>
+    <updated>2024-04-16T17:39:37.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.listennotes.com/static/v4/img/logo/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
         <link href="https://www.listennotes.com/@aledts/podcast-clips/"/>
-        <updated>2024-04-16T05:39:20.018Z</updated>
+        <updated>2024-04-16T17:39:36.073Z</updated>
         <content type="html"><![CDATA[<div class="flex-1 flex items-center text-sm text-helper-color">
-Page 1 of 16 clips
+Page 1 of 18 clips
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+II – Dias 428 a 431 | Nas cidades e no campo | 04 a 07/03/24]]></title>
+        <id>https://www.listennotes.com/podcast-clips/ii-dias-428-a-431-nas-cidades-e-no-campo-04-a-ZOIs1DczlQ0/</id>
+        <link href="https://www.listennotes.com/podcast-clips/ii-dias-428-a-431-nas-cidades-e-no-campo-04-a-ZOIs1DczlQ0/"/>
+        <updated>2024-04-16T17:39:36.265Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/ii-dias-428-a-431-nas-cidades-e-no-campo-04-a-ZOIs1DczlQ0/" title="II – Dias 428 a 431 | Nas cidades e no campo | 04 a 07/03/24">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/medo-e-delírio-em-brasília-central-3-podcasts-buLlBmz-4w8-v53FVSROA2j.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/ii-dias-428-a-431-nas-cidades-e-no-campo-04-a-ZOIs1DczlQ0/" title="II – Dias 428 a 431 | Nas cidades e no campo | 04 a 07/03/24" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+II – Dias 428 a 431 | Nas cidades e no campo | 04 a 07/03/24
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>yesterday</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/ii-dias-428-a-431-nas-cidades-e-no-campo-04-a-ZOIs1DczlQ0/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:00:00
+to 00:13:58
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+caso Jhonathan
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast Clip of
+II – Dias 466 a 468 | “A política da polícia” | 10 a 12/04/24]]></title>
+        <id>https://www.listennotes.com/podcast-clips/ii-dias-466-a-468-a-pol%C3%ADtica-da-pol%C3%ADcia-10-a-8zgNrnLQwDM/</id>
+        <link href="https://www.listennotes.com/podcast-clips/ii-dias-466-a-468-a-pol%C3%ADtica-da-pol%C3%ADcia-10-a-8zgNrnLQwDM/"/>
+        <updated>2024-04-16T17:39:36.268Z</updated>
+        <content type="html"><![CDATA[<div class="grid grid-cols-1 gap-4">
+<div class="flex">
+<div class="flex-none">
+<a href="https://www.listennotes.com/podcast-clips/ii-dias-466-a-468-a-política-da-polícia-10-a-8zgNrnLQwDM/" title="II – Dias 466 a 468 | “A política da polícia” | 10 a 12/04/24">
+<div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://production.listennotes.com/podcasts/medo-e-delírio-em-brasília-central-3-podcasts-buLlBmz-4w8-v53FVSROA2j.300x300.jpg')"></div>
+</a>
+</div>
+<div class="w-4"></div>
+<div class="flex-1">
+<h3 class="text-black text-base font-semibold w-full">
+<a href="https://www.listennotes.com/podcast-clips/ii-dias-466-a-468-a-política-da-polícia-10-a-8zgNrnLQwDM/" title="II – Dias 466 a 468 | “A política da polícia” | 10 a 12/04/24" class="line-clamp-2 ln-wrap-line">
+<span class="font-normal text-sm">Podcast Clip of</span>
+II – Dias 466 a 468 | “A política da polícia” | 10 a 12/04/24
+</a>
+</h3>
+<div class="text-muted-color text-sm mt-2">
+Created
+<time>yesterday</time>
+</div>
+</div>
+</div>
+<div class="bg-bggray-color p-4 rounded-md grid grid-cols-1 gap-8">
+<a href="https://www.listennotes.com/podcast-clips/ii-dias-466-a-468-a-política-da-polícia-10-a-8zgNrnLQwDM/" title="Click to play this clip">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 hover:opacity-50">
+<div class="col-span-1 grid grid-cols-1 gap-4">
+<div class="flex items-center">
+<div class="w-3 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M278.06 256L444.48 89.57c4.69-4.69 4.69-12.29 0-16.97-32.8-32.8-85.99-32.8-118.79 0L210.18 188.12l-24.86-24.86c4.31-10.92 6.68-22.81 6.68-35.26 0-53.02-42.98-96-96-96S0 74.98 0 128s42.98 96 96 96c4.54 0 8.99-.32 13.36-.93L142.29 256l-32.93 32.93c-4.37-.61-8.83-.93-13.36-.93-53.02 0-96 42.98-96 96s42.98 96 96 96 96-42.98 96-96c0-12.45-2.37-24.34-6.68-35.26l24.86-24.86L325.69 439.4c32.8 32.8 85.99 32.8 118.79 0 4.69-4.68 4.69-12.28 0-16.97L278.06 256zM96 160c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm0 256c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32z"></path></svg>
+</div>
+<div class="w-2"></div>
+<div class="text-sm">
+00:08:20
+to 00:14:40
+</div>
+</div>
+<div class="text-brand-500 font-semibold text-sm">
+Click to play
+<span class="ln-icon-arrow-right"></span>
+</div>
+</div>
+<div class="col-span-1 flex items-start">
+<div class="w-4 flex-none text-helper-color">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"></path></svg>
+</div>
+<div class="flex-none w-2"></div>
+<div class="text-base ln-wrap-line">
+rota, derrite e tarcísio
+</div>
+</div>
+</div>
+</a>
+<div></div>
+</div>
 </div>]]></content>
     </entry>
     <entry>
@@ -991,20 +1113,20 @@ Click to play
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[17]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
         <link href="https://www.listennotes.com/@aledts/podcast-clips/"/>
-        <updated>2024-04-16T05:39:20.023Z</updated>
+        <updated>2024-04-16T17:39:36.074Z</updated>
         <content type="html"><![CDATA[<a href="/podcast-clips/" class="ln-btn ln-btn-secondary">
 Curate your own podcast clips
 <span class="ln-icon-arrow-right"></span>
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
         <link href="https://www.listennotes.com/@aledts/podcast-clips/"/>
-        <updated>2024-04-16T05:39:20.025Z</updated>
+        <updated>2024-04-16T17:39:36.075Z</updated>
         <content type="html"><![CDATA[<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-16">
 <div class="col-span-1">
 <div class="mb-4">
