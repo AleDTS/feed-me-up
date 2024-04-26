@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
     <title>Listen Notes - clips</title>
-    <updated>2024-04-26T05:39:24.988Z</updated>
+    <updated>2024-04-26T17:39:49.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.listennotes.com/static/v4/img/logo/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
         <link href="https://www.listennotes.com/@aledts/podcast-clips/"/>
-        <updated>2024-04-26T05:39:24.173Z</updated>
+        <updated>2024-04-26T17:39:48.619Z</updated>
         <content type="html"><![CDATA[<div class="flex-1 flex items-center text-sm text-helper-color">
 Page 1 of 18 clips
 </div>]]></content>
@@ -1116,7 +1116,7 @@ Click to play
         <title type="html"><![CDATA[19]]></title>
         <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
         <link href="https://www.listennotes.com/@aledts/podcast-clips/"/>
-        <updated>2024-04-26T05:39:24.179Z</updated>
+        <updated>2024-04-26T17:39:48.634Z</updated>
         <content type="html"><![CDATA[<a href="/podcast-clips/" class="ln-btn ln-btn-secondary">
 Curate your own podcast clips
 <span class="ln-icon-arrow-right"></span>
@@ -1126,7 +1126,7 @@ Curate your own podcast clips
         <title type="html"><![CDATA[20]]></title>
         <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
         <link href="https://www.listennotes.com/@aledts/podcast-clips/"/>
-        <updated>2024-04-26T05:39:24.182Z</updated>
+        <updated>2024-04-26T17:39:48.634Z</updated>
         <content type="html"><![CDATA[<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-16">
 <div class="col-span-1">
 <div class="mb-4">
