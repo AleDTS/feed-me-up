@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
     <title>Listen Notes - clips</title>
-    <updated>2024-05-31T05:40:22.554Z</updated>
+    <updated>2024-05-31T17:39:44.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.listennotes.com/static/v4/img/logo/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
         <link href="https://www.listennotes.com/@aledts/podcast-clips/"/>
-        <updated>2024-05-31T05:40:20.802Z</updated>
+        <updated>2024-05-31T17:39:43.021Z</updated>
         <content type="html"><![CDATA[<div class="flex-1 flex items-center text-sm text-helper-color">
 Page 1 of 18 clips
 </div>]]></content>
@@ -1116,7 +1116,7 @@ Click to play
         <title type="html"><![CDATA[19]]></title>
         <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
         <link href="https://www.listennotes.com/@aledts/podcast-clips/"/>
-        <updated>2024-05-31T05:40:20.815Z</updated>
+        <updated>2024-05-31T17:39:43.023Z</updated>
         <content type="html"><![CDATA[<a href="/podcast-clips/" class="ln-btn ln-btn-secondary">
 Curate your own podcast clips
 <span class="ln-icon-arrow-right"></span>
@@ -1126,7 +1126,7 @@ Curate your own podcast clips
         <title type="html"><![CDATA[20]]></title>
         <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
         <link href="https://www.listennotes.com/@aledts/podcast-clips/"/>
-        <updated>2024-05-31T05:40:20.816Z</updated>
+        <updated>2024-05-31T17:39:43.025Z</updated>
         <content type="html"><![CDATA[<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-16">
 <div class="col-span-1">
 <div class="mb-4">
@@ -1172,7 +1172,7 @@ SHARE
 </div>
 <div class="text-normal mb-8">
 <div>
-Share the link of a clip to social media. Get an embedded player automatically. (<a href="https://twitter.com/wenbinf/status/1305773175922327554" class="text-brand-500 font-semibold" target="_blank" rel="nofollow noreferrer" title="Embedded player on Twitter">Example</a>)
+Share the link of a clip to social media. Get an embedded player automatically. (<a href="https://x.com/wenbinf/status/1305773175922327554" class="text-brand-500 font-semibold" target="_blank" rel="nofollow noreferrer" title="Embedded player on X (formerly Twitter)">Example</a>)
 </div>
 </div>
 <div>
