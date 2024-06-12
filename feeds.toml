@@ -42,3 +42,13 @@ linkSelector = "a"
 contentSelector = "a > div"
 dateSelector = "time"
 dateFormat = "dd/MM/yyyy HH'h'mm"
+
+[hubner]
+title = " Conrado Hübner Mendes | Folha"
+url = "https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"
+entrySelector = "div.c-headline"
+titleSelector = "h2"
+linkSelector = "a.c-headline__url"
+contentSelector = "p.c-headline__standfirst"
+dateSelector = "time"
+dateFormat = "d.MMM.yyyy 'às' HH'h'mm"
