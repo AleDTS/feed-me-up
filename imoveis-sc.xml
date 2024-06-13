@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.imoveis-sc.com.br/florianopolis/apartamento/caeira-do-saco-dos-limoes_carvoeira_corrego-grande_jose-mendes_pantanal_saco-dos-limoes_trindade/quartos/2,3?ordenacao=recentes&amp;valor=-4000&amp;area=30-</id>
     <title>Imóveis-SC</title>
-    <updated>2024-06-13T05:40:00.340Z</updated>
+    <updated>2024-06-13T17:39:52.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.imoveis-sc.com.br/front/img/favicon/favicon.ico</icon>
     <entry>
@@ -58,7 +58,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1344188">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 256.5" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 226.5" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -199,7 +199,7 @@
             <meta itemprop="lowprice" content="3.000,00">
         </span>
         <p class="imovel-descricao">
-            Apartamentos em Florianópolis
+            Apartamentos em Florianópolis - Apartamento para aluguel no ARQUIPELAGO, localizado na Rua Lauro Linhares, Trindade,...
         </p>
         <ul class="imovel-info">
                                     <li>
@@ -224,7 +224,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1343996">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 187.5" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 182.55" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -286,10 +286,61 @@
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-17-666563d40ed642049568222.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-18-66680967d43372062803924.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-18-666aabb3f19e41750436501.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-19-66680967d43391182088505.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-19-666aabb3f19e9961401315.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-20-666aabb3f19ef155687448.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-21-666aabb3f19f5481666453.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-22-666aabb3f19fb302359038.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-23-666aabb3f1a011883303941.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-24-666aabb3f1a061241670583.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-25-666aabb3f1a0c1085625555.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-26-666aabb3f1a121343041334.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-27-666aabb3f1a171177681059.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-28-666aabb3f1a1d921129064.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-29-666aabb3f1a231576169266.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-30-666aabb3f1a292114654421.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-31-666aabb3f1a2f1776475856.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-32-666aabb3f1a341306700834.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-33-666aabb3f1a3a1266006972.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-34-666aabb3f1a401153232349.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-35-666aabb3f1a45868450048.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1343996.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1343996-36-666aabb3f1a4b1667562584.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios (1 suíte) e 79 m² - 124346">
         </a>
                     </div>
 
@@ -354,7 +405,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1343836">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 170.1" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 140.1" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -374,52 +425,79 @@
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-3-66680967d4ae0781334206.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-4-66680967d4ae31819152866.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-4-666aabb3f2ad01447565850.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-5-66680967d4ae71027678746.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-5-666aabb3f2ad31307579814.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-6-66680967d4aeb34270764.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-6-666aabb3f2ad714281991.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-7-66680967d4afb460260490.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-7-666aabb3f2ada182126721.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-8-66680967d4afd1792802023.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-8-666aabb3f2add721650034.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-9-66680967d4b00825650726.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-9-666aabb3f2ae02045591422.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-10-66641344c1124848790282.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-10-666aabb3f2ae41172176133.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-11-66680967d4b051025611312.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-11-666aabb3f2ae7591744960.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-12-66680967d4b071542313128.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-12-666aabb3f2aea984499073.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-13-66680967d4b09186462560.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-13-666aabb3f2aed232483167.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-14-66680967d4b0c165304785.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-14-666aabb3f2af0667286713.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-15-66680967d4b0e805048472.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-15-666aabb3f2af4787576740.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-16-66680967d4b101978617200.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-16-666aabb3f2af8399974909.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-17-66680967d4b131735952828.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-17-666aabb3f2afb1516398086.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-18-66680967d4b151734442491.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-18-666aabb3f2afe1872137696.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-19-66680967d4b181341476261.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-19-666aabb3f2b01752059697.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-20-666aabb3f2b05991106328.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-21-666aabb3f2b081670819996.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-22-666aabb3f2b0b1399121368.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-23-666aabb3f2b0e1799021293.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-24-666aabb3f2b121187236548.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-25-666aabb3f2b162138785168.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-26-666aabb3f2b19210389729.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-27-666aabb3f2b1c409861188.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1343836.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1343836-28-666aabb3f2b201948862418.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 85 m² - 124343">
         </a>
                     </div>
 
@@ -459,7 +537,7 @@
             <meta itemprop="lowprice" content="2.700,00">
         </span>
         <p class="imovel-descricao">
-            Apartamentos em Florianópolis
+            Apartamentos em Florianópolis - Apartamento para aluguel na rua Jose Joao Martendal, Carvoeira com 58,99m² de...
         </p>
         <ul class="imovel-info">
                                     <li>
@@ -480,7 +558,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1343392">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 85.5" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 153.6" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -504,6 +582,48 @@
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1343392.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1343392-5-6662c728ccf341489517035.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.99 m² - 124326">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1343392.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1343392-6-666aabb4051f21004193915.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.99 m² - 124326">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1343392.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1343392-7-666aabb4051f5166450013.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.99 m² - 124326">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1343392.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1343392-8-666aabb4051f8108358484.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.99 m² - 124326">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1343392.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1343392-9-666aabb4051fb1084174896.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.99 m² - 124326">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1343392.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1343392-10-666aabb4051ff866137889.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.99 m² - 124326">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1343392.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1343392-11-666aabb4052021645704662.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.99 m² - 124326">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1343392.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1343392-12-666aabb4052051377323459.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.99 m² - 124326">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1343392.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1343392-13-666aabb4052081732477399.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.99 m² - 124326">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1343392.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1343392-14-666aabb40520b466230943.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.99 m² - 124326">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1343392.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1343392-15-666aabb40520e1125272579.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.99 m² - 124326">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1343392.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1343392-16-666aabb40521153361861.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.99 m² - 124326">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1343392.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1343392-17-666aabb4052141216333754.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.99 m² - 124326">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1343392.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1343392-18-666aabb405217937589582.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.99 m² - 124326">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1343392.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1343392-19-666aabb40521a1183314968.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 58.99 m² - 124326">
         </a>
                     </div>
 
@@ -1332,7 +1452,7 @@
         <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1337585.html"/>
         <updated>2024-06-12T18:58:57.112Z</updated>
         <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1337585">
-<input type="hidden" name="totalvalue" id="totalvalue" value="3400">
+<input type="hidden" name="totalvalue" id="totalvalue" value="3100">
 <input type="hidden" name="category" id="category" value="Aluguel">
     <div class="imovel-data">
         <header class="imovel-header">
@@ -1353,9 +1473,9 @@
             </div>
         </header>
                 <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
-            R$ <small itemprop="price">3.400,00</small>
+            R$ <small itemprop="price">3.100,00</small>
             <meta itemprop="priceCurrency" content="BRL">
-            <meta itemprop="lowprice" content="3.400,00">
+            <meta itemprop="lowprice" content="3.100,00">
         </span>
         <p class="imovel-descricao">
             Apartamentos em Florianópolis - Apartamento garden, sendo 02 dormitórios, com cama e armário e 01 quarto com split,...
