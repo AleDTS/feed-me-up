@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2024-06-19T17:39:46.510Z</updated>
+    <updated>2024-06-20T05:39:45.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Quem recusa convite de Gilmar?]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/06/quem-recusa-convite-de-gilmar.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/06/quem-recusa-convite-de-gilmar.shtml"/>
+        <updated>2024-06-19T16:45:00.000Z</updated>
+        <content type="html"><![CDATA[Perdas e ganhos do encontro anual do lobby político-advocatício-empresarial]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Barroso dá uma aula no Roda Viva]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/06/barroso-da-uma-aula-no-roda-viva.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[Quem não vota no PT pela corrupção faz o que com essa?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[O Jair em nós]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/06/o-jair-em-nos.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/06/o-jair-em-nos.shtml"/>
-        <updated>2022-06-01T18:34:00.000Z</updated>
-        <content type="html"><![CDATA[Quando nada acontece, há uma violação de direitos que não estamos vendo]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2024-06-19T17:39:40.733Z</updated>
+        <updated>2024-06-20T05:39:39.576Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
