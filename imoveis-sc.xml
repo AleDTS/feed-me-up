@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.imoveis-sc.com.br/florianopolis/apartamento/caeira-do-saco-dos-limoes_carvoeira_corrego-grande_jose-mendes_pantanal_saco-dos-limoes_trindade/quartos/2,3?ordenacao=recentes&amp;valor=-4000&amp;area=30-</id>
     <title>Imóveis-SC</title>
-    <updated>2024-07-03T05:39:36.492Z</updated>
+    <updated>2024-07-03T17:40:09.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.imoveis-sc.com.br/front/img/favicon/favicon.ico</icon>
     <entry>
@@ -58,7 +58,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1349295">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 172.8" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 142.8" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -159,122 +159,6 @@
 </button>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L]]></title>
-        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html</id>
-        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html"/>
-        <updated>2024-06-27T05:41:12.351Z</updated>
-        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1348681">
-<input type="hidden" name="totalvalue" id="totalvalue" value="3000">
-<input type="hidden" name="category" id="category" value="Aluguel">
-    <div class="imovel-data">
-        <header class="imovel-header">
-            <h2 class="imovel-titulo">
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html">
-                    Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L
-
-                    <meta itemprop="name" content="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-                    <meta itemprop="brand" content="Seiter Imobiliaria">
-                    <meta itemprop="model" content="Apartamento">
-                    <meta itemprop="sku" content="AP02885L">
-                </a>
-            </h2>
-            <div class="imovel-extra">
-                <strong>Florianópolis, Córrego Grande</strong>
-                <span>Cód.: AP02885L</span>
-                
-            </div>
-        </header>
-                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
-            R$ <small itemprop="price">3.000,00</small>
-            <meta itemprop="priceCurrency" content="BRL">
-            <meta itemprop="lowprice" content="3.000,00">
-        </span>
-        <p class="imovel-descricao">
-            Apartamento terreo de 2 quarto com 51 metros quadrados NOVO - Apartamento terreo de 2 quartos com 51 metros quadrados...
-        </p>
-        <ul class="imovel-info">
-                                    <li>
-                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
-                <span><strong>2</strong> quartos</span>
-            </li>
-                                                                 <li>
-                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
-                    <span><strong>51,0</strong> m²</span>
-                </li>
-                                        </ul>
-        <div class="imovel-actions">
-            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
-            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1348681">
-                Entrar em contato
-            </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/seiter-imobiliaria" class="fright imovel-anunciante" title="Seiter Imobiliaria - 189" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_65fc6cec313411936180922000.jpg)">
-                
-                
-            </a>
-        </div>
-    </div>
-        <div class="imovel-imagem owl-carousel owl-theme ">
-                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-0-667c5e69c70462063022839.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-1-667c5e69c7050891801798.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-2-667c5e69c7059203540006.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-3-667c5e69c7060872721671.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-4-667c5e69c7068716896420.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-5-667c5e69c70711576976138.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-6-667c5e69c70791575100812.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-7-667c5e69c7081744298390.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-8-667c5e69c70891157824396.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-9-667c5e69c7091791699587.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-10-667c5e69c70991029762716.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-11-667c5e69c70a1939952463.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-12-667c5e69c70a9735426955.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-13-667c5e69c70b1309543599.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-14-667c5e69c70b81971215790.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-15-667c5e69c70c01058893926.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-16-667c5e69c70c8358725183.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348681.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1348681-17-667c5e69c70d11301943781.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 51 m² - AP02885L">
-        </a>
-                    </div>
-
-    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1348681" data-value="1">
-	<i class="fa fa-heart-o "></i>
-</button>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios (1 suíte) e 90 m² - AP02905L]]></title>
         <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348679.html</id>
         <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1348679.html"/>
@@ -306,7 +190,7 @@
             <meta itemprop="lowprice" content="3.850,00">
         </span>
         <p class="imovel-descricao">
-            Apartamento 3 dormitorios corrego grande - Apartamento 3 quartos para aluguel corrego grande Florianopolis frente...
+            Apartamento 3 dormitorios corrego grande - Apartamento 3 quartos para aluguel Córrego Grande Florianopolis frente...
         </p>
         <ul class="imovel-info">
                                     <li>
@@ -2644,6 +2528,141 @@
                     </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1132849" data-value="1">
+	<i class="fa fa-heart-o "></i>
+</button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296]]></title>
+        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html</id>
+        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html"/>
+        <updated>2024-07-03T17:39:45.593Z</updated>
+        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="973749">
+<input type="hidden" name="totalvalue" id="totalvalue" value="2100">
+<input type="hidden" name="category" id="category" value="Aluguel">
+    <div class="imovel-data">
+        <header class="imovel-header">
+            <h2 class="imovel-titulo">
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html">
+                    Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296
+
+                    <meta itemprop="name" content="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+                    <meta itemprop="brand" content="Ibagy Imóveis">
+                    <meta itemprop="model" content="Apartamento">
+                    <meta itemprop="sku" content="108296">
+                </a>
+            </h2>
+            <div class="imovel-extra">
+                <strong>Florianópolis, Pantanal</strong>
+                <span>Cód.: 108296</span>
+                
+            </div>
+        </header>
+                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
+            R$ <small itemprop="price">2.100,00</small>
+            <meta itemprop="priceCurrency" content="BRL">
+            <meta itemprop="lowprice" content="2.100,00">
+        </span>
+        <p class="imovel-descricao">
+            Apartamentos em Florianópolis - Aconchegante apartamento para alugar no bairro Pantanal, em Florianópolis. Com...
+        </p>
+        <ul class="imovel-info">
+                                    <li>
+                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
+                <span><strong>2</strong> quartos</span>
+            </li>
+                                                <li>
+                <i class="mdi mdi-car mdi-30px"></i>
+                <span><strong>1</strong> vaga</span>
+            </li>
+                                         <li>
+                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
+                    <span><strong>62,0</strong> m²</span>
+                </li>
+                                        </ul>
+        <div class="imovel-actions">
+            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
+            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/973749">
+                Entrar em contato
+            </button>
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 147.075" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+                
+                
+            </a>
+        </div>
+    </div>
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-0-666959fb3f9571678947633.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-1-666959fb3f95b2034764616.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-2-666959fb3f9621120701463.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-3-666959fb3f964203462572.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-4-666959fb3f967171709159.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-5-666959fb3f9691464275841.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-6-666959fb3f96b1693624166.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-7-666959fb3f96d1464727392.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-8-666959fb3f9701573513409.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-9-666959fb3f972967377516.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-10-666959fb3f9742014977472.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-11-666959fb3f9761436796232.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-12-666959fb3f9781358198197.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-13-666959fb3f97a626312608.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-14-666959fb3f97d1722766498.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-15-666959fb3f97f360962403.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-16-666959fb3f9812135494745.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-17-666959fb3f983479663407.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-18-666959fb3f9852038039260.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-19-666959fb3f9871463323689.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-20-666959fb3f9891575383676.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-21-666959fb3f98b683136132.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-973749.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-973749-22-666959fb3f98e1170519065.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios e 62 m² - 108296">
+        </a>
+                    </div>
+
+    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="973749" data-value="1">
 	<i class="fa fa-heart-o "></i>
 </button>]]></content>
     </entry>
