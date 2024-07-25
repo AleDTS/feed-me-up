@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2024-07-24T17:40:09.721Z</updated>
+    <updated>2024-07-25T05:40:03.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Quer negociar seu direito comigo?]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/07/stf-tenta-transformar-direito-fundamental-indigena-em-escambo.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/07/stf-tenta-transformar-direito-fundamental-indigena-em-escambo.shtml"/>
+        <updated>2024-07-24T16:02:00.000Z</updated>
+        <content type="html"><![CDATA[STF tenta transformar direito fundamental indígena em escambo]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Código de Ética do STF: regras]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/07/codigo-de-etica-do-stf-regras.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[Orçamento secreto aluga centrão, seduz oposição, ainda libera e esconde o ladrão]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A ciência é um farol]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/07/a-ciencia-e-um-farol.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/07/a-ciencia-e-um-farol.shtml"/>
-        <updated>2022-07-06T21:53:00.000Z</updated>
-        <content type="html"><![CDATA[Nem todas as luzes foram apagadas na busca por novo projeto de país]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2024-07-24T17:40:04.532Z</updated>
+        <updated>2024-07-25T05:39:58.208Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
