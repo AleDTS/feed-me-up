@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2024-08-28T17:42:00.636Z</updated>
+    <updated>2024-08-29T05:41:41.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Manifesto Constitucionalista]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/08/manifesto-constitucionalista.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/08/manifesto-constitucionalista.shtml"/>
+        <updated>2024-08-28T21:22:00.000Z</updated>
+        <content type="html"><![CDATA[A medida do retrocesso brasileiro precisa ser calculada e demonstrada]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aviso]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/07/aviso-de-ferias.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[Não só viagra superfaturado infla potência espoliatória do militarismo acima da lei]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Corrupção bolsonarista, capítulo 6]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/07/corrupcao-bolsonarista-capitulo-6.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/07/corrupcao-bolsonarista-capitulo-6.shtml"/>
-        <updated>2022-07-20T16:59:00.000Z</updated>
-        <content type="html"><![CDATA[Corromper eleição com dinheiro, assédio, violência e desinformação]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2024-08-28T17:41:55.323Z</updated>
+        <updated>2024-08-29T05:41:36.103Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
