@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.imoveis-sc.com.br/florianopolis/apartamento/caeira-do-saco-dos-limoes_carvoeira_corrego-grande_jose-mendes_pantanal_saco-dos-limoes_trindade/quartos/2,3?ordenacao=recentes&amp;valor=-4000&amp;area=30-</id>
     <title>Imóveis-SC</title>
-    <updated>2024-08-29T05:41:41.689Z</updated>
+    <updated>2024-08-29T17:40:18.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.imoveis-sc.com.br/front/img/favicon/favicon.ico</icon>
     <entry>
@@ -62,7 +62,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1362901">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 110.775" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 104.775" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -73,13 +73,13 @@
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-0-66c846ace6851754779247.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1362901.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-1-66c846ace685e447107358.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-1-66d02facac8aa1055087293.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1362901.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-2-66c846ace686660931197.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-2-66d02facac8af429737359.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1362901.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-3-66c846ace686d352199329.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-3-66d02facac8b4845639944.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1362901.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-4-66c846ace68751017836311.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
@@ -88,22 +88,16 @@
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-5-66c846ace687c974141090.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1362901.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-6-66c846ace68841569186800.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-6-66d02facac8c3122593933.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1362901.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-7-66c846ace688b2042555120.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-7-66d02facac8c7205608442.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1362901.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-8-66c846ace6892522170951.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-8-66d02facac8cc1877824164.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
         </a>
                 <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1362901.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-9-66c846ace689a1457273342.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1362901.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-10-66c846ace68a1977068891.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1362901.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-11-66c846ace68a8993416609.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1362901-9-66d02facac8d1443322743.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios (1 suíte) e 63.38 m² - 125586">
         </a>
                     </div>
 
@@ -1032,132 +1026,6 @@
                     </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1361582" data-value="1">
-	<i class="fa fa-heart-o "></i>
-</button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160]]></title>
-        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html</id>
-        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html"/>
-        <updated>2024-08-19T17:39:40.174Z</updated>
-        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1361557">
-<input type="hidden" name="totalvalue" id="totalvalue" value="2900">
-<input type="hidden" name="category" id="category" value="Aluguel">
-    <div class="imovel-data">
-        <header class="imovel-header">
-            <h2 class="imovel-titulo">
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html">
-                    Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160
-
-                    <meta itemprop="name" content="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-                    <meta itemprop="brand" content="Ibagy Imóveis">
-                    <meta itemprop="model" content="Apartamento">
-                    <meta itemprop="sku" content="125160">
-                </a>
-            </h2>
-            <div class="imovel-extra">
-                <strong>Florianópolis, Córrego Grande</strong>
-                <span>Cód.: 125160</span>
-                
-            </div>
-        </header>
-                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
-            R$ <small itemprop="price">2.900,00</small>
-            <meta itemprop="priceCurrency" content="BRL">
-            <meta itemprop="lowprice" content="2.900,00">
-        </span>
-        <p class="imovel-descricao">
-            Apartamentos em Florianópolis - Apartamento semi mobiliado para alugar no bairro Córrego Grande em Florianópolis....
-        </p>
-        <ul class="imovel-info">
-                                    <li>
-                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
-                <span><strong>2</strong> quartos</span>
-            </li>
-                                                <li>
-                <i class="mdi mdi-car mdi-30px"></i>
-                <span><strong>2</strong> vagas</span>
-            </li>
-                                         <li>
-                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
-                    <span><strong>69,1</strong> m²</span>
-                </li>
-                                        </ul>
-        <div class="imovel-actions">
-            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
-            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1361557">
-                Entrar em contato
-            </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 156.6" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
-                
-                
-            </a>
-        </div>
-    </div>
-        <div class="imovel-imagem owl-carousel owl-theme ">
-                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-0-66c302c99fa3a382935344.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-1-66c302c99fa3d1651927588.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-2-66c302c99fa3f1731392874.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-3-66c302c99fa421240801795.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-4-66c302c99fa4472773355.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-5-66c302c99fa46198059501.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-6-66c302c99fa48141938891.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-7-66c302c99fa4b181701959.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-8-66c302c99fa4d207810095.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-9-66c302c99fa50739556202.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-10-66c302c99fa521390814868.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-11-66c302c99fa54459570011.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-12-66c302c99fa57249609697.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-13-66c302c99fa591642615855.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-14-66c302c99fa5b615880586.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-15-66c302c99fa5d1688307985.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-16-66c302c99fa601965622084.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-17-66c302c99fa621201939166.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-18-66c302c99fa661276710556.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1361557.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1361557-19-66c302c99fa681483264192.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 2 Dormitórios e 69.09 m² - 125160">
-        </a>
-                    </div>
-
-    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1361557" data-value="1">
 	<i class="fa fa-heart-o "></i>
 </button>]]></content>
     </entry>
@@ -2579,6 +2447,159 @@
                     </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1361362" data-value="1">
+	<i class="fa fa-heart-o "></i>
+</button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696]]></title>
+        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html</id>
+        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html"/>
+        <updated>2024-08-29T17:39:55.921Z</updated>
+        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1349295">
+<input type="hidden" name="totalvalue" id="totalvalue" value="2400">
+<input type="hidden" name="category" id="category" value="Aluguel">
+    <div class="imovel-data">
+        <header class="imovel-header">
+            <h2 class="imovel-titulo">
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html">
+                    Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696
+
+                    <meta itemprop="name" content="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+                    <meta itemprop="brand" content="Ibagy Imóveis">
+                    <meta itemprop="model" content="Apartamento">
+                    <meta itemprop="sku" content="124696">
+                </a>
+            </h2>
+            <div class="imovel-extra">
+                <strong>Florianópolis, Córrego Grande</strong>
+                <span>Cód.: 124696</span>
+                
+            </div>
+        </header>
+                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
+            R$ <small itemprop="price">2.400,00</small>
+            <meta itemprop="priceCurrency" content="BRL">
+            <meta itemprop="lowprice" content="2.400,00">
+        </span>
+        <p class="imovel-descricao">
+            Apartamentos em Florianópolis - Apartamento semi mobiliado com 3 quartos, sala, cozinha com armários, área de...
+        </p>
+        <ul class="imovel-info">
+                                    <li>
+                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
+                <span><strong>3</strong> quartos</span>
+            </li>
+                                                <li>
+                <i class="mdi mdi-car mdi-30px"></i>
+                <span><strong>1</strong> vaga</span>
+            </li>
+                                         <li>
+                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
+                    <span><strong>57,9</strong> m²</span>
+                </li>
+                                        </ul>
+        <div class="imovel-actions">
+            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
+            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1349295">
+                Entrar em contato
+            </button>
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 142.875" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+                
+                
+            </a>
+        </div>
+    </div>
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-0-667e74c8646627294968.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-1-667e74c8646671004818905.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-2-667e74c86466a354377584.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-3-667e74c86466c1664472026.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-4-667e74c86466e1895295798.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-5-667e74c864670951544847.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-6-667e74c8646731041998946.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-7-667e74c8646751852451720.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-8-667e74c8646781342545675.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-9-667e74c86467a2126369847.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-10-667e74c86467d1925001062.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-11-667e74c86467f198204931.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-12-667e74c864682529433489.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-13-667e74c8646841682015094.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-14-667e74c864686709397649.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-15-667e74c8646881277861178.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-16-667e74c86468b1041704988.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-17-667e74c86468e1364053117.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-18-667e74c864690530191845.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-19-667e74c864692407040503.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-20-667e74c864695872068955.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-21-667e74c864697974730510.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-22-667e74c8646991689316431.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-23-667e74c86469b918161899.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-24-667e74c86469d1717159387.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-25-667e74c8646a0450179398.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-26-667e74c8646a21934238348.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-27-667e74c8646a5448365396.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-28-667e74c8646a71788608156.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
+        </a>
+                    </div>
+
+    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1349295" data-value="1">
 	<i class="fa fa-heart-o "></i>
 </button>]]></content>
     </entry>
