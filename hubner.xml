@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2024-09-11T17:42:25.359Z</updated>
+    <updated>2024-09-12T05:42:00.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[O que vem depois do fogo?]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/09/o-que-vem-depois-do-fogo.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/09/o-que-vem-depois-do-fogo.shtml"/>
+        <updated>2024-09-11T18:47:00.000Z</updated>
+        <content type="html"><![CDATA[Existe luz no fim da fumaça, apesar de ambiguidades nos três Poderes]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Legalidade não é armazém de secos e molhados]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/09/legalidade-nao-e-armazem-de-secos-e-molhados.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[Errou quem chamou de "Poste": bloqueio de investigação trabalha para a corrupção]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Corrupção bolsonarista, capítulo 8]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/08/corrupcao-bolsonarista-capitulo-8.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/08/corrupcao-bolsonarista-capitulo-8.shtml"/>
-        <updated>2022-08-03T19:52:00.000Z</updated>
-        <content type="html"><![CDATA[O significado de 'legalização das milícias' e o 'valor' das armas]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2024-09-11T17:42:20.662Z</updated>
+        <updated>2024-09-12T05:41:55.048Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
