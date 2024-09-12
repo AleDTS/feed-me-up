@@ -2,8 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-12T05:42:00.208Z</updated>
+    <updated>2024-09-12T17:41:17.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 61 m² - 125826 (Imóveis-SC)]]></title>
+        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1366547.html</id>
+        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1366547.html"/>
+        <updated>2024-09-12T17:40:51.097Z</updated>
+        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1366547">
+<input type="hidden" name="totalvalue" id="totalvalue" value="3100">
+<input type="hidden" name="category" id="category" value="Aluguel">
+    <div class="imovel-data">
+        <header class="imovel-header">
+            <h2 class="imovel-titulo">
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1366547.html">
+                    Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 61 m² - 125826
+
+                    <meta itemprop="name" content="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 61 m² - 125826">
+                    <meta itemprop="brand" content="Ibagy Imóveis">
+                    <meta itemprop="model" content="Apartamento">
+                    <meta itemprop="sku" content="125826">
+                </a>
+            </h2>
+            <div class="imovel-extra">
+                <strong>Florianópolis, Carvoeira</strong>
+                <span>Cód.: 125826</span>
+                
+            </div>
+        </header>
+                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
+            R$ <small itemprop="price">3.100,00</small>
+            <meta itemprop="priceCurrency" content="BRL">
+            <meta itemprop="lowprice" content="3.100,00">
+        </span>
+        <p class="imovel-descricao">
+            Apartamentos em Florianópolis - Descubra este aconchegante apartamento para aluguel no Carvoeira, em Florianópolis....
+        </p>
+        <ul class="imovel-info">
+                                    <li>
+                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
+                <span><strong>2</strong> quartos</span>
+            </li>
+                                                <li>
+                <i class="mdi mdi-car mdi-30px"></i>
+                <span><strong>1</strong> vaga</span>
+            </li>
+                                         <li>
+                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
+                    <span><strong>61,0</strong> m²</span>
+                </li>
+                                        </ul>
+        <div class="imovel-actions">
+            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1366547.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
+            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1366547">
+                Entrar em contato
+            </button>
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 266.175" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+                
+                
+            </a>
+        </div>
+    </div>
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1366547.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1366547-0-66e2a5dcbfb1c1322074307.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 61 m² - 125826">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1366547.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1366547-1-66e2a5dcbfb2194847226.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 61 m² - 125826">
+        </a>
+                    </div>
+
+    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1366547" data-value="1">
+	<i class="fa fa-heart-o "></i>
+</button>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios e 86 m² - AP03025L (Imóveis-SC)]]></title>
         <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1366308.html</id>
@@ -57,7 +129,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1366308">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/seiter-imobiliaria" class="fright imovel-anunciante" title="Seiter Imobiliaria - 315" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_65fc6cec313411936180922000.jpg)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/seiter-imobiliaria" class="fright imovel-anunciante" title="Seiter Imobiliaria - 285" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_65fc6cec313411936180922000.jpg)">
                 
                 
             </a>
@@ -153,7 +225,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1365931">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/deia-souza" class="fright imovel-anunciante" title="Qualité Imóveis Exclusivos - 186.3" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_665f6ab3e6724505628433000.jpeg)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/deia-souza" class="fright imovel-anunciante" title="Qualité Imóveis Exclusivos - 156.3" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_665f6ab3e6724505628433000.jpeg)">
                 
                 
             </a>
@@ -841,7 +913,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1361727">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 379.9444" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 377.9242" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -1338,7 +1410,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1361587">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 400.3442" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 395.475" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -1622,7 +1694,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1361437">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 362.1628" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 361.1674" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -2480,159 +2552,6 @@
 </button>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696 (Imóveis-SC)]]></title>
-        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html</id>
-        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html"/>
-        <updated>2024-09-05T17:40:18.410Z</updated>
-        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1349295">
-<input type="hidden" name="totalvalue" id="totalvalue" value="2400">
-<input type="hidden" name="category" id="category" value="Aluguel">
-    <div class="imovel-data">
-        <header class="imovel-header">
-            <h2 class="imovel-titulo">
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html">
-                    Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696
-
-                    <meta itemprop="name" content="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-                    <meta itemprop="brand" content="Ibagy Imóveis">
-                    <meta itemprop="model" content="Apartamento">
-                    <meta itemprop="sku" content="124696">
-                </a>
-            </h2>
-            <div class="imovel-extra">
-                <strong>Florianópolis, Córrego Grande</strong>
-                <span>Cód.: 124696</span>
-                
-            </div>
-        </header>
-                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
-            R$ <small itemprop="price">2.400,00</small>
-            <meta itemprop="priceCurrency" content="BRL">
-            <meta itemprop="lowprice" content="2.400,00">
-        </span>
-        <p class="imovel-descricao">
-            Apartamentos em Florianópolis - Apartamento semi mobiliado com 3 quartos, sala, cozinha com armários, área de...
-        </p>
-        <ul class="imovel-info">
-                                    <li>
-                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
-                <span><strong>3</strong> quartos</span>
-            </li>
-                                                <li>
-                <i class="mdi mdi-car mdi-30px"></i>
-                <span><strong>1</strong> vaga</span>
-            </li>
-                                         <li>
-                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
-                    <span><strong>57,9</strong> m²</span>
-                </li>
-                                        </ul>
-        <div class="imovel-actions">
-            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
-            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1349295">
-                Entrar em contato
-            </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 142.875" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
-                
-                
-            </a>
-        </div>
-    </div>
-        <div class="imovel-imagem owl-carousel owl-theme ">
-                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-0-667e74c8646627294968.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-1-667e74c8646671004818905.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-2-667e74c86466a354377584.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-3-667e74c86466c1664472026.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-4-667e74c86466e1895295798.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-5-667e74c864670951544847.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-6-667e74c8646731041998946.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-7-667e74c8646751852451720.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-8-667e74c8646781342545675.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-9-667e74c86467a2126369847.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-10-667e74c86467d1925001062.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-11-667e74c86467f198204931.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-12-667e74c864682529433489.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-13-667e74c8646841682015094.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-14-667e74c864686709397649.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-15-667e74c8646881277861178.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-16-667e74c86468b1041704988.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-17-667e74c86468e1364053117.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-18-667e74c864690530191845.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-19-667e74c864692407040503.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-20-667e74c864695872068955.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-21-667e74c864697974730510.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-22-667e74c8646991689316431.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-23-667e74c86469b918161899.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-24-667e74c86469d1717159387.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-25-667e74c8646a0450179398.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-26-667e74c8646a21934238348.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-27-667e74c8646a5448365396.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/corrego-grande/apartamento-florianopolis-corrego-grande-1349295.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-corregogrande-1349295-28-667e74c8646a71788608156.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Córrego Grande em Florianópolis com 3 Dormitórios e 57.88 m² - 124696">
-        </a>
-                    </div>
-
-    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1349295" data-value="1">
-	<i class="fa fa-heart-o "></i>
-</button>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apartamento com 2 quartos para alugar na servidão martinho leandro dos santos, 170, pantanal, florianópolis, 45 m2 por r$ 2.200 (Chaves na mão)]]></title>
         <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-RS2200/id-4001805/</id>
         <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-RS2200/id-4001805/"/>
@@ -2646,7 +2565,7 @@
         <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-70m2-RS2800/id-10039671/</id>
         <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-70m2-RS2800/id-10039671/"/>
         <updated>2024-08-06T05:39:44.290Z</updated>
-        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-10039671" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+10039671"></span><a title="Fotos Apartamento próximo a ufsc" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-70m2-RS2800/id-10039671/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+10039671"><span class="picGallery firstPic"><picture disabled=""><img src="https://www.chavesnamao.com.br/imn/0358x0250/N/imoveis/38653/10039671/sc-florianopolis-carvoeira-rua-capitao-romualdo-de-barros-apartamento-para-alugar-2-quartos-66b2a1f0-2.jpg" alt="Apartamento próximo a ufsc" width="358" height="250"></picture><small disabled=""></small></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery more"><picture></picture><small></small><i class="icon-photo-camera-1"></i><span class="pluspic" role="presentation" aria-hidden="true">+ 13 Fotos </span></span></a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento próximo a ufsc" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-70m2-RS2800/id-10039671/" rel="noreferrer"><h2>Apartamento próximo a ufsc</h2><address><small>Rua Capitão Romualdo de Barros<!-- --> </small><b> <!-- -->Carvoeira, Florianópolis</b></address><p class="price"><b>R$ 2.800</b><small class="cond"> Cond.: R$ 650</small></p></a><p>Apartamento de 2 dormitórios. Cozinha com armários embutidos. Área de serviços. Ampla sala com sacada. Uma vaga de garagem.  Valor do Condomínio não inclui as taxas extraordinárias e consumos.</p></span><span class="listAndCta"><ul class="list im"><li>59m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
+        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-10039671" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+10039671"></span><a title="Fotos Apartamento próximo a ufsc" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-70m2-RS2800/id-10039671/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+10039671"><span class="picGallery firstPic"><picture disabled=""><img src="https://www.chavesnamao.com.br/imn/0358x0250/N/imoveis/38653/10039671/sc-florianopolis-carvoeira-rua-capitao-romualdo-de-barros-apartamento-para-alugar-2-quartos-66b2a1f0-2.jpg" alt="Apartamento próximo a ufsc" width="358" height="250"></picture><small disabled=""></small></span><span class="picGallery"><picture disabled=""><img src="https://www.chavesnamao.com.br/imn/0358x0250/N/imoveis/38653/10039671/sc-florianopolis-carvoeira-rua-capitao-romualdo-de-barros-apartamento-para-alugar-2-quartos-66b2a1f0-1.jpg" alt="Apartamento próximo a ufsc" width="358" height="250"></picture><small></small></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery more"><picture></picture><small></small><i class="icon-photo-camera-1"></i><span class="pluspic" role="presentation" aria-hidden="true">+ 13 Fotos </span></span></a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento próximo a ufsc" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-70m2-RS2800/id-10039671/" rel="noreferrer"><h2>Apartamento próximo a ufsc</h2><address><small>Rua Capitão Romualdo de Barros<!-- --> </small><b> <!-- -->Carvoeira, Florianópolis</b></address><p class="price"><b>R$ 2.800</b><small class="cond"> Cond.: R$ 650</small></p></a><p>Apartamento de 2 dormitórios. Cozinha com armários embutidos. Área de serviços. Ampla sala com sacada. Uma vaga de garagem.  Valor do Condomínio não inclui as taxas extraordinárias e consumos.</p></span><span class="listAndCta"><ul class="list im"><li>59m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
                 {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Apartamento próximo a ufsc", "description": "Apartamento de 2 dormitórios. Cozinha com armários embutidos. Área de serviços. Ampla sala com sacada. Uma vaga de garagem.  Valor do Condomínio não inclui as taxas extraordinárias e consumos.", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "59m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88040-600", "streetAddress": "Rua Capitão Romualdo de Barros, "}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.53002", "longitude": "-27.60528"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-70m2-RS2800/id-10039671/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-70m2-RS2800/id-10039671/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
                 </script>]]></content>
     </entry>
@@ -2684,6 +2603,15 @@
         <updated>2024-08-20T17:39:41.454Z</updated>
         <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-20988946" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+20988946"></span><a title="Fotos Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 61 m2 por r$ 2.700" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-RS2700/id-20988946/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+20988946"><span class="picGallery firstPic"><picture></picture><small></small></span>Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 61 m2 por r$ 2.700</a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 61 m2 por r$ 2.700" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-RS2700/id-20988946/" rel="noreferrer"><h2>Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 61 m2 por r$ 2.700</h2><address><small>Rua Deputado Antônio Edu Vieira, 1020<!-- --> </small><b> <!-- -->Pantanal, Florianópolis</b></address><p class="price"><b>R$ 2.700</b><small class="cond"> Cond.: R$ 582</small></p></a><p>Amplo apartamento para aluguel localizado na Rua Deputado Antônio Edu Vieira, no bairro Pantanal em Florianópolis. Com 2 dormitórios, banheiro social, cozinha com armários, área de serviço, sacada, vaga de garagem e infraestrutura completa com elevador, gás central e interfone. Prédio com 4 andares, sendo 8 apartamentos por andar. Ótima oportunidade para morar em uma região tranquila e com fácil acesso a serviços e comércios locais.</p></span><span class="listAndCta"><ul class="list im"><li>61m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
                 {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 61 m2 por r$ 2.700", "description": "Amplo apartamento para aluguel localizado na Rua Deputado Antônio Edu Vieira, no bairro Pantanal em Florianópolis. Com 2 dormitórios, banheiro social, cozinha com armários, área de serviço, sacada, vaga de garagem e infraestrutura completa com elevador, gás central e interfone. Prédio com 4 andares, sendo 8 apartamentos por andar. Ótima oportunidade para morar em uma região tranquila e com fácil acesso a serviços e comércios locais.", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "61m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88040-001", "streetAddress": "Rua Deputado Antônio Edu Vieira, 1020"}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.51982", "longitude": "-27.60748"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-RS2700/id-20988946/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-RS2700/id-20988946/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
+                </script>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apartamento com 2 quartos para alugar na jornalista tito de carvalho, 101, carvoeira, florianópolis, 61 m2 por r$ 3.100 (Chaves na mão)]]></title>
+        <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-75m2-RS3100/id-24871477/</id>
+        <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-75m2-RS3100/id-24871477/"/>
+        <updated>2024-09-12T17:40:54.848Z</updated>
+        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-24871477" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+24871477"></span><a title="Fotos Apartamento com 2 quartos para alugar na jornalista tito de carvalho, 101, carvoeira, florianópolis, 61 m2 por r$ 3.100" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-75m2-RS3100/id-24871477/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+24871477"><span class="picGallery firstPic"><picture></picture><small></small></span>Apartamento com 2 quartos para alugar na jornalista tito de carvalho, 101, carvoeira, florianópolis, 61 m2 por r$ 3.100</a><span class="dots"><small class="active"></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento com 2 quartos para alugar na jornalista tito de carvalho, 101, carvoeira, florianópolis, 61 m2 por r$ 3.100" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-75m2-RS3100/id-24871477/" rel="noreferrer"><h2>Apartamento com 2 quartos para alugar na jornalista tito de carvalho, 101, carvoeira, florianópolis, 61 m2 por r$ 3.100</h2><address><small>Jornalista Tito De Carvalho, 101<!-- --> </small><b> <!-- -->Carvoeira, Florianópolis</b></address><p class="price"><b>R$ 3.100</b><small class="cond"> Cond.: R$ 535</small></p></a><p>Descubra este aconchegante apartamento para aluguel no Carvoeira, em Florianópolis. Com área privativa de 61 m², este imóvel oferece bem-estar e praticidade para sua rotina. Localizado na Carvoeira, você estará próximo a tudo que precisa, com fácil acesso a comércios e serviços da região. O apartamento possui 2 dormitórios, 1 banheiro e uma cozinha bem equipada, ideal para momentos de convivência. Além disso, conta com uma vaga de garagem. Não perca essa oportunidade de viver em um dos bairros mais desejados da cidade. Agende sua visita hoje mesmo!</p></span><span class="listAndCta"><ul class="list im"><li>61m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
+                {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Apartamento com 2 quartos para alugar na jornalista tito de carvalho, 101, carvoeira, florianópolis, 61 m2 por r$ 3.100", "description": "Descubra este aconchegante apartamento para aluguel no Carvoeira, em Florianópolis. Com área privativa de 61 m², este imóvel oferece bem-estar e praticidade para sua rotina. Localizado na Carvoeira, você estará próximo a tudo que precisa, com fácil acesso a comércios e serviços da região. O apartamento possui 2 dormitórios, 1 banheiro e uma cozinha bem equipada, ideal para momentos de convivência. Além disso, conta com uma vaga de garagem. Não perca essa oportunidade de viver em um dos bairros mais desejados da cidade. Agende sua visita hoje mesmo!", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "61m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88040-480", "streetAddress": "Jornalista Tito De Carvalho, 101"}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.52544", "longitude": "-27.59759"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-75m2-RS3100/id-24871477/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-75m2-RS3100/id-24871477/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
                 </script>]]></content>
     </entry>
     <entry>
@@ -2759,19 +2687,10 @@
                 </script>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lindo apartamento 02 dormitórios mobiliado na trindade (Chaves na mão)]]></title>
-        <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-81m2-RS3000/id-24496914/</id>
-        <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-81m2-RS3000/id-24496914/"/>
-        <updated>2024-09-12T05:41:41.440Z</updated>
-        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-24496914" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+24496914"></span><a title="Fotos Lindo apartamento 02 dormitórios mobiliado na trindade" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-81m2-RS3000/id-24496914/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+24496914"><span class="picGallery firstPic"><picture></picture><small></small></span>Lindo apartamento 02 dormitórios mobiliado na trindade</a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Lindo apartamento 02 dormitórios mobiliado na trindade" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-81m2-RS3000/id-24496914/" rel="noreferrer"><h2>Lindo apartamento 02 dormitórios mobiliado na trindade</h2><address><small>Rua Europa, 212<!-- --> </small><b> <!-- -->Trindade, Florianópolis</b></address><p class="price"><b>R$ 3.000</b><small class="cond"> Cond.: R$ 480</small></p></a><p>Apartamento 02 Dormitórios, 01 banheiro social, sala de estar, sala de jantar, cozinha e área de serviço. Ar condicionado na sala e Dormitórios. Posição solar oeste aproveitando o sol da tarde, Vista panorâmica. Conta com 01 vaga de garagem rotativa. Ótima localização, próximo a mercados, padaria, posto de gasolina e comércios em geral. Conta com toda comodidade do bairro Trindade. Fácil acesso ao centro de Florianópolis e norte da ilha. Aproveite essa ótima oportunidade e entre em contato para mais informações.</p></span><span class="listAndCta"><ul class="list im"><li>64m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
-                {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Lindo apartamento 02 dormitórios mobiliado na trindade", "description": "Apartamento 02 Dormitórios, 01 banheiro social, sala de estar, sala de jantar, cozinha e área de serviço. Ar condicionado na sala e Dormitórios. Posição solar oeste aproveitando o sol da tarde, Vista panorâmica. Conta com 01 vaga de garagem rotativa. Ótima localização, próximo a mercados, padaria, posto de gasolina e comércios em geral. Conta com toda comodidade do bairro Trindade. Fácil acesso ao centro de Florianópolis e norte da ilha. Aproveite essa ótima oportunidade e entre em contato para mais informações.", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "64m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88036-135", "streetAddress": "Rua Europa, 212"}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.52676", "longitude": "-27.58575"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-81m2-RS3000/id-24496914/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-81m2-RS3000/id-24496914/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
-                </script>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-09-12T05:41:43.918Z</updated>
+        <updated>2024-09-12T17:40:57.323Z</updated>
         <content type="html"><![CDATA[<div class="flex-1 flex items-center text-sm text-helper-color">
 Page 1 of 20 clips
 </div>]]></content>
@@ -4000,7 +3919,7 @@ Click to play
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-09-12T05:41:43.918Z</updated>
+        <updated>2024-09-12T17:40:57.323Z</updated>
         <content type="html"><![CDATA[<a href="/podcast-clips/" class="ln-btn ln-btn-secondary">
 Curate your own podcast clips
 <span class="ln-icon-arrow-right"></span>
@@ -4010,7 +3929,7 @@ Curate your own podcast clips
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-09-12T05:41:43.921Z</updated>
+        <updated>2024-09-12T17:40:57.325Z</updated>
         <content type="html"><![CDATA[<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-16">
 <div class="col-span-1">
 <div class="mb-4">
@@ -4109,28 +4028,28 @@ Go to a clip page. (<a href="https://www.listennotes.com/clips/kevin-systrom-and
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/09/10/a-mente-moralista-da-geracao-ansiosa.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/09/10/a-mente-moralista-da-geracao-ansiosa.htm"/>
         <updated>2024-09-10T04:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter v1"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/noticias/f4/2016/08/23/adolescente-no-celular-adolescente-no-smartphone-adolescente-mexendo-no-celular-1471963892216_300x200.jpg.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x200&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/f4/2016/08/23/adolescente-no-celular-adolescente-no-smartphone-adolescente-mexendo-no-celular-1471963892216_300x200.jpg.webp" width="300" height="200" decoding="async" data-crazyload="loaded" class=" loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Existe uma mente moralista por trás da tal geração ansiosa</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">10/09/2024 04h00</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter v1"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x200.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x200&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/f4/2016/08/23/adolescente-no-celular-adolescente-no-smartphone-adolescente-mexendo-no-celular-1471963892216_300x200.jpg.webp" width="300" height="200" decoding="async" data-crazyload="loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Existe uma mente moralista por trás da tal geração ansiosa</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">10/09/2024 04h00</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[O que está certo ou errado sobre os afetos exibidos em 'Divertida Mente 2' (Blog do Dunker | UOL)]]></title>
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/07/14/divertida-mente-2-filme-emocoes-transformacao-adolescencia-psicanalise.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/07/14/divertida-mente-2-filme-emocoes-transformacao-adolescencia-psicanalise.htm"/>
         <updated>2024-07-14T04:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/entretenimento/aa/2024/06/22/cena-do-filme-divertida-mente-2-1719069240375_v2_300x225.png.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/aa/2024/06/22/cena-do-filme-divertida-mente-2-1719069240375_v2_300x225.png.webp" width="300" height="225" decoding="async" data-crazyload="loaded" class=" loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">O que está certo ou errado sobre os afetos exibidos em 'Divertida Mente 2'</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">14/07/2024 04h00</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/aa/2024/06/22/cena-do-filme-divertida-mente-2-1719069240375_v2_300x225.png.webp" width="300" height="225" decoding="async" data-crazyload="loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">O que está certo ou errado sobre os afetos exibidos em 'Divertida Mente 2'</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">14/07/2024 04h00</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sexo, amor, intimidade? É o humor que vai ajudar sua relação a dar certo (Blog do Dunker | UOL)]]></title>
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/07/07/sexo-e-humor----relacionamento----psicanalise----prazer----intimidade.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/07/07/sexo-e-humor----relacionamento----psicanalise----prazer----intimidade.htm"/>
         <updated>2024-07-07T04:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/entretenimento/1d/2022/10/05/leonard-e-penny-se-casaram-em-the-big-bang-theory-1664999493852_v2_300x225.jpg.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/1d/2022/10/05/leonard-e-penny-se-casaram-em-the-big-bang-theory-1664999493852_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded" class=" loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Sexo, amor, intimidade? É o humor que vai ajudar sua relação a dar certo</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">07/07/2024 04h00</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/1d/2022/10/05/leonard-e-penny-se-casaram-em-the-big-bang-theory-1664999493852_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Sexo, amor, intimidade? É o humor que vai ajudar sua relação a dar certo</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">07/07/2024 04h00</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Não se engane em nome de Deus: Bíblia dá base ao PL Antiaborto por Estupro? (Blog do Dunker | UOL)]]></title>
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/06/23/nao-se-engane-em-nome-de-deus-biblia-da-base-ao-pl-antiaborto-por-estupro.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/06/23/nao-se-engane-em-nome-de-deus-biblia-da-base-ao-pl-antiaborto-por-estupro.htm"/>
         <updated>2024-06-23T04:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/noticias/19/2020/08/15/mulher-le-a-biblia-1597527122154_v2_300x225.jpg.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/19/2020/08/15/mulher-le-a-biblia-1597527122154_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded" class=" loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Não se engane em nome de Deus: Bíblia dá base ao PL Antiaborto por Estupro?</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">23/06/2024 04h00</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/19/2020/08/15/mulher-le-a-biblia-1597527122154_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Não se engane em nome de Deus: Bíblia dá base ao PL Antiaborto por Estupro?</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">23/06/2024 04h00</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['Tagueamento': como funciona o novo perigo que envolve o uso de palavras (Blog do Dunker | UOL)]]></title>
@@ -4885,7 +4804,7 @@ Go to a clip page. (<a href="https://www.listennotes.com/clips/kevin-systrom-and
         <title type="html"><![CDATA[undefined (Conrado Hübner Mendes | Folha)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-09-12T05:41:55.048Z</updated>
+        <updated>2024-09-12T17:41:12.672Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
     <entry>
