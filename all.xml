@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-14T05:41:53.359Z</updated>
+    <updated>2024-09-14T17:40:22.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 61 m² - 125826 (Imóveis-SC)]]></title>
@@ -57,28 +57,20 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1366547">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 235.05" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 205.05" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
         </div>
     </div>
-        <div class="imovel-imagem owl-carousel owl-theme owl-loaded">
-                        
-                
-                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-580px, 0px, 0px); transition: all; width: 1740px;"><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1366547.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1366547.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1366547-0-66e2a5dcbfb1c1322074307.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 61 m² - 125826">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1366547.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1366547.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1366547-1-66e2a5dcbfb2194847226.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 61 m² - 125826">
-        </a></div><div class="owl-item active" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1366547.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1366547-0-66e2a5dcbfb1c1322074307.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 61 m² - 125826">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1366547.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1366547-1-66e2a5dcbfb2194847226.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 61 m² - 125826">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1366547.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1366547-0-66e2a5dcbfb1c1322074307.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 61 m² - 125826">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1366547.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1366547-1-66e2a5dcbfb2194847226.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios e 61 m² - 125826">
-        </a></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style=""><i class="fa fa-angle-left"></i></div><div class="owl-next" style=""><i class="fa fa-angle-right"></i></div></div><div style="display: none;" class="owl-dots"></div></div></div>
+        </a>
+                    </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1366547" data-value="1">
 	<i class="fa fa-heart-o "></i>
@@ -674,7 +666,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1361727">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 373.5866" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 372.5058" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -1139,198 +1131,6 @@
         </a></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style=""><i class="fa fa-angle-left"></i></div><div class="owl-next" style=""><i class="fa fa-angle-right"></i></div></div><div style="display: none;" class="owl-dots"></div></div></div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1361616" data-value="1">
-	<i class="fa fa-heart-o "></i>
-</button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335 (Imóveis-SC)]]></title>
-        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html</id>
-        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html"/>
-        <updated>2024-09-05T17:40:18.398Z</updated>
-        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1361437">
-<input type="hidden" name="totalvalue" id="totalvalue" value="3300">
-<input type="hidden" name="category" id="category" value="Aluguel">
-    <div class="imovel-data">
-        <header class="imovel-header">
-            <h2 class="imovel-titulo">
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html">
-                    Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335
-
-                    <meta itemprop="name" content="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-                    <meta itemprop="brand" content="Ibagy Imóveis">
-                    <meta itemprop="model" content="Apartamento">
-                    <meta itemprop="sku" content="125335">
-                </a>
-            </h2>
-            <div class="imovel-extra">
-                <strong>Florianópolis, Trindade</strong>
-                <span>Cód.: 125335</span>
-                
-            </div>
-        </header>
-                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
-            R$ <small itemprop="price">3.300,00</small>
-            <meta itemprop="priceCurrency" content="BRL">
-            <meta itemprop="lowprice" content="3.300,00">
-        </span>
-        <p class="imovel-descricao">
-            Apartamentos em Florian?polis - Apartamento para alugar em Trindade, Florian?polis. 2 quartos, sendo 1 su?te, banheiros,...
-        </p>
-        <ul class="imovel-info">
-                                    <li>
-                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
-                <span><strong>2</strong> quartos</span>
-            </li>
-                                    <li>
-                <i class="mdi mdi-shower mdi-30px"></i>
-                <span><strong>1</strong> suíte</span>
-            </li>
-                                    <li>
-                <i class="mdi mdi-car mdi-30px"></i>
-                <span><strong>1</strong> vaga</span>
-            </li>
-                                         <li>
-                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
-                    <span><strong>74,0</strong> m²</span>
-                </li>
-                                        </ul>
-        <div class="imovel-actions">
-            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
-            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1361437">
-                Entrar em contato
-            </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 355.1678" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
-                
-                
-            </a>
-        </div>
-    </div>
-        <div class="imovel-imagem owl-carousel owl-theme owl-loaded">
-                        
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-580px, 0px, 0px); transition: all; width: 12180px;"><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-36-66c302c9590ef2135695051.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-37-66c302c9590f1605418689.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item active" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-0-66c302c9590a01309989460.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-1-66c302c9590a41444874706.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-2-66c302c9590a72143641085.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-3-66c302c9590a91559288614.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-4-66c302c9590ac14948035.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-5-66c302c9590ae1360120740.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-6-66c302c9590b01819413228.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-7-66c302c9590b2368185934.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-8-66c302c9590b4148637376.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-9-66c302c9590b6572486066.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-10-66c302c9590b9318000418.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-11-66c302c9590bb34944876.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-12-66c302c9590bd1527830564.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-13-66c302c9590bf2108325668.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-14-66c302c9590c1611382626.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-15-66c302c9590c31505927149.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-16-66c302c9590c6332772484.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-17-66c302c9590c81013904919.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-18-66c302c9590ca347434879.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-19-66c302c9590cc1228561130.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-20-66c302c9590ce198116920.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-21-66c302c9590d01776474335.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-22-66c302c9590d2628692510.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-23-66c302c9590d41426476375.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-24-66c302c9590d6942117422.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-25-66c302c9590d81796342934.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-26-66c302c9590da1433418485.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-27-66c302c9590dc1554830670.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-28-66c302c9590df598275306.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-29-66c302c9590e1499402594.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-30-66c302c9590e32033496017.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-31-66c302c9590e554935795.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-32-66c302c9590e71604410506.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-33-66c302c9590e91516069735.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-34-66c302c9590eb1132425927.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-35-66c302c9590ed1660436037.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-36-66c302c9590ef2135695051.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-37-66c302c9590f1605418689.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-0-66c302c9590a01309989460.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1361437.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1361437-1-66c302c9590a41444874706.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios (1 suíte) e 74 m² - 125335">
-        </a></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style=""><i class="fa fa-angle-left"></i></div><div class="owl-next" style=""><i class="fa fa-angle-right"></i></div></div><div style="display: none;" class="owl-dots"></div></div></div>
-
-    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1361437" data-value="1">
 	<i class="fa fa-heart-o "></i>
 </button>]]></content>
     </entry>
@@ -2803,6 +2603,153 @@
 </button>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410 (Imóveis-SC)]]></title>
+        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html</id>
+        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html"/>
+        <updated>2024-09-14T17:39:50.112Z</updated>
+        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1132849">
+<input type="hidden" name="totalvalue" id="totalvalue" value="3200">
+<input type="hidden" name="category" id="category" value="Aluguel">
+    <div class="imovel-data">
+        <header class="imovel-header">
+            <h2 class="imovel-titulo">
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html">
+                    Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410
+
+                    <meta itemprop="name" content="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+                    <meta itemprop="brand" content="Ibagy Imóveis">
+                    <meta itemprop="model" content="Apartamento">
+                    <meta itemprop="sku" content="116410">
+                </a>
+            </h2>
+            <div class="imovel-extra">
+                <strong>Florianópolis, Carvoeira</strong>
+                <span>Cód.: 116410</span>
+                
+            </div>
+        </header>
+                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
+            R$ <small itemprop="price">3.200,00</small>
+            <meta itemprop="priceCurrency" content="BRL">
+            <meta itemprop="lowprice" content="3.200,00">
+        </span>
+        <p class="imovel-descricao">
+            Apartamentos em Florian?polis - ?timo apartamento para aluguel no bairro Carvoeira em Florian?polis. Com 2...
+        </p>
+        <ul class="imovel-info">
+                                    <li>
+                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
+                <span><strong>2</strong> quartos</span>
+            </li>
+                                    <li>
+                <i class="mdi mdi-shower mdi-30px"></i>
+                <span><strong>1</strong> suíte</span>
+            </li>
+                                    <li>
+                <i class="mdi mdi-car mdi-30px"></i>
+                <span><strong>1</strong> vaga</span>
+            </li>
+                                         <li>
+                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
+                    <span><strong>62,0</strong> m²</span>
+                </li>
+                                        </ul>
+        <div class="imovel-actions">
+            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
+            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1132849">
+                Entrar em contato
+            </button>
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 155.25" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+                
+                
+            </a>
+        </div>
+    </div>
+        <div class="imovel-imagem owl-carousel owl-theme owl-loaded">
+                        
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-580px, 0px, 0px); transition: all; width: 7830px;"><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-21-6656e3cd8c7f81700029931.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-22-6656e3cd8c7fc1836090819.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item active" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-0-62f227f276af91506222906.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-1-6656e3cd8c7a31384348755.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-2-6656e3cd8c7a7982195285.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-3-6656e3cd8c7ac586258861.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-4-6656e3cd8c7b01298724231.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-5-6656e3cd8c7b41418406123.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-6-6656e3cd8c7b8587113042.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-7-6656e3cd8c7bc1609849336.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-8-6656e3cd8c7c0258534617.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-9-6656e3cd8c7c4475813763.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-10-6656e3cd8c7c8509672263.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-11-6656e3cd8c7cc1865385087.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-12-6656e3cd8c7d062449154.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-13-6656e3cd8c7d41959333474.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-14-6656e3cd8c7d8569341568.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-15-6656e3cd8c7e0475568114.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-16-6656e3cd8c7e41114463724.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-17-6656e3cd8c7e81020905949.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-18-6656e3cd8c7ec1560081282.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-19-6656e3cd8c7f01431594888.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-20-6656e3cd8c7f41768129675.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-21-6656e3cd8c7f81700029931.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-22-6656e3cd8c7fc1836090819.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-0-62f227f276af91506222906.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/carvoeira/apartamento-florianopolis-carvoeira-1132849.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-carvoeira-1132849-1-6656e3cd8c7a31384348755.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios (1 suíte) e 62 m² - 116410">
+        </a></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style=""><i class="fa fa-angle-left"></i></div><div class="owl-next" style=""><i class="fa fa-angle-right"></i></div></div><div style="display: none;" class="owl-dots"></div></div></div>
+
+    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1132849" data-value="1">
+	<i class="fa fa-heart-o "></i>
+</button>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apartamento com 2 quartos para alugar na servidão martinho leandro dos santos, 170, pantanal, florianópolis, 45 m2 por r$ 2.200 (Chaves na mão)]]></title>
         <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-RS2200/id-4001805/</id>
         <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-RS2200/id-4001805/"/>
@@ -2816,7 +2763,7 @@
         <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-70m2-RS2800/id-10039671/</id>
         <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-70m2-RS2800/id-10039671/"/>
         <updated>2024-08-06T05:39:44.290Z</updated>
-        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-10039671" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+10039671"></span><a title="Fotos Apartamento próximo a ufsc" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-70m2-RS2800/id-10039671/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+10039671"><span class="picGallery firstPic"><picture disabled=""><img src="https://www.chavesnamao.com.br/imn/0358x0250/N/imoveis/38653/10039671/sc-florianopolis-carvoeira-rua-capitao-romualdo-de-barros-apartamento-para-alugar-2-quartos-66b2a1f0-2.jpg" alt="Apartamento próximo a ufsc" width="358" height="250"></picture><small disabled=""></small></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery more"><picture></picture><small></small><i class="icon-photo-camera-1"></i><span class="pluspic" role="presentation" aria-hidden="true">+ 13 Fotos </span></span></a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento próximo a ufsc" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-70m2-RS2800/id-10039671/" rel="noreferrer"><h2>Apartamento próximo a ufsc</h2><address><small>Rua Capitão Romualdo de Barros<!-- --> </small><b> <!-- -->Carvoeira, Florianópolis</b></address><p class="price"><b>R$ 2.800</b><small class="cond"> Cond.: R$ 650</small></p></a><p>Apartamento de 2 dormitórios. Cozinha com armários embutidos. Área de serviços. Ampla sala com sacada. Uma vaga de garagem.  Valor do Condomínio não inclui as taxas extraordinárias e consumos.</p></span><span class="listAndCta"><ul class="list im"><li>59m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
+        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-10039671" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+10039671"></span><a title="Fotos Apartamento próximo a ufsc" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-70m2-RS2800/id-10039671/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+10039671"><span class="picGallery firstPic"><picture disabled=""><img src="https://www.chavesnamao.com.br/imn/0358x0250/N/imoveis/38653/10039671/sc-florianopolis-carvoeira-rua-capitao-romualdo-de-barros-apartamento-para-alugar-2-quartos-66b2a1f0-2.jpg" alt="Apartamento próximo a ufsc" width="358" height="250"></picture><small disabled=""></small></span><span class="picGallery"><picture disabled=""><img src="https://www.chavesnamao.com.br/imn/0358x0250/N/imoveis/38653/10039671/sc-florianopolis-carvoeira-rua-capitao-romualdo-de-barros-apartamento-para-alugar-2-quartos-66b2a1f0-1.jpg" alt="Apartamento próximo a ufsc" width="358" height="250"></picture><small></small></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery more"><picture></picture><small></small><i class="icon-photo-camera-1"></i><span class="pluspic" role="presentation" aria-hidden="true">+ 13 Fotos </span></span></a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento próximo a ufsc" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-70m2-RS2800/id-10039671/" rel="noreferrer"><h2>Apartamento próximo a ufsc</h2><address><small>Rua Capitão Romualdo de Barros<!-- --> </small><b> <!-- -->Carvoeira, Florianópolis</b></address><p class="price"><b>R$ 2.800</b><small class="cond"> Cond.: R$ 650</small></p></a><p>Apartamento de 2 dormitórios. Cozinha com armários embutidos. Área de serviços. Ampla sala com sacada. Uma vaga de garagem.  Valor do Condomínio não inclui as taxas extraordinárias e consumos.</p></span><span class="listAndCta"><ul class="list im"><li>59m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
                 {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Apartamento próximo a ufsc", "description": "Apartamento de 2 dormitórios. Cozinha com armários embutidos. Área de serviços. Ampla sala com sacada. Uma vaga de garagem.  Valor do Condomínio não inclui as taxas extraordinárias e consumos.", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "59m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88040-600", "streetAddress": "Rua Capitão Romualdo de Barros, "}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.53002", "longitude": "-27.60528"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-70m2-RS2800/id-10039671/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-70m2-RS2800/id-10039671/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
                 </script>]]></content>
     </entry>
@@ -2902,21 +2849,21 @@
                 </script>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apartamento com 2 dormitórios para alugar, 63 m² por r$ 2.900/mês - carvoeira - florianópolis/sc (Chaves na mão)]]></title>
-        <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-83m2-RS2900/id-24893097/</id>
-        <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-83m2-RS2900/id-24893097/"/>
-        <updated>2024-09-13T05:41:40.765Z</updated>
-        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-24893097" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+24893097"></span><a title="Fotos Apartamento com 2 dormitórios para alugar, 63 m² por r$ 2.900/mês - carvoeira - florianópolis/sc" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-83m2-RS2900/id-24893097/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+24893097"><span class="picGallery firstPic"><picture></picture><small></small></span>Apartamento com 2 dormitórios para alugar, 63 m² por r$ 2.900/mês - carvoeira - florianópolis/sc</a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento com 2 dormitórios para alugar, 63 m² por r$ 2.900/mês - carvoeira - florianópolis/sc" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-83m2-RS2900/id-24893097/" rel="noreferrer"><h2>Apartamento com 2 dormitórios para alugar, 63 m² por r$ 2.900/mês - carvoeira - florianópolis/sc</h2><address><small>Rua Douglas Seabra Levier<!-- --> </small><b> <!-- -->Carvoeira, Florianópolis</b></address><p class="price"><b>R$ 2.900</b><small class="cond"> Cond.: R$ 288</small></p></a><p>Apartamento SEMI-MOBILIADO com 02 dormitórios, 01 banheiro social, lavanderia, cozinha com móveis planejados, sala de estar, sacada com churrasqueira e 01 vaga de garagem. Este apartamento é a escolha perfeita para quem busca conforto e praticidade. Localizado em um edifício bem posicionado e próximo à Universidade Federal de Santa Catarina (UFSC), o qual oferece a conveniência de estar perto de tudo que você precisa. Sobre o bairro: Trindade é um bairro na região central de Florianópolis, capital de Santa Catarina, Brasil. Localizado entre aos pés do maciço do Morro da Cruz entre este e o Manguezal do Itacorubi, é o segundo mais populoso da cidade, fazendo divisa com os bairros Córrego Grande, Agronômica, Santa Mônica, Pantanal e Itacorubi. Desde 1960, a Trindade é considerada um bairro universitário, por isso recebe um fluxo considerável de estudantes e moradores temporários. Para atender às demandas desse público, o bairro cresceu significativamente nas últimas décadas, demograficamente e também em infraestrutura.  Para servir os moradores principalmente o público universitário e turistas que passam pelo bairro, Trindade conta com restaurantes, bares, baladas, centros culturais, hospital, centro de saúde, shopping, supermercados, farmácias, escolas, delegacia, corpo de bombeiros e terminal de ônibus (o Terminal de Integração da Trindade TITRI).  A Rua Lauro Linhares tem início logo em frente ao campus da UFSC, ao lado da Praça Santos Dumont conhecida também como Pida e se estende até o início do bairro Agronômica. Ela corta o bairro de Sul a Norte e reúne alguns dos principais restaurantes, redes de fast food, bares, pubs, baladas e shoppings de lá. Ela e outras ruazinhas nos arredores da UFSC, como a Rua. Des. Vítor Lima, são pontos de encontro dos jovens universitários, que buscam relaxar na boêmia vida noturna do bairro.</p></span><span class="listAndCta"><ul class="list im"><li>63m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
-                {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Apartamento com 2 dormitórios para alugar, 63 m² por r$ 2.900/mês - carvoeira - florianópolis/sc", "description": "Apartamento SEMI-MOBILIADO com 02 dormitórios, 01 banheiro social, lavanderia, cozinha com móveis planejados, sala de estar, sacada com churrasqueira e 01 vaga de garagem. Este apartamento é a escolha perfeita para quem busca conforto e praticidade. Localizado em um edifício bem posicionado e próximo à Universidade Federal de Santa Catarina (UFSC), o qual oferece a conveniência de estar perto de tudo que você precisa. Sobre o bairro: Trindade é um bairro na região central de Florianópolis, capital de Santa Catarina, Brasil. Localizado entre aos pés do maciço do Morro da Cruz entre este e o Manguezal do Itacorubi, é o segundo mais populoso da cidade, fazendo divisa com os bairros Córrego Grande, Agronômica, Santa Mônica, Pantanal e Itacorubi. Desde 1960, a Trindade é considerada um bairro universitário, por isso recebe um fluxo considerável de estudantes e moradores temporários. Para atender às demandas desse público, o bairro cresceu significativamente nas últimas décadas, demograficamente e também em infraestrutura.  Para servir os moradores principalmente o público universitário e turistas que passam pelo bairro, Trindade conta com restaurantes, bares, baladas, centros culturais, hospital, centro de saúde, shopping, supermercados, farmácias, escolas, delegacia, corpo de bombeiros e terminal de ônibus (o Terminal de Integração da Trindade TITRI).  A Rua Lauro Linhares tem início logo em frente ao campus da UFSC, ao lado da Praça Santos Dumont conhecida também como Pida e se estende até o início do bairro Agronômica. Ela corta o bairro de Sul a Norte e reúne alguns dos principais restaurantes, redes de fast food, bares, pubs, baladas e shoppings de lá. Ela e outras ruazinhas nos arredores da UFSC, como a Rua. Des. Vítor Lima, são pontos de encontro dos jovens universitários, que buscam relaxar na boêmia vida noturna do bairro.", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "63m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88040-410", "streetAddress": "Rua Douglas Seabra Levier, "}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.52455", "longitude": "-27.59611"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-83m2-RS2900/id-24893097/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-83m2-RS2900/id-24893097/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
-                </script>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 63 m2 por r$ 2.800 (Chaves na mão)]]></title>
         <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-83m2-RS2800/id-1022309/</id>
         <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-83m2-RS2800/id-1022309/"/>
         <updated>2024-09-11T17:42:01.575Z</updated>
         <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-1022309" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+1022309"></span><a title="Fotos Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 63 m2 por r$ 2.800" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-83m2-RS2800/id-1022309/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+1022309"><span class="picGallery firstPic"><picture></picture><small></small></span>Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 63 m2 por r$ 2.800</a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 63 m2 por r$ 2.800" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-83m2-RS2800/id-1022309/" rel="noreferrer"><h2>Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 63 m2 por r$ 2.800</h2><address><small>Rua Deputado Antônio Edu Vieira, 1020<!-- --> </small><b> <!-- -->Pantanal, Florianópolis</b></address><p class="price"><b>R$ 2.800</b><small class="cond"> Cond.: R$ 585</small></p></a><p></p></span><span class="listAndCta"><ul class="list im"><li>63m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
                 {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 63 m2 por r$ 2.800", "description": "Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 63 m2 por r$ 2.800", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "63m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88040-001", "streetAddress": "Rua Deputado Antônio Edu Vieira, 1020"}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.51960199999996", "longitude": "-27.6076426"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-83m2-RS2800/id-1022309/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-83m2-RS2800/id-1022309/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
+                </script>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apartamento com 2 dormitórios para alugar, 63 m² por r$ 2.900/mês - carvoeira - florianópolis/sc (Chaves na mão)]]></title>
+        <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-83m2-RS2900/id-24893097/</id>
+        <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-83m2-RS2900/id-24893097/"/>
+        <updated>2024-09-13T05:41:40.765Z</updated>
+        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-24893097" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+24893097"></span><a title="Fotos Apartamento com 2 dormitórios para alugar, 63 m² por r$ 2.900/mês - carvoeira - florianópolis/sc" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-83m2-RS2900/id-24893097/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+24893097"><span class="picGallery firstPic"><picture></picture><small></small></span>Apartamento com 2 dormitórios para alugar, 63 m² por r$ 2.900/mês - carvoeira - florianópolis/sc</a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento com 2 dormitórios para alugar, 63 m² por r$ 2.900/mês - carvoeira - florianópolis/sc" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-83m2-RS2900/id-24893097/" rel="noreferrer"><h2>Apartamento com 2 dormitórios para alugar, 63 m² por r$ 2.900/mês - carvoeira - florianópolis/sc</h2><address><small>Rua Douglas Seabra Levier<!-- --> </small><b> <!-- -->Carvoeira, Florianópolis</b></address><p class="price"><b>R$ 2.900</b><small class="cond"> Cond.: R$ 288</small></p></a><p>Apartamento SEMI-MOBILIADO com 02 dormitórios, 01 banheiro social, lavanderia, cozinha com móveis planejados, sala de estar, sacada com churrasqueira e 01 vaga de garagem. Este apartamento é a escolha perfeita para quem busca conforto e praticidade. Localizado em um edifício bem posicionado e próximo à Universidade Federal de Santa Catarina (UFSC), o qual oferece a conveniência de estar perto de tudo que você precisa. Sobre o bairro: Trindade é um bairro na região central de Florianópolis, capital de Santa Catarina, Brasil. Localizado entre aos pés do maciço do Morro da Cruz entre este e o Manguezal do Itacorubi, é o segundo mais populoso da cidade, fazendo divisa com os bairros Córrego Grande, Agronômica, Santa Mônica, Pantanal e Itacorubi. Desde 1960, a Trindade é considerada um bairro universitário, por isso recebe um fluxo considerável de estudantes e moradores temporários. Para atender às demandas desse público, o bairro cresceu significativamente nas últimas décadas, demograficamente e também em infraestrutura.  Para servir os moradores principalmente o público universitário e turistas que passam pelo bairro, Trindade conta com restaurantes, bares, baladas, centros culturais, hospital, centro de saúde, shopping, supermercados, farmácias, escolas, delegacia, corpo de bombeiros e terminal de ônibus (o Terminal de Integração da Trindade TITRI).  A Rua Lauro Linhares tem início logo em frente ao campus da UFSC, ao lado da Praça Santos Dumont conhecida também como Pida e se estende até o início do bairro Agronômica. Ela corta o bairro de Sul a Norte e reúne alguns dos principais restaurantes, redes de fast food, bares, pubs, baladas e shoppings de lá. Ela e outras ruazinhas nos arredores da UFSC, como a Rua. Des. Vítor Lima, são pontos de encontro dos jovens universitários, que buscam relaxar na boêmia vida noturna do bairro.</p></span><span class="listAndCta"><ul class="list im"><li>63m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
+                {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Apartamento com 2 dormitórios para alugar, 63 m² por r$ 2.900/mês - carvoeira - florianópolis/sc", "description": "Apartamento SEMI-MOBILIADO com 02 dormitórios, 01 banheiro social, lavanderia, cozinha com móveis planejados, sala de estar, sacada com churrasqueira e 01 vaga de garagem. Este apartamento é a escolha perfeita para quem busca conforto e praticidade. Localizado em um edifício bem posicionado e próximo à Universidade Federal de Santa Catarina (UFSC), o qual oferece a conveniência de estar perto de tudo que você precisa. Sobre o bairro: Trindade é um bairro na região central de Florianópolis, capital de Santa Catarina, Brasil. Localizado entre aos pés do maciço do Morro da Cruz entre este e o Manguezal do Itacorubi, é o segundo mais populoso da cidade, fazendo divisa com os bairros Córrego Grande, Agronômica, Santa Mônica, Pantanal e Itacorubi. Desde 1960, a Trindade é considerada um bairro universitário, por isso recebe um fluxo considerável de estudantes e moradores temporários. Para atender às demandas desse público, o bairro cresceu significativamente nas últimas décadas, demograficamente e também em infraestrutura.  Para servir os moradores principalmente o público universitário e turistas que passam pelo bairro, Trindade conta com restaurantes, bares, baladas, centros culturais, hospital, centro de saúde, shopping, supermercados, farmácias, escolas, delegacia, corpo de bombeiros e terminal de ônibus (o Terminal de Integração da Trindade TITRI).  A Rua Lauro Linhares tem início logo em frente ao campus da UFSC, ao lado da Praça Santos Dumont conhecida também como Pida e se estende até o início do bairro Agronômica. Ela corta o bairro de Sul a Norte e reúne alguns dos principais restaurantes, redes de fast food, bares, pubs, baladas e shoppings de lá. Ela e outras ruazinhas nos arredores da UFSC, como a Rua. Des. Vítor Lima, são pontos de encontro dos jovens universitários, que buscam relaxar na boêmia vida noturna do bairro.", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "63m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88040-410", "streetAddress": "Rua Douglas Seabra Levier, "}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.52455", "longitude": "-27.59611"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-83m2-RS2900/id-24893097/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-carvoeira-83m2-RS2900/id-24893097/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
                 </script>]]></content>
     </entry>
     <entry>
@@ -2929,19 +2876,19 @@
                 </script>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lindo apartamento 02 dormitórios mobiliado na trindade (Chaves na mão)]]></title>
-        <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-81m2-RS2900/id-24496914/</id>
-        <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-81m2-RS2900/id-24496914/"/>
-        <updated>2024-09-14T05:41:32.918Z</updated>
-        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-24496914" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+24496914"></span><a title="Fotos Lindo apartamento 02 dormitórios mobiliado na trindade" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-81m2-RS2900/id-24496914/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+24496914"><span class="picGallery firstPic"><picture></picture><small></small></span>Lindo apartamento 02 dormitórios mobiliado na trindade</a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Lindo apartamento 02 dormitórios mobiliado na trindade" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-81m2-RS2900/id-24496914/" rel="noreferrer"><h2>Lindo apartamento 02 dormitórios mobiliado na trindade</h2><address><small>Rua Europa, 212<!-- --> </small><b> <!-- -->Trindade, Florianópolis</b></address><p class="price"><b>R$ 2.900</b><small class="cond"> Cond.: R$ 480</small></p></a><p>Apartamento 02 Dormitórios, 01 banheiro social, sala de estar, sala de jantar, cozinha e área de serviço. Ar condicionado na sala e Dormitórios. Posição solar oeste aproveitando o sol da tarde, Vista panorâmica. Conta com 01 vaga de garagem rotativa. Ótima localização, próximo a mercados, padaria, posto de gasolina e comércios em geral. Conta com toda comodidade do bairro Trindade. Fácil acesso ao centro de Florianópolis e norte da ilha. Aproveite essa ótima oportunidade e entre em contato para mais informações.</p></span><span class="listAndCta"><ul class="list im"><li>64m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
-                {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Lindo apartamento 02 dormitórios mobiliado na trindade", "description": "Apartamento 02 Dormitórios, 01 banheiro social, sala de estar, sala de jantar, cozinha e área de serviço. Ar condicionado na sala e Dormitórios. Posição solar oeste aproveitando o sol da tarde, Vista panorâmica. Conta com 01 vaga de garagem rotativa. Ótima localização, próximo a mercados, padaria, posto de gasolina e comércios em geral. Conta com toda comodidade do bairro Trindade. Fácil acesso ao centro de Florianópolis e norte da ilha. Aproveite essa ótima oportunidade e entre em contato para mais informações.", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "64m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88036-135", "streetAddress": "Rua Europa, 212"}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.52676", "longitude": "-27.58575"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-81m2-RS2900/id-24496914/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-81m2-RS2900/id-24496914/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
+        <title type="html"><![CDATA[Apartamento com 2 quartos para alugar na rua lauro linhares, 970, trindade, florianópolis, 64 m2 por r$ 2.950 (Chaves na mão)]]></title>
+        <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-92m2-RS2950/id-1137446/</id>
+        <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-92m2-RS2950/id-1137446/"/>
+        <updated>2024-09-14T17:39:53.773Z</updated>
+        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-1137446" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+1137446"></span><a title="Fotos Apartamento com 2 quartos para alugar na rua lauro linhares, 970, trindade, florianópolis, 64 m2 por r$ 2.950" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-92m2-RS2950/id-1137446/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+1137446"><span class="picGallery firstPic"><picture></picture><small></small></span>Apartamento com 2 quartos para alugar na rua lauro linhares, 970, trindade, florianópolis, 64 m2 por r$ 2.950</a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento com 2 quartos para alugar na rua lauro linhares, 970, trindade, florianópolis, 64 m2 por r$ 2.950" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-92m2-RS2950/id-1137446/" rel="noreferrer"><h2>Apartamento com 2 quartos para alugar na rua lauro linhares, 970, trindade, florianópolis, 64 m2 por r$ 2.950</h2><address><small>Rua Lauro Linhares, 970<!-- --> </small><b> <!-- -->Trindade, Florianópolis</b></address><p class="price"><b>R$ 2.950</b><small class="cond"> Cond.: R$ 906</small></p></a><p>Apartamento com 2 quartos, sala com sacada e churrasqueira, cozinha com móveis planejados, área de serviço, banheiro social com box de vidro e 1 vaga de garagem. Agende uma visita e venha conferir</p></span><span class="listAndCta"><ul class="list im"><li>64m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
+                {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Apartamento com 2 quartos para alugar na rua lauro linhares, 970, trindade, florianópolis, 64 m2 por r$ 2.950", "description": "Apartamento com 2 quartos, sala com sacada e churrasqueira, cozinha com móveis planejados, área de serviço, banheiro social com box de vidro e 1 vaga de garagem. Agende uma visita e venha conferir", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "64m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88036-001", "streetAddress": "Rua Lauro Linhares, 970"}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.524012200000016", "longitude": "-27.5876666"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-92m2-RS2950/id-1137446/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-92m2-RS2950/id-1137446/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
                 </script>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-09-14T05:41:35.618Z</updated>
+        <updated>2024-09-14T17:39:56.570Z</updated>
         <content type="html"><![CDATA[<div class="flex-1 flex items-center text-sm text-helper-color">
 Page 1 of 20 clips
 </div>]]></content>
@@ -4170,7 +4117,7 @@ Click to play
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-09-14T05:41:35.618Z</updated>
+        <updated>2024-09-14T17:39:56.572Z</updated>
         <content type="html"><![CDATA[<a href="/podcast-clips/" class="ln-btn ln-btn-secondary">
 Curate your own podcast clips
 <span class="ln-icon-arrow-right"></span>
@@ -4180,7 +4127,7 @@ Curate your own podcast clips
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-09-14T05:41:35.619Z</updated>
+        <updated>2024-09-14T17:39:56.578Z</updated>
         <content type="html"><![CDATA[<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-16">
 <div class="col-span-1">
 <div class="mb-4">
@@ -5055,7 +5002,7 @@ Go to a clip page. (<a href="https://www.listennotes.com/clips/kevin-systrom-and
         <title type="html"><![CDATA[undefined (Conrado Hübner Mendes | Folha)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-09-14T05:41:48.018Z</updated>
+        <updated>2024-09-14T17:40:17.973Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
     <entry>
