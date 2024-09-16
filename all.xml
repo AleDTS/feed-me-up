@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-16T05:43:34.274Z</updated>
+    <updated>2024-09-16T17:43:23.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Apartamento no Bairro Carvoeira em Florianópolis com 2 Dormitórios - 125844 (Imóveis-SC)]]></title>
@@ -53,7 +53,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1367063">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 255.825" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 225.825" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -167,7 +167,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1366547">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 175.05" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 145.05" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -752,7 +752,7 @@
             <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1361727">
                 Entrar em contato
             </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 370.5136" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 369.5924" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
                 
                 
             </a>
@@ -2731,7 +2731,7 @@
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-09-16T05:43:16.463Z</updated>
+        <updated>2024-09-16T17:43:05.820Z</updated>
         <content type="html"><![CDATA[<div class="flex-1 flex items-center text-sm text-helper-color">
 Page 1 of 20 clips
 </div>]]></content>
@@ -3960,7 +3960,7 @@ Click to play
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-09-16T05:43:16.466Z</updated>
+        <updated>2024-09-16T17:43:05.824Z</updated>
         <content type="html"><![CDATA[<a href="/podcast-clips/" class="ln-btn ln-btn-secondary">
 Curate your own podcast clips
 <span class="ln-icon-arrow-right"></span>
@@ -3970,7 +3970,7 @@ Curate your own podcast clips
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-09-16T05:43:16.466Z</updated>
+        <updated>2024-09-16T17:43:05.824Z</updated>
         <content type="html"><![CDATA[<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-16">
 <div class="col-span-1">
 <div class="mb-4">
@@ -4076,7 +4076,7 @@ Go to a clip page. (<a href="https://www.listennotes.com/clips/kevin-systrom-and
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/07/14/divertida-mente-2-filme-emocoes-transformacao-adolescencia-psicanalise.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/07/14/divertida-mente-2-filme-emocoes-transformacao-adolescencia-psicanalise.htm"/>
         <updated>2024-07-14T04:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/entretenimento/aa/2024/06/22/cena-do-filme-divertida-mente-2-1719069240375_v2_300x225.png.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/aa/2024/06/22/cena-do-filme-divertida-mente-2-1719069240375_v2_300x225.png.webp" width="300" height="225" decoding="async" data-crazyload="loaded" class=" loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">O que está certo ou errado sobre os afetos exibidos em 'Divertida Mente 2'</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">14/07/2024 04h00</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/aa/2024/06/22/cena-do-filme-divertida-mente-2-1719069240375_v2_300x225.png.webp" width="300" height="225" decoding="async" data-crazyload="loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">O que está certo ou errado sobre os afetos exibidos em 'Divertida Mente 2'</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">14/07/2024 04h00</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sexo, amor, intimidade? É o humor que vai ajudar sua relação a dar certo (Blog do Dunker | UOL)]]></title>
@@ -4845,7 +4845,7 @@ Go to a clip page. (<a href="https://www.listennotes.com/clips/kevin-systrom-and
         <title type="html"><![CDATA[undefined (Conrado Hübner Mendes | Folha)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-09-16T05:43:28.931Z</updated>
+        <updated>2024-09-16T17:43:18.303Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
     <entry>
