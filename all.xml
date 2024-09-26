@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-25T17:41:50.632Z</updated>
+    <updated>2024-09-26T05:43:26.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios - 557610 (Imóveis-SC)]]></title>
@@ -2912,7 +2912,7 @@
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-09-25T17:41:33.714Z</updated>
+        <updated>2024-09-26T05:43:09.537Z</updated>
         <content type="html"><![CDATA[<div class="flex-1 flex items-center text-sm text-helper-color">
 Page 1 of 20 clips
 </div>]]></content>
@@ -4141,7 +4141,7 @@ Click to play
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-09-25T17:41:33.715Z</updated>
+        <updated>2024-09-26T05:43:09.538Z</updated>
         <content type="html"><![CDATA[<a href="/podcast-clips/" class="ln-btn ln-btn-secondary">
 Curate your own podcast clips
 <span class="ln-icon-arrow-right"></span>
@@ -4151,7 +4151,7 @@ Curate your own podcast clips
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-09-25T17:41:33.715Z</updated>
+        <updated>2024-09-26T05:43:09.538Z</updated>
         <content type="html"><![CDATA[<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-16">
 <div class="col-span-1">
 <div class="mb-4">
@@ -4246,6 +4246,13 @@ Go to a clip page. (<a href="https://www.listennotes.com/clips/kevin-systrom-and
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Como 'redes antissociais' minam nossa sanidade --e o papel da IA nisso (Blog do Dunker | UOL)]]></title>
+        <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/09/25/redes-anti-sociais-versus-desinteligencia-artificial.htm</id>
+        <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/09/25/redes-anti-sociais-versus-desinteligencia-artificial.htm"/>
+        <updated>2024-09-25T16:44:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/noticias/91/2024/05/29/homem-mesmerizado-por-fake-news-1716965214640_v2_300x225.jpg.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/91/2024/05/29/homem-mesmerizado-por-fake-news-1716965214640_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded" class=" loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Como 'redes antissociais' minam nossa sanidade --e o papel da IA nisso</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">25/09/2024 16h44</time>   </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sedução Algorítmica: como o prazer morno, sem gozo, move a nova economia (Blog do Dunker | UOL)]]></title>
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/09/17/as-seducoes-algoritimicas.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/09/17/as-seducoes-algoritimicas.htm"/>
@@ -4264,14 +4271,14 @@ Go to a clip page. (<a href="https://www.listennotes.com/clips/kevin-systrom-and
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/07/14/divertida-mente-2-filme-emocoes-transformacao-adolescencia-psicanalise.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/07/14/divertida-mente-2-filme-emocoes-transformacao-adolescencia-psicanalise.htm"/>
         <updated>2024-07-14T04:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/aa/2024/06/22/cena-do-filme-divertida-mente-2-1719069240375_v2_300x225.png.webp" width="300" height="225" decoding="async" data-crazyload="loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">O que está certo ou errado sobre os afetos exibidos em 'Divertida Mente 2'</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">14/07/2024 04h00</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/entretenimento/aa/2024/06/22/cena-do-filme-divertida-mente-2-1719069240375_v2_300x225.png.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/aa/2024/06/22/cena-do-filme-divertida-mente-2-1719069240375_v2_300x225.png.webp" width="300" height="225" decoding="async" data-crazyload="loaded" class=" loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">O que está certo ou errado sobre os afetos exibidos em 'Divertida Mente 2'</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">14/07/2024 04h00</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sexo, amor, intimidade? É o humor que vai ajudar sua relação a dar certo (Blog do Dunker | UOL)]]></title>
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/07/07/sexo-e-humor----relacionamento----psicanalise----prazer----intimidade.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/07/07/sexo-e-humor----relacionamento----psicanalise----prazer----intimidade.htm"/>
         <updated>2024-07-07T04:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/entretenimento/1d/2022/10/05/leonard-e-penny-se-casaram-em-the-big-bang-theory-1664999493852_v2_300x225.jpg.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/1d/2022/10/05/leonard-e-penny-se-casaram-em-the-big-bang-theory-1664999493852_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded" class=" loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Sexo, amor, intimidade? É o humor que vai ajudar sua relação a dar certo</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">07/07/2024 04h00</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/1d/2022/10/05/leonard-e-penny-se-casaram-em-the-big-bang-theory-1664999493852_v2_300x225.jpg" width="300" height="225"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Sexo, amor, intimidade? É o humor que vai ajudar sua relação a dar certo</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">07/07/2024 04h00</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Não se engane em nome de Deus: Bíblia dá base ao PL Antiaborto por Estupro? (Blog do Dunker | UOL)]]></title>
@@ -4316,11 +4323,11 @@ Go to a clip page. (<a href="https://www.listennotes.com/clips/kevin-systrom-and
         <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/c7/2021/05/25/homem-e-mulher-de-maos-dadas-1621973063675_v2_300x225.jpg" width="300" height="225"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Amores digitais: como identificar que vocês estão vivendo uma relação hoje?</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">01/05/2024 04h00</time>   </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Suspender a censura virou nossa forma oficial de diversão na vida digital (Blog do Dunker | UOL)]]></title>
-        <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/04/24/vida-digital--capacidade-de-escuta--relacionamento--psicanalise--censura.htm</id>
-        <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/04/24/vida-digital--capacidade-de-escuta--relacionamento--psicanalise--censura.htm"/>
-        <updated>2024-06-12T18:59:09.078Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter v1"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x200.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x200&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/aa/2015/10/30/discussao-deputados-discutem-briga-debate-1446216749214_300x200.jpg" width="300" height="200"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Suspender a censura virou nossa forma oficial de diversão na vida digital</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">24/04/2024 04h00</time>   </div>]]></content>
+        <title type="html"><![CDATA[Rodrigo Pacheco se alia ao incêndio (Conrado Hübner Mendes | Folha)]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/09/rodrigo-pacheco-se-alia-ao-incendio.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/09/rodrigo-pacheco-se-alia-ao-incendio.shtml"/>
+        <updated>2024-09-25T16:36:00.000Z</updated>
+        <content type="html"><![CDATA[Depois de defender prisão de preto pobre, senador pisca ao criminoso ambiental]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Quer ser criminoso, vá de crime ambiental (Conrado Hübner Mendes | Folha)]]></title>
@@ -5016,17 +5023,10 @@ Go to a clip page. (<a href="https://www.listennotes.com/clips/kevin-systrom-and
         <content type="html"><![CDATA[O colunista está em férias.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Corrupção bolsonarista, a série sem fim (Conrado Hübner Mendes | Folha)]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/08/corrupcao-bolsonarista-a-serie-sem-fim.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/08/corrupcao-bolsonarista-a-serie-sem-fim.shtml"/>
-        <updated>2022-08-17T17:28:00.000Z</updated>
-        <content type="html"><![CDATA['Sem pandemia, sem corrupção e com Deus no coração']]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (Conrado Hübner Mendes | Folha)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-09-25T17:41:45.484Z</updated>
+        <updated>2024-09-26T05:43:21.092Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
     <entry>
