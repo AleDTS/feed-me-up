@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2024-10-02T17:41:12.194Z</updated>
+    <updated>2024-10-03T05:43:03.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[A advocacia pode tudo?]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/10/a-advocacia-pode-tudo.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/10/a-advocacia-pode-tudo.shtml"/>
+        <updated>2024-10-02T19:05:00.000Z</updated>
+        <content type="html"><![CDATA[Empresas deveriam responder pelos métodos advocatícios que contratam]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rodrigo Pacheco se alia ao incêndio]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/09/rodrigo-pacheco-se-alia-ao-incendio.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[Numa eleição incomparável, dar a Bolsonaro chance do segundo turno põe tudo em risco]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aviso]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/08/aviso.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/08/aviso.shtml"/>
-        <updated>2022-08-24T16:56:00.000Z</updated>
-        <content type="html"><![CDATA[O colunista está em férias.]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2024-10-02T17:41:07.068Z</updated>
+        <updated>2024-10-03T05:42:58.185Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
