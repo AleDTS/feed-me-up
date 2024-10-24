@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2024-10-23T17:41:50.946Z</updated>
+    <updated>2024-10-24T05:43:15.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[STF não passa no seu teste de integridade]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/10/stf-nao-passa-no-seu-teste-de-integridade.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/10/stf-nao-passa-no-seu-teste-de-integridade.shtml"/>
+        <updated>2024-10-23T18:33:00.000Z</updated>
+        <content type="html"><![CDATA[Tribunal pressupõe a ética de ministros, mas desconfia de seus servidores]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[O STF faz por merecer algum respeito?]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/10/o-stf-faz-por-merecer-algum-respeito.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[Eventual reeleição de Bolsonaro pode lhe dar a carta branca que faltava]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2º turno é guerra atômica]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/09/2o-turno-e-guerra-atomica.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/09/2o-turno-e-guerra-atomica.shtml"/>
-        <updated>2022-09-28T17:30:00.000Z</updated>
-        <content type="html"><![CDATA[Derrotar Bolsonaro mais cedo não é salvação, mas atenua riscos, danos e violência]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2024-10-23T17:41:45.760Z</updated>
+        <updated>2024-10-24T05:43:10.702Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
