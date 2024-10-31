@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2024-10-30T17:42:09.417Z</updated>
+    <updated>2024-10-31T05:43:45.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Cartilha para eleger Tarcísio]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/10/cartilha-para-eleger-tarcisio.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/10/cartilha-para-eleger-tarcisio.shtml"/>
+        <updated>2024-10-30T18:36:00.000Z</updated>
+        <content type="html"><![CDATA[Meios, modos e eufemismos na promoção de um extremista à Presidência]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STF não passa no seu teste de integridade]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/10/stf-nao-passa-no-seu-teste-de-integridade.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[Nessa competição, só a urna eletrônica permanece íntegra]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Como autocracias nascem]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/10/como-autocracias-nascem.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/10/como-autocracias-nascem.shtml"/>
-        <updated>2022-10-05T19:28:00.000Z</updated>
-        <content type="html"><![CDATA[Eventual reeleição de Bolsonaro pode lhe dar a carta branca que faltava]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2024-10-30T17:41:59.940Z</updated>
+        <updated>2024-10-31T05:43:39.367Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
