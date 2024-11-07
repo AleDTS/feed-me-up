@@ -2,8 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-07T05:42:21.226Z</updated>
+    <updated>2024-11-07T17:41:01.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios e 78 m² - 126427 (Imóveis-SC)]]></title>
+        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1381611.html</id>
+        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1381611.html"/>
+        <updated>2024-11-07T17:40:34.025Z</updated>
+        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1381611">
+<input type="hidden" name="totalvalue" id="totalvalue" value="3400">
+<input type="hidden" name="category" id="category" value="Aluguel">
+    <div class="imovel-data">
+        <header class="imovel-header">
+            <h2 class="imovel-titulo">
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1381611.html">
+                    Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios e 78 m² - 126427
+
+                    <meta itemprop="name" content="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios e 78 m² - 126427">
+                    <meta itemprop="brand" content="Ibagy Imóveis">
+                    <meta itemprop="model" content="Apartamento">
+                    <meta itemprop="sku" content="126427">
+                </a>
+            </h2>
+            <div class="imovel-extra">
+                <strong>Florianópolis, Trindade</strong>
+                <span>Cód.: 126427</span>
+                
+            </div>
+        </header>
+                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
+            R$ <small itemprop="price">3.400,00</small>
+            <meta itemprop="priceCurrency" content="BRL">
+            <meta itemprop="lowprice" content="3.400,00">
+        </span>
+        <p class="imovel-descricao">
+            Apartamentos em Florianópolis - Descubra este excelente apartamento para aluguel no prestigiado empreendimento...
+        </p>
+        <ul class="imovel-info">
+                                    <li>
+                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
+                <span><strong>3</strong> quartos</span>
+            </li>
+                                                <li>
+                <i class="mdi mdi-car mdi-30px"></i>
+                <span><strong>1</strong> vaga</span>
+            </li>
+                                         <li>
+                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
+                    <span><strong>78,0</strong> m²</span>
+                </li>
+                                        </ul>
+        <div class="imovel-actions">
+            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1381611.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
+            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1381611">
+                Entrar em contato
+            </button>
+            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 250.2" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
+                
+                
+            </a>
+        </div>
+    </div>
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1381611.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1381611-0-672c730b6ba4d1518121116.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios e 78 m² - 126427">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1381611.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1381611-1-672c730b6ba5550308669.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios e 78 m² - 126427">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1381611.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1381611-2-672c730b6ba591393233222.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios e 78 m² - 126427">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1381611.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1381611-3-672c730b6ba5e1992295794.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios e 78 m² - 126427">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1381611.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1381611-4-672c730b6ba61483070388.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios e 78 m² - 126427">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1381611.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1381611-5-672c730b6ba65488150388.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios e 78 m² - 126427">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1381611.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1381611-6-672c730b6ba69709958434.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios e 78 m² - 126427">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1381611.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1381611-7-672c730b6ba6c1295317324.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios e 78 m² - 126427">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1381611.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1381611-8-672c730b6ba701883823303.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios e 78 m² - 126427">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1381611.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1381611-9-672c730b6ba741443667335.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios e 78 m² - 126427">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1381611.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1381611-10-672c730b6ba78986460908.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 3 Dormitórios e 78 m² - 126427">
+        </a>
+                    </div>
+
+    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1381611" data-value="1">
+	<i class="fa fa-heart-o "></i>
+</button>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L (Imóveis-SC)]]></title>
         <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html</id>
@@ -818,172 +917,6 @@
                     </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1375449" data-value="1">
-	<i class="fa fa-heart-o "></i>
-</button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142 (Imóveis-SC)]]></title>
-        <id>https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html</id>
-        <link href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html"/>
-        <updated>2024-10-12T17:40:23.656Z</updated>
-        <content type="html"><![CDATA[<input type="hidden" name="prodid" id="prodid" value="1375446">
-<input type="hidden" name="totalvalue" id="totalvalue" value="3500">
-<input type="hidden" name="category" id="category" value="Aluguel">
-    <div class="imovel-data">
-        <header class="imovel-header">
-            <h2 class="imovel-titulo">
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html">
-                    Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142
-
-                    <meta itemprop="name" content="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-                    <meta itemprop="brand" content="Ibagy Imóveis">
-                    <meta itemprop="model" content="Apartamento">
-                    <meta itemprop="sku" content="126142">
-                </a>
-            </h2>
-            <div class="imovel-extra">
-                <strong>Florianópolis, Pantanal</strong>
-                <span>Cód.: 126142</span>
-                
-            </div>
-        </header>
-                <span class="imovel-preco" itemprop="offers" itemscope="" itemtype="http://schema.org/AggregateOffer">
-            R$ <small itemprop="price">3.500,00</small>
-            <meta itemprop="priceCurrency" content="BRL">
-            <meta itemprop="lowprice" content="3.500,00">
-        </span>
-        <p class="imovel-descricao">
-            Apartamentos em Florianópolis - Apartamento semi mobiliado para alugar no AMA DABLAM RESIDENCE. Com...
-        </p>
-        <ul class="imovel-info">
-                                    <li>
-                <i class="mdi mdi-bed-king-outline mdi-30px"></i>
-                <span><strong>2</strong> quartos</span>
-            </li>
-                                    <li>
-                <i class="mdi mdi-shower mdi-30px"></i>
-                <span><strong>1</strong> suíte</span>
-            </li>
-                                    <li>
-                <i class="mdi mdi-car mdi-30px"></i>
-                <span><strong>2</strong> vagas</span>
-            </li>
-                                         <li>
-                    <i class="mdi mdi-arrow-expand mdi-30px"></i>
-                    <span><strong>60,0</strong> m²</span>
-                </li>
-                                        </ul>
-        <div class="imovel-actions">
-            <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="btn btn-md btn-upper btn-green btn-visualizar">Ver Detalhes</a>
-            <button onclick="btnLoadModalClick(this,event);" class="btn btn-sm btn-upper btn-transparent btn-entrar-contato" data-url="https://www.imoveis-sc.com.br/ajax-contato-imovel/1375446">
-                Entrar em contato
-            </button>
-            <a href="https://www.imoveis-sc.com.br/imobiliarias/florianopolis/ibagy-imoveis-1" class="fright imovel-anunciante" title="Ibagy Imóveis - 159.375" style="background-image: url(https://s3.amazonaws.com/imoveissc-media-production/media/anunciantes/imagem_imovel_64a5adfbc13ff2016558521000.png)">
-                
-                
-            </a>
-        </div>
-    </div>
-        <div class="imovel-imagem owl-carousel owl-theme ">
-                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-0-670a34b8650751771094332.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-1-670a34b86507d826587270.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-2-670a34b8650841623445362.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-3-670a34b86508a1396210883.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-4-670a34b8650911456774059.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-5-670a34b865097309294397.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-6-670a34b86509d1777436954.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-7-670a34b8650a31910410703.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-8-670a34b8650a9588524014.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-9-670a34b8650af1744074981.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-10-670a34b8650cd1622790703.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-11-670a34b8650d4992805308.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-12-670a34b8650da846081707.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-13-670a34b8650e01013974896.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-14-670a34b8650e647640561.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-15-670a34b8650ed2040889466.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-16-670a34b8650f3253005526.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-17-672b223fc3750496148657.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-18-672b223fc3754151210633.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-19-672b223fc37581202157689.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-20-672b223fc375c2130031956.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-21-672b223fc3760746328304.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-22-672b223fc37641639837604.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-23-672b223fc3768984279076.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-24-672b223fc376c251468001.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-25-672b223fc37721720660035.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-26-672b223fc37761807486636.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-27-672b223fc377a597581874.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-28-672b223fc377f250704937.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-29-672b223fc378320826407.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-30-672b223fc37871445268324.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/pantanal/apartamento-florianopolis-pantanal-1375446.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-pantanal-1375446-31-672b223fc378c1419118094.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios (1 suíte) e 60 m² - 126142">
-        </a>
-                    </div>
-
-    <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1375446" data-value="1">
 	<i class="fa fa-heart-o "></i>
 </button>]]></content>
     </entry>
@@ -2565,7 +2498,7 @@
         <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-45m2-RS2200/id-4001805/</id>
         <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-45m2-RS2200/id-4001805/"/>
         <updated>2024-11-01T17:41:49.139Z</updated>
-        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-4001805" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+4001805"></span><a title="Fotos Apartamento com 2 quartos para alugar na servidão martinho leandro dos santos, 170, pantanal, florianópolis, 45 m2 por r$ 2.200" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-45m2-RS2200/id-4001805/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+4001805"><span class="picGallery firstPic"><picture id="ssr"><img src="https://www.chavesnamao.com.br/imn/0358X0250/N/imoveis/27556/4001805/sc-florianopolis-pantanal-servidao-martinho-leandro-dos-santos-apartamento-para-alugar-2-quartos-66c6fed7-1.jpg" alt="Apartamento com 2 quartos para alugar na servidão martinho leandro dos santos, 170, pantanal, florianópolis, 45 m2 por r$ 2.200" width="358" height="250"></picture></span><span class="picGallery"><picture disabled=""><img src="https://www.chavesnamao.com.br/imn/0358x0250/N/imoveis/27556/4001805/sc-florianopolis-pantanal-servidao-martinho-leandro-dos-santos-apartamento-para-alugar-2-quartos-66c6fed7-2.jpg" alt="Apartamento com 2 quartos para alugar na servidão martinho leandro dos santos, 170, pantanal, florianópolis, 45 m2 por r$ 2.200" width="358" height="250"></picture><small></small></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery more"><picture></picture><small></small><i class="icon-photo-camera-1"></i><span class="pluspic" role="presentation" aria-hidden="true">+ 14 Fotos </span></span></a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento com 2 quartos para alugar na servidão martinho leandro dos santos, 170, pantanal, florianópolis, 45 m2 por r$ 2.200" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-45m2-RS2200/id-4001805/" rel="noreferrer"><h2>Apartamento com 2 quartos para alugar na servidão martinho leandro dos santos, 170, pantanal, florianópolis, 45 m2 por r$ 2.200</h2><address><small>Servidão Martinho Leandro dos Santos, 170<!-- --> </small><b> <!-- -->Pantanal, Florianópolis</b></address><p class="price"><b>R$ 2.200</b><small class="cond"> Cond.: R$ 250</small></p></a><p>Apartamento 2 quartos, sala, cozinha coma armários, piso cerâmico, 1 vaga de garagem.  Muito procurado por estudantes, por sua proximidade com a UFSC, o Pantanal é um bairro residencial, que possui pequeno comércio, com mercados, bares, restaurantes, farmácias, padarias e postos de gasolina.</p></span><span class="listAndCta"><ul class="list im"><li>45m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
+        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-4001805" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+4001805"></span><a title="Fotos Apartamento com 2 quartos para alugar na servidão martinho leandro dos santos, 170, pantanal, florianópolis, 45 m2 por r$ 2.200" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-45m2-RS2200/id-4001805/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+4001805"><span class="picGallery firstPic"><picture id="ssr"><img src="https://www.chavesnamao.com.br/imn/0358X0250/N/imoveis/27556/4001805/sc-florianopolis-pantanal-servidao-martinho-leandro-dos-santos-apartamento-para-alugar-2-quartos-66c6fed7-1.jpg" alt="Apartamento com 2 quartos para alugar na servidão martinho leandro dos santos, 170, pantanal, florianópolis, 45 m2 por r$ 2.200" width="358" height="250"></picture></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery more"><picture></picture><small></small><i class="icon-photo-camera-1"></i><span class="pluspic" role="presentation" aria-hidden="true">+ 14 Fotos </span></span></a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento com 2 quartos para alugar na servidão martinho leandro dos santos, 170, pantanal, florianópolis, 45 m2 por r$ 2.200" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-45m2-RS2200/id-4001805/" rel="noreferrer"><h2>Apartamento com 2 quartos para alugar na servidão martinho leandro dos santos, 170, pantanal, florianópolis, 45 m2 por r$ 2.200</h2><address><small>Servidão Martinho Leandro dos Santos, 170<!-- --> </small><b> <!-- -->Pantanal, Florianópolis</b></address><p class="price"><b>R$ 2.200</b><small class="cond"> Cond.: R$ 250</small></p></a><p>Apartamento 2 quartos, sala, cozinha coma armários, piso cerâmico, 1 vaga de garagem.  Muito procurado por estudantes, por sua proximidade com a UFSC, o Pantanal é um bairro residencial, que possui pequeno comércio, com mercados, bares, restaurantes, farmácias, padarias e postos de gasolina.</p></span><span class="listAndCta"><ul class="list im"><li>45m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
                 {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Apartamento com 2 quartos para alugar na servidão martinho leandro dos santos, 170, pantanal, florianópolis, 45 m2 por r$ 2.200", "description": "Apartamento 2 quartos, sala, cozinha coma armários, piso cerâmico, 1 vaga de garagem.  Muito procurado por estudantes, por sua proximidade com a UFSC, o Pantanal é um bairro residencial, que possui pequeno comércio, com mercados, bares, restaurantes, farmácias, padarias e postos de gasolina.", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "45m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88040-050", "streetAddress": "Servidão Martinho Leandro dos Santos, 170"}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.5244084", "longitude": "-27.609053"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-45m2-RS2200/id-4001805/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-45m2-RS2200/id-4001805/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
                 </script>]]></content>
     </entry>
@@ -2574,7 +2507,7 @@
         <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-saco-dos-limoes-75m2-RS2400/id-1031807/</id>
         <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-saco-dos-limoes-75m2-RS2400/id-1031807/"/>
         <updated>2024-09-19T17:40:50.993Z</updated>
-        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-1031807" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+1031807"></span><a title="Fotos Apartamento com 2 quartos para alugar na rua joão motta espezim, 922, saco dos limões, florianópolis, 52 m2 por r$ 2.400" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-saco-dos-limoes-75m2-RS2400/id-1031807/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+1031807"><span class="picGallery firstPic"><picture disabled=""><img src="https://www.chavesnamao.com.br/imn/0358x0250/N/imoveis/27556/1031807/sc-florianopolis-saco-dos-limoes-rua-joao-motta-espezim-apartamento-para-alugar-2-quartos-64b2709d-1.jpg" alt="Apartamento com 2 quartos para alugar na rua joão motta espezim, 922, saco dos limões, florianópolis, 52 m2 por r$ 2.400" width="358" height="250"></picture><small disabled=""></small></span><span class="picGallery"><picture disabled=""><img src="https://www.chavesnamao.com.br/imn/0358x0250/N/imoveis/27556/1031807/sc-florianopolis-saco-dos-limoes-rua-joao-motta-espezim-apartamento-para-alugar-2-quartos-64b2709d-2.jpg" alt="Apartamento com 2 quartos para alugar na rua joão motta espezim, 922, saco dos limões, florianópolis, 52 m2 por r$ 2.400" width="358" height="250"></picture><small></small></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery"><picture></picture><small></small></span><span class="picGallery more"><picture></picture><small></small><i class="icon-photo-camera-1"></i><span class="pluspic" role="presentation" aria-hidden="true">+ 19 Fotos </span></span></a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento com 2 quartos para alugar na rua joão motta espezim, 922, saco dos limões, florianópolis, 52 m2 por r$ 2.400" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-saco-dos-limoes-75m2-RS2400/id-1031807/" rel="noreferrer"><h2>Apartamento com 2 quartos para alugar na rua joão motta espezim, 922, saco dos limões, florianópolis, 52 m2 por r$ 2.400</h2><address><small>Rua João Motta Espezim, 922<!-- --> </small><b> <!-- -->Saco dos Limões, Florianópolis</b></address><p class="price"><b>R$ 2.400</b><small class="cond"> Cond.: R$ 621</small></p></a><p>Apartamento para aluguel no bairro Saco dos limões com 52,92m² de área privativa e 2 dormitórios. O imóvel conta ainda com sala ampla e bem arejada, sacada com churrasqueira, cozinha com armário e pia, área de serviço, banheiro social, piso cerâmico e 1 vaga de garagem. Venha viver em um espaço que combina conforto e acessibilidade. Agende sua visita e faça deste lugar o seu novo lar!</p></span><span class="listAndCta"><ul class="list im"><li>52m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
+        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-1031807" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+1031807"></span><a title="Fotos Apartamento com 2 quartos para alugar na rua joão motta espezim, 922, saco dos limões, florianópolis, 52 m2 por r$ 2.400" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-saco-dos-limoes-75m2-RS2400/id-1031807/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+1031807"><span class="picGallery firstPic"><picture></picture><small></small></span>Apartamento com 2 quartos para alugar na rua joão motta espezim, 922, saco dos limões, florianópolis, 52 m2 por r$ 2.400</a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento com 2 quartos para alugar na rua joão motta espezim, 922, saco dos limões, florianópolis, 52 m2 por r$ 2.400" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-saco-dos-limoes-75m2-RS2400/id-1031807/" rel="noreferrer"><h2>Apartamento com 2 quartos para alugar na rua joão motta espezim, 922, saco dos limões, florianópolis, 52 m2 por r$ 2.400</h2><address><small>Rua João Motta Espezim, 922<!-- --> </small><b> <!-- -->Saco dos Limões, Florianópolis</b></address><p class="price"><b>R$ 2.400</b><small class="cond"> Cond.: R$ 621</small></p></a><p>Apartamento para aluguel no bairro Saco dos limões com 52,92m² de área privativa e 2 dormitórios. O imóvel conta ainda com sala ampla e bem arejada, sacada com churrasqueira, cozinha com armário e pia, área de serviço, banheiro social, piso cerâmico e 1 vaga de garagem. Venha viver em um espaço que combina conforto e acessibilidade. Agende sua visita e faça deste lugar o seu novo lar!</p></span><span class="listAndCta"><ul class="list im"><li>52m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
                 {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Apartamento com 2 quartos para alugar na rua joão motta espezim, 922, saco dos limões, florianópolis, 52 m2 por r$ 2.400", "description": "Apartamento para aluguel no bairro Saco dos limões com 52,92m² de área privativa e 2 dormitórios. O imóvel conta ainda com sala ampla e bem arejada, sacada com churrasqueira, cozinha com armário e pia, área de serviço, banheiro social, piso cerâmico e 1 vaga de garagem. Venha viver em um espaço que combina conforto e acessibilidade. Agende sua visita e faça deste lugar o seu novo lar!", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "52m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88045-400", "streetAddress": "Rua João Motta Espezim, 922"}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.5317342", "longitude": "-27.6098679"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-saco-dos-limoes-75m2-RS2400/id-1031807/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-saco-dos-limoes-75m2-RS2400/id-1031807/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
                 </script>]]></content>
     </entry>
@@ -2621,15 +2554,6 @@
         <updated>2024-11-06T17:41:36.021Z</updated>
         <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-25027441" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+25027441"></span><a title="Fotos Apartamento saco dos limões" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-saco-dos-limoes-98m2-RS2800/id-25027441/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+25027441"><span class="picGallery firstPic"><picture></picture><small></small></span>Apartamento saco dos limões</a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento saco dos limões" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-saco-dos-limoes-98m2-RS2800/id-25027441/" rel="noreferrer"><h2>Apartamento saco dos limões</h2><address><small>Rua João Motta Espezim<!-- --> </small><b> <!-- -->Saco dos Limões, Florianópolis</b></address><p class="price"><b>R$ 2.800</b><small class="cond"> Cond.: R$ 630</small></p></a><p>Apartamento de 2 dormitórios, cozinha com balcão, fogão, depurador e geladeira. A sala tem sacada com churrasqueira e ampla vista. Banheiros com box, uma vaga de garagem.  Valor do Condomínio não inclui as taxas extraordinárias e consumos.</p></span><span class="listAndCta"><ul class="list im"><li>59m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
                 {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Apartamento saco dos limões", "description": "Apartamento de 2 dormitórios, cozinha com balcão, fogão, depurador e geladeira. A sala tem sacada com churrasqueira e ampla vista. Banheiros com box, uma vaga de garagem.  Valor do Condomínio não inclui as taxas extraordinárias e consumos.", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "59m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88045-401", "streetAddress": "Rua João Motta Espezim, "}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.5362", "longitude": "-27.60791"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-saco-dos-limoes-98m2-RS2800/id-25027441/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-saco-dos-limoes-98m2-RS2800/id-25027441/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
-                </script>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apartamento com 2 quartos para alugar na rua trajano margarida, 144, trindade, florianópolis, 59 m2 por r$ 2.300 (Chaves na mão)]]></title>
-        <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-70m2-RS2300/id-1022586/</id>
-        <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-70m2-RS2300/id-1022586/"/>
-        <updated>2024-10-09T17:42:58.629Z</updated>
-        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-1022586" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+1022586"></span><a title="Fotos Apartamento com 2 quartos para alugar na rua trajano margarida, 144, trindade, florianópolis, 59 m2 por r$ 2.300" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-70m2-RS2300/id-1022586/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+1022586"><span class="picGallery firstPic"><picture></picture><small></small></span>Apartamento com 2 quartos para alugar na rua trajano margarida, 144, trindade, florianópolis, 59 m2 por r$ 2.300</a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento com 2 quartos para alugar na rua trajano margarida, 144, trindade, florianópolis, 59 m2 por r$ 2.300" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-70m2-RS2300/id-1022586/" rel="noreferrer"><h2>Apartamento com 2 quartos para alugar na rua trajano margarida, 144, trindade, florianópolis, 59 m2 por r$ 2.300</h2><address><small>Rua Trajano Margarida, 144<!-- --> </small><b> <!-- -->Trindade, Florianópolis</b></address><p class="price"><b>R$ 2.300</b><small class="cond"> Cond.: R$ 751</small></p></a><p>Apartamento com 2 dormitórios, sala com sacada, cozinha com armários, área de serviço, banheiro social com box, piso cerâmico e 1 vaga de garagem.   Segundo bairro mais populoso de Florianópolis, é na Trindade que se localiza o campus da Universidade Federal de Santa Catarina (UFSC). O bairro possui diversos restaurantes, supermercados e centros comerciais. Por ter muitos estudantes na região, a vida noturna é bastante agitada, com muitos bares espalhados ao longo da Rua Lauro Linhares. Na Trindade, fica localizado um dos seis terminais do sistema integrado de transportes de Florianópolis, o TITRI, de onde é possível pegar ônibus para as regiões central, leste e norte da Ilha. O bairro conta ainda com o Hospital Universitário (HU), a 5a Delegacia de Polícia da Capital e agências dos principais bancos</p></span><span class="listAndCta"><ul class="list im"><li>59m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
-                {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Apartamento com 2 quartos para alugar na rua trajano margarida, 144, trindade, florianópolis, 59 m2 por r$ 2.300", "description": "Apartamento com 2 dormitórios, sala com sacada, cozinha com armários, área de serviço, banheiro social com box, piso cerâmico e 1 vaga de garagem.   Segundo bairro mais populoso de Florianópolis, é na Trindade que se localiza o campus da Universidade Federal de Santa Catarina (UFSC). O bairro possui diversos restaurantes, supermercados e centros comerciais. Por ter muitos estudantes na região, a vida noturna é bastante agitada, com muitos bares espalhados ao longo da Rua Lauro Linhares. Na Trindade, fica localizado um dos seis terminais do sistema integrado de transportes de Florianópolis, o TITRI, de onde é possível pegar ônibus para as regiões central, leste e norte da Ilha. O bairro conta ainda com o Hospital Universitário (HU), a 5a Delegacia de Polícia da Capital e agências dos principais bancos", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "59m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88036-050", "streetAddress": "Rua Trajano Margarida, 144"}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.52469", "longitude": "-27.58145"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-70m2-RS2300/id-1022586/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-70m2-RS2300/id-1022586/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
                 </script>]]></content>
     </entry>
     <entry>
@@ -2696,10 +2620,19 @@
                 </script>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 63 m2 por r$ 2.800 (Chaves na mão)]]></title>
+        <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-83m2-RS2800/id-1022309/</id>
+        <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-83m2-RS2800/id-1022309/"/>
+        <updated>2024-11-07T17:40:37.239Z</updated>
+        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-1022309" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+1022309"></span><a title="Fotos Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 63 m2 por r$ 2.800" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-83m2-RS2800/id-1022309/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+1022309"><span class="picGallery firstPic"><picture></picture><small></small></span>Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 63 m2 por r$ 2.800</a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 63 m2 por r$ 2.800" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-83m2-RS2800/id-1022309/" rel="noreferrer"><h2>Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 63 m2 por r$ 2.800</h2><address><small>Rua Deputado Antônio Edu Vieira, 1020<!-- --> </small><b> <!-- -->Pantanal, Florianópolis</b></address><p class="price"><b>R$ 2.800</b><small class="cond"> Cond.: R$ 585</small></p></a><p></p></span><span class="listAndCta"><ul class="list im"><li>63m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
+                {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 63 m2 por r$ 2.800", "description": "Apartamento com 2 quartos para alugar na rua deputado antônio edu vieira, 1020, pantanal, florianópolis, 63 m2 por r$ 2.800", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "63m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88040-001", "streetAddress": "Rua Deputado Antônio Edu Vieira, 1020"}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.51960199999996", "longitude": "-27.6076426"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-83m2-RS2800/id-1022309/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-pantanal-83m2-RS2800/id-1022309/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
+                </script>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-11-07T05:42:01.969Z</updated>
+        <updated>2024-11-07T17:40:44.105Z</updated>
         <content type="html"><![CDATA[<div class="flex-1 flex items-center text-sm text-helper-color">
 
 
@@ -4252,7 +4185,7 @@ Page 1 of 20 clips
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-11-07T05:42:01.969Z</updated>
+        <updated>2024-11-07T17:40:44.109Z</updated>
         <content type="html"><![CDATA[<a href="/podcast-clips/" class="ln-btn ln-btn-secondary">
                             Curate your own podcast clips
                             <span class="ln-icon-arrow-right"></span>
@@ -4262,7 +4195,7 @@ Page 1 of 20 clips
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-11-07T05:42:01.969Z</updated>
+        <updated>2024-11-07T17:40:44.109Z</updated>
         <content type="html"><![CDATA[<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-16">
     
     
@@ -4407,7 +4340,7 @@ Page 1 of 20 clips
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/10/26/estamos-fazendo-cada-vez-menos-sexo-teste-o-nivel-do-seu-declinio-erotico.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/10/26/estamos-fazendo-cada-vez-menos-sexo-teste-o-nivel-do-seu-declinio-erotico.htm"/>
         <updated>2024-10-26T05:30:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/2a/2023/05/01/impotencia-sexual-falta-de-libido-1682954552510_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Estamos fazendo cada vez menos sexo? Teste o nível do seu declínio erótico</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">26/10/2024 05h30</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/entretenimento/2a/2023/05/01/impotencia-sexual-falta-de-libido-1682954552510_v2_300x225.jpg.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/2a/2023/05/01/impotencia-sexual-falta-de-libido-1682954552510_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded" class=" loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Estamos fazendo cada vez menos sexo? Teste o nível do seu declínio erótico</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">26/10/2024 05h30</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Flip: youtubers convivem com dinossauros acadêmicos, e isso é bom (Blog do Dunker | UOL)]]></title>
@@ -5183,7 +5116,7 @@ Page 1 of 20 clips
         <title type="html"><![CDATA[undefined (Conrado Hübner Mendes | Folha)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-11-07T05:42:15.141Z</updated>
+        <updated>2024-11-07T17:40:55.665Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
     <entry>
