@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2024-11-13T17:42:33.674Z</updated>
+    <updated>2024-11-14T05:43:04.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Declaração Universal de Direitos do Bilionário]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/11/declaracao-universal-de-direitos-do-bilionario.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/11/declaracao-universal-de-direitos-do-bilionario.shtml"/>
+        <updated>2024-11-13T17:54:00.000Z</updated>
+        <content type="html"><![CDATA[Queremos ser admirados e respeitados, não tributados]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tempo da autocratização e tempo da justiça]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/11/tempo-da-autocratizacao-e-tempo-da-justica.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[Aras e Marques representam, na minha vida, o que Bolsonaro pode fazer com a sua]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Curriculum Vitae]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/10/curriculum-vitae.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/10/curriculum-vitae.shtml"/>
-        <updated>2022-10-19T17:24:00.000Z</updated>
-        <content type="html"><![CDATA[Profissional experiente, onívoro, fluente no dialeto dos porões]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2024-11-13T17:42:28.029Z</updated>
+        <updated>2024-11-14T05:42:58.140Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
