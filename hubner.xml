@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2024-11-27T17:44:02.733Z</updated>
+    <updated>2024-11-28T05:44:49.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[A Grande Anistia é outra]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/11/a-grande-anistia-e-outra.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/11/a-grande-anistia-e-outra.shtml"/>
+        <updated>2024-11-27T17:38:00.000Z</updated>
+        <content type="html"><![CDATA[A gente perdoa golpe para dar à instituição golpista uma nova chance]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Não fale o nome deles]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/11/nao-fale-o-nome-deles.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[Os ministros do STF que não respeitam a instituição do STF]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bolsonaro pode sair vitorioso]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/11/bolsonaro-pode-sair-vitorioso.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/11/bolsonaro-pode-sair-vitorioso.shtml"/>
-        <updated>2022-11-02T18:13:00.000Z</updated>
-        <content type="html"><![CDATA[Juridicamente impune, politicamente vivo, socialmente normalizado]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2024-11-27T17:43:57.133Z</updated>
+        <updated>2024-11-28T05:44:44.324Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
