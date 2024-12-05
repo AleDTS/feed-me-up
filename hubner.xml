@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2024-12-04T17:44:06.180Z</updated>
+    <updated>2024-12-05T05:44:29.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[A fibra democrática de Ives Gandra]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/12/a-fibra-democratica-de-ives-gandra.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/12/a-fibra-democratica-de-ives-gandra.shtml"/>
+        <updated>2024-12-04T17:56:00.000Z</updated>
+        <content type="html"><![CDATA[Respeite a interpretação miliconstitucional de um parecer jurídico calibre 64]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Grande Anistia é outra]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/11/a-grande-anistia-e-outra.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[Passada a turbulência eleitoral, chegou a hora de prestar contas]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Promiscuidade judicial em Nova York]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/11/promiscuidade-judicial-em-nova-york.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/11/promiscuidade-judicial-em-nova-york.shtml"/>
-        <updated>2022-11-09T18:09:00.000Z</updated>
-        <content type="html"><![CDATA[Os ministros do STF que não respeitam a instituição do STF]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2024-12-04T17:44:00.464Z</updated>
+        <updated>2024-12-05T05:44:23.550Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
