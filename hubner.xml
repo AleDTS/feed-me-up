@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2024-12-11T17:44:03.162Z</updated>
+    <updated>2024-12-12T05:45:15.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[JusPorn Awards 2024: começou!]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/12/jusporn-awards-2024-comecou.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/12/jusporn-awards-2024-comecou.shtml"/>
+        <updated>2024-12-11T17:59:00.000Z</updated>
+        <content type="html"><![CDATA[A sacanagem público-privada da orgia magistocrática]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A fibra democrática de Ives Gandra]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2024/12/a-fibra-democratica-de-ives-gandra.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[A conduta bovina e alucinada que pede golpe no quartel nunca foi pelo Brasil]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Luiz Fux não foi a Nova York, mas perdeu a aposta]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/11/luiz-fux-nao-foi-a-nova-york-mas-perdeu-a-aposta.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/11/luiz-fux-nao-foi-a-nova-york-mas-perdeu-a-aposta.shtml"/>
-        <updated>2022-11-16T16:18:00.000Z</updated>
-        <content type="html"><![CDATA[Passada a turbulência eleitoral, chegou a hora de prestar contas]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2024-12-11T17:43:57.777Z</updated>
+        <updated>2024-12-12T05:45:09.805Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
