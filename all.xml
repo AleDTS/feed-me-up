@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-18T05:43:07.024Z</updated>
+    <updated>2024-12-18T17:42:20.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Apartamento no Bairro Pantanal em Florianópolis com 2 Dormitórios - 652812 (Imóveis-SC)]]></title>
@@ -753,6 +753,15 @@
                 </script>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Apartamento para alugar no bairro córrego grande de florianópolis (Chaves na mão)]]></title>
+        <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-corrego-grande-56m2-RS2650/id-27191614/</id>
+        <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-corrego-grande-56m2-RS2650/id-27191614/"/>
+        <updated>2024-12-18T17:41:59.455Z</updated>
+        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-27191614" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+27191614"></span><a title="Fotos Apartamento para alugar no bairro córrego grande de florianópolis" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-corrego-grande-56m2-RS2650/id-27191614/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+27191614"><span class="picGallery firstPic"><picture></picture><small></small></span>Apartamento para alugar no bairro córrego grande de florianópolis</a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento para alugar no bairro córrego grande de florianópolis" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-corrego-grande-56m2-RS2650/id-27191614/" rel="noreferrer"><h2>Apartamento para alugar no bairro córrego grande de florianópolis</h2><address><small>Rua João Pio Duarte Silva, 250<!-- --> </small><b> <!-- -->Córrego Grande, Florianópolis</b></address><p class="price"><b>R$ 2.650</b><small class="cond"> Cond.: R$ 562</small></p></a><p>Apartamento para alugar no bairro Córrego Grande de Florianópolis, com 2 quartos com guardas- roupas( 1 deles com cama de solteiro), sala de estar, sala de jantar, cozinha com armários embutidos, área de serviço, banheiro social, box blindex, ar condicionado em 1 dos quartos, e 1 vaga de garagem coberta.  Condomínio com salão de festas, bicicletário, portaria remoto e portaria 24 horas.</p></span><span class="listAndCta"><ul class="list im"><li>49m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
+                {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Apartamento para alugar no bairro córrego grande de florianópolis", "description": "Apartamento para alugar no bairro Córrego Grande de Florianópolis, com 2 quartos com guardas- roupas( 1 deles com cama de solteiro), sala de estar, sala de jantar, cozinha com armários embutidos, área de serviço, banheiro social, box blindex, ar condicionado em 1 dos quartos, e 1 vaga de garagem coberta.  Condomínio com salão de festas, bicicletário, portaria remoto e portaria 24 horas.", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "49m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88037-000", "streetAddress": "Rua João Pio Duarte Silva, 250"}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.51416", "longitude": "-27.60077"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-corrego-grande-56m2-RS2650/id-27191614/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-corrego-grande-56m2-RS2650/id-27191614/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
+                </script>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apartamento para alugar, 52 m² por r$ 3.165,00/mês - trindade - florianópolis/sc (Chaves na mão)]]></title>
         <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-RS2400/id-26537043/</id>
         <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-trindade-RS2400/id-26537043/"/>
@@ -852,19 +861,10 @@
                 </script>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apartamento com 2 quartos para alugar na rua padova, 44, córrego grande, florianópolis, 68 m2 por r$ 2.800 (Chaves na mão)]]></title>
-        <id>https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-corrego-grande-RS2800/id-26954255/</id>
-        <link href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-corrego-grande-RS2800/id-26954255/"/>
-        <updated>2024-12-18T05:42:44.974Z</updated>
-        <content type="html"><![CDATA[<span class="tags"></span><div id="shareFav"></div><span id="gal-26954255" class="galeriaCard__Galeria-zbwjsp-0 efHpdb  realState"><span class="slider__Arrows-h0qndw-0 fwutgC next" id="nextgaleria+26954255"></span><a title="Fotos Apartamento com 2 quartos para alugar na rua padova, 44, córrego grande, florianópolis, 68 m2 por r$ 2.800" target="_blank" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-corrego-grande-RS2800/id-26954255/" class="containerSlider slider" style="transform:translateX(0px)" id="galeria+26954255"><span class="picGallery firstPic"><picture></picture><small></small></span>Apartamento com 2 quartos para alugar na rua padova, 44, córrego grande, florianópolis, 68 m2 por r$ 2.800</a><span class="dots"><small class="active"></small><small class=""></small><small class=""></small><small class=""></small><small class=""></small></span></span><span class="shareAndFav__Container-sc-1p3e0zg-0 fmMBJ card"><span class="i_share"><i class="icon-share"></i></span><i class="fav icon-favorite"></i></span><span class="contentCard"><span class="link"><a target="_blank" title="Apartamento com 2 quartos para alugar na rua padova, 44, córrego grande, florianópolis, 68 m2 por r$ 2.800" href="https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-corrego-grande-RS2800/id-26954255/" rel="noreferrer"><h2>Apartamento com 2 quartos para alugar na rua padova, 44, córrego grande, florianópolis, 68 m2 por r$ 2.800</h2><address><small>Rua Padova, 44<!-- --> </small><b> <!-- -->Córrego Grande, Florianópolis</b></address><p class="price"><b>R$ 2.800</b><small class="cond"> Cond.: R$ 800</small></p></a><p></p></span><span class="listAndCta"><ul class="list im"><li>68m²<span class="desktop"></span> </li><li><i class="icon-bed"></i>2<!-- --> <span class="desktop"> <!-- -->Quartos</span> </li><li><i class="icon-bath"></i>1<!-- --> <span class="desktop"> <!-- -->Banheiro</span></li><li><i class="icon-garage"></i>1<!-- --> <span class="desktop"> <!-- -->Garagem</span></li></ul><span aria-hidden="true" class="ctaBt">Contatar</span></span></span><script type="application/ld+json">
-                {"@context": "http://schema.org", "@type": "RentAction", "object":{"@type": "Apartment", "name": "Apartamento com 2 quartos para alugar na rua padova, 44, córrego grande, florianópolis, 68 m2 por r$ 2.800", "description": "Apartamento com 2 quartos para alugar na rua padova, 44, córrego grande, florianópolis, 68 m2 por r$ 2.800", "numberOfRooms": "2", "floorSize":{"@type": "QuantitativeValue", "unitText": "68m²", "unitCode": "MTK"}, "address":{"@type": "PostalAddress", "addressCountry":{"@type": "Country", "name": "BR"}, "addressLocality": "Florianópolis", "addressRegion": "SC", "postalCode": "88037-640", "streetAddress": "Rua Padova, 44"}, "geo":{"@type": "GeoCoordinates", "latitude": "-48.50025", "longitude": "-27.60216"}, "numberOfBathroomsTotal": "0", "numberOfBedrooms": "0", "url": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-corrego-grande-RS2800/id-26954255/", "tourBookingPage": "https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-2-quartos-com-garagem-sc-florianopolis-corrego-grande-RS2800/id-26954255/"}, "participant":{"@type": "Organization", "name": "Chaves na Mão", "url": "www.chavesnamao.com.br"}, "location": "chavesnamao.com.br"}
-                </script>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-12-18T05:42:48.164Z</updated>
+        <updated>2024-12-18T17:42:02.131Z</updated>
         <content type="html"><![CDATA[<div class="flex-1 flex items-center text-sm text-helper-color">
 
 
@@ -2417,7 +2417,7 @@ Page 1 of 20 clips
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-12-18T05:42:48.177Z</updated>
+        <updated>2024-12-18T17:42:02.131Z</updated>
         <content type="html"><![CDATA[<a href="/podcast-clips/" class="ln-btn ln-btn-secondary">
                             Curate your own podcast clips
                             <span class="ln-icon-arrow-right"></span>
@@ -2427,7 +2427,7 @@ Page 1 of 20 clips
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-12-18T05:42:48.183Z</updated>
+        <updated>2024-12-18T17:42:02.131Z</updated>
         <content type="html"><![CDATA[<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-16">
     
     
@@ -2572,14 +2572,14 @@ Page 1 of 20 clips
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/12/15/o-cansaco-do-exibicionista-digital.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/12/15/o-cansaco-do-exibicionista-digital.htm"/>
         <updated>2024-12-15T05:30:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/2c/2021/10/28/selfie-filtro-instagram-redes-sociais-1635430441551_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Cansaço do exibicionista digital: qual o verdadeiro papel das redes sociais</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">15/12/2024 05h30</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/entretenimento/2c/2021/10/28/selfie-filtro-instagram-redes-sociais-1635430441551_v2_300x225.jpg.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/2c/2021/10/28/selfie-filtro-instagram-redes-sociais-1635430441551_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded" class=" loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Cansaço do exibicionista digital: qual o verdadeiro papel das redes sociais</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">15/12/2024 05h30</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Neutralidade suspeita: Google decide quem morre e vive na arena das tags (Blog do Dunker | UOL)]]></title>
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/11/30/a-neutralidade-suspeita-do-nome-proprio.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/11/30/a-neutralidade-suspeita-do-nome-proprio.htm"/>
         <updated>2024-11-30T05:30:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/71/2023/02/01/campos-de-busca-do-google-em-tela-de-computador-1675262671743_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Neutralidade suspeita: Google decide quem morre e vive na arena das tags</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">30/11/2024 05h30</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/noticias/71/2023/02/01/campos-de-busca-do-google-em-tela-de-computador-1675262671743_v2_300x225.jpg.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/71/2023/02/01/campos-de-busca-do-google-em-tela-de-computador-1675262671743_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded" class=" loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Neutralidade suspeita: Google decide quem morre e vive na arena das tags</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">30/11/2024 05h30</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tecnologia 6 x Vida 1: em vez de ganhar tempo, ganhamos 'shit jobs' (Blog do Dunker | UOL)]]></title>
@@ -2593,7 +2593,7 @@ Page 1 of 20 clips
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/11/16/a-porta-fechada-do-quarto-ao-lado.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/11/16/a-porta-fechada-do-quarto-ao-lado.htm"/>
         <updated>2024-11-16T05:30:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/39/2024/09/03/tilda-swinton-e-julianne-moore-em-cena-de-the-room-next-door-filme-de-pedro-almodovar-1725363314323_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Novo filme de Almodóvar revela a morte como vivência social e psicológica</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">16/11/2024 05h30</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/entretenimento/39/2024/09/03/tilda-swinton-e-julianne-moore-em-cena-de-the-room-next-door-filme-de-pedro-almodovar-1725363314323_v2_300x225.jpg.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/39/2024/09/03/tilda-swinton-e-julianne-moore-em-cena-de-the-room-next-door-filme-de-pedro-almodovar-1725363314323_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded" class=" loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Novo filme de Almodóvar revela a morte como vivência social e psicológica</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">16/11/2024 05h30</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Estamos fazendo cada vez menos sexo? Teste o nível do seu declínio erótico (Blog do Dunker | UOL)]]></title>
@@ -3348,7 +3348,7 @@ Page 1 of 20 clips
         <title type="html"><![CDATA[undefined (Conrado Hübner Mendes | Folha)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2024-12-18T05:43:01.115Z</updated>
+        <updated>2024-12-18T17:42:14.453Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
     <entry>
