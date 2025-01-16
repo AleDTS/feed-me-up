@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2025-01-15T17:40:38.265Z</updated>
+    <updated>2025-01-16T05:41:26.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[7 a 7: o placar dos golpes no Brasil]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/01/7-a-7-o-placar-dos-golpes-no-brasil.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/01/7-a-7-o-placar-dos-golpes-no-brasil.shtml"/>
+        <updated>2025-01-15T19:36:00.000Z</updated>
+        <content type="html"><![CDATA[Para o futuro não repetir o passado, Eunice Paiva, Lula e STF têm receitas diversas]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dos golpistas à tentativa de golpe]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/01/dos-golpistas-a-tentativa-de-golpe.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[Não é delírio, é plano pensado, financiado e autorizado]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[O JusPorn Awards 2022 vai para]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/12/o-jusporn-awards-2022-vai-para.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2022/12/o-jusporn-awards-2022-vai-para.shtml"/>
-        <updated>2022-12-21T21:37:00.000Z</updated>
-        <content type="html"><![CDATA[Vamos celebrar a lascívia magistocrática contra a instituição da justiça]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2025-01-15T17:40:32.307Z</updated>
+        <updated>2025-01-16T05:41:20.577Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
