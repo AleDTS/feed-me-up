@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-29T17:40:37.241Z</updated>
+    <updated>2025-01-30T05:42:01.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios - 672566 (Imóveis-SC)]]></title>
@@ -878,7 +878,7 @@
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2025-01-29T17:40:20.732Z</updated>
+        <updated>2025-01-30T05:41:43.769Z</updated>
         <content type="html"><![CDATA[<div class="flex-1 flex items-center text-sm text-helper-color">
 
 
@@ -2431,7 +2431,7 @@ Page 1 of 20 clips
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2025-01-29T17:40:20.733Z</updated>
+        <updated>2025-01-30T05:41:43.776Z</updated>
         <content type="html"><![CDATA[<a href="/podcast-clips/" class="ln-btn ln-btn-secondary">
                             Curate your own podcast clips
                             <span class="ln-icon-arrow-right"></span>
@@ -2441,7 +2441,7 @@ Page 1 of 20 clips
         <title type="html"><![CDATA[undefined (Listen Notes - clips)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2025-01-29T17:40:20.736Z</updated>
+        <updated>2025-01-30T05:41:43.778Z</updated>
         <content type="html"><![CDATA[<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-16">
     
     
@@ -2586,77 +2586,84 @@ Page 1 of 20 clips
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2025/01/14/noticias-sobre-ciencia-e-sanfona-no-piaui.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2025/01/14/noticias-sobre-ciencia-e-sanfona-no-piaui.htm"/>
         <updated>2025-01-14T05:30:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/01/2023/07/31/niede-guidon-1690812369105_v2_300x225.png.webp" width="300" height="225" decoding="async" data-crazyload="loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Na Serra da Capivara, entendi o efeito da ciência na cultura e nas pessoas</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">14/01/2025 05h30</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/entretenimento/01/2023/07/31/niede-guidon-1690812369105_v2_300x225.png.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/01/2023/07/31/niede-guidon-1690812369105_v2_300x225.png.webp" width="300" height="225" decoding="async" data-crazyload="loaded" class="loaded" pinger-seen="true"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Na Serra da Capivara, entendi o efeito da ciência na cultura e nas pessoas</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">14/01/2025 05h30</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Disclaimer: por que somos tão facilmente enganados por versões tipificadas? (Blog do Dunker | UOL)]]></title>
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/12/23/acusacao-autoperformativa-e-seu-disclaimer.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/12/23/acusacao-autoperformativa-e-seu-disclaimer.htm"/>
         <updated>2024-12-23T13:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/entretenimento/c6/2024/10/16/cate-blanchett-e-protagonista-da-minisserie-disclaimer-1729111478133_v2_300x225.jpg.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/c6/2024/10/16/cate-blanchett-e-protagonista-da-minisserie-disclaimer-1729111478133_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded" class=" loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Disclaimer: por que somos tão facilmente enganados por versões tipificadas?</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">23/12/2024 13h20</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/entretenimento/c6/2024/10/16/cate-blanchett-e-protagonista-da-minisserie-disclaimer-1729111478133_v2_300x225.jpg.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/c6/2024/10/16/cate-blanchett-e-protagonista-da-minisserie-disclaimer-1729111478133_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded" class="loaded" pinger-seen="true"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Disclaimer: por que somos tão facilmente enganados por versões tipificadas?</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">23/12/2024 13h20</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cansaço do exibicionista digital: qual o verdadeiro papel das redes sociais (Blog do Dunker | UOL)]]></title>
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/12/15/o-cansaco-do-exibicionista-digital.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/12/15/o-cansaco-do-exibicionista-digital.htm"/>
         <updated>2024-12-15T05:30:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/2c/2021/10/28/selfie-filtro-instagram-redes-sociais-1635430441551_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Cansaço do exibicionista digital: qual o verdadeiro papel das redes sociais</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">15/12/2024 05h30</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/entretenimento/2c/2021/10/28/selfie-filtro-instagram-redes-sociais-1635430441551_v2_300x225.jpg.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/2c/2021/10/28/selfie-filtro-instagram-redes-sociais-1635430441551_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded" class="loaded" pinger-seen="true"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Cansaço do exibicionista digital: qual o verdadeiro papel das redes sociais</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">15/12/2024 05h30</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Neutralidade suspeita: Google decide quem morre e vive na arena das tags (Blog do Dunker | UOL)]]></title>
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/11/30/a-neutralidade-suspeita-do-nome-proprio.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/11/30/a-neutralidade-suspeita-do-nome-proprio.htm"/>
         <updated>2024-11-30T05:30:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/71/2023/02/01/campos-de-busca-do-google-em-tela-de-computador-1675262671743_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Neutralidade suspeita: Google decide quem morre e vive na arena das tags</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">30/11/2024 05h30</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/noticias/71/2023/02/01/campos-de-busca-do-google-em-tela-de-computador-1675262671743_v2_300x225.jpg.webp" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/71/2023/02/01/campos-de-busca-do-google-em-tela-de-computador-1675262671743_v2_300x225.jpg.webp" width="300" height="225" decoding="async" data-crazyload="loaded" class="loaded" pinger-seen="true"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Neutralidade suspeita: Google decide quem morre e vive na arena das tags</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">30/11/2024 05h30</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tecnologia 6 x Vida 1: em vez de ganhar tempo, ganhamos 'shit jobs' (Blog do Dunker | UOL)]]></title>
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/11/24/tecnologia-6-x-vida-1-em-vez-de-ganhar-tempo-ganhamos-shit-jobs.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/11/24/tecnologia-6-x-vida-1-em-vez-de-ganhar-tempo-ganhamos-shit-jobs.htm"/>
         <updated>2024-11-24T05:30:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/64/2024/11/15/manifestantes-protestam-pelo-fim-da-escala-6x1-na-avenida-paulista-nesta-sexta-feira-15-1731678610903_v2_300x225.jpg" width="300" height="225"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Tecnologia 6 x Vida 1: em vez de ganhar tempo, ganhamos 'shit jobs'</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">24/11/2024 05h30</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/64/2024/11/15/manifestantes-protestam-pelo-fim-da-escala-6x1-na-avenida-paulista-nesta-sexta-feira-15-1731678610903_v2_300x225.jpg" width="300" height="225" pinger-seen="true"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Tecnologia 6 x Vida 1: em vez de ganhar tempo, ganhamos 'shit jobs'</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">24/11/2024 05h30</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Novo filme de Almodóvar revela a morte como vivência social e psicológica (Blog do Dunker | UOL)]]></title>
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/11/16/a-porta-fechada-do-quarto-ao-lado.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/11/16/a-porta-fechada-do-quarto-ao-lado.htm"/>
         <updated>2024-11-16T05:30:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/39/2024/09/03/tilda-swinton-e-julianne-moore-em-cena-de-the-room-next-door-filme-de-pedro-almodovar-1725363314323_v2_300x225.jpg" width="300" height="225"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Novo filme de Almodóvar revela a morte como vivência social e psicológica</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">16/11/2024 05h30</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/39/2024/09/03/tilda-swinton-e-julianne-moore-em-cena-de-the-room-next-door-filme-de-pedro-almodovar-1725363314323_v2_300x225.jpg" width="300" height="225" pinger-seen="true"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Novo filme de Almodóvar revela a morte como vivência social e psicológica</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">16/11/2024 05h30</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Estamos fazendo cada vez menos sexo? Teste o nível do seu declínio erótico (Blog do Dunker | UOL)]]></title>
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/10/26/estamos-fazendo-cada-vez-menos-sexo-teste-o-nivel-do-seu-declinio-erotico.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/10/26/estamos-fazendo-cada-vez-menos-sexo-teste-o-nivel-do-seu-declinio-erotico.htm"/>
         <updated>2024-10-26T05:30:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/2a/2023/05/01/impotencia-sexual-falta-de-libido-1682954552510_v2_300x225.jpg" width="300" height="225"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Estamos fazendo cada vez menos sexo? Teste o nível do seu declínio erótico</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">26/10/2024 05h30</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/2a/2023/05/01/impotencia-sexual-falta-de-libido-1682954552510_v2_300x225.jpg" width="300" height="225" pinger-seen="true"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Estamos fazendo cada vez menos sexo? Teste o nível do seu declínio erótico</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">26/10/2024 05h30</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Flip: youtubers convivem com dinossauros acadêmicos, e isso é bom (Blog do Dunker | UOL)]]></title>
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/10/15/flip-youtubers-convivem-com-dinossauros-academicos-e-isso-e-bom.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/10/15/flip-youtubers-convivem-com-dinossauros-academicos-e-isso-e-bom.htm"/>
         <updated>2024-10-15T17:15:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/c6/2024/10/15/paraty---rj---brasil---11--10-2024---flip-2024-casa-folha---movimentacao-no-lado-de-fora-da-mesa-meu-inconsciente-coletivo-com-tatinbspbernardinbspe-christiannbspdunker-foto-rafaela-1729022093026_v2_300x225.jpg" width="300" height="225"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Flip: youtubers convivem com dinossauros acadêmicos, e isso é bom</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">15/10/2024 17h15</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/c6/2024/10/15/paraty---rj---brasil---11--10-2024---flip-2024-casa-folha---movimentacao-no-lado-de-fora-da-mesa-meu-inconsciente-coletivo-com-tatinbspbernardinbspe-christiannbspdunker-foto-rafaela-1729022093026_v2_300x225.jpg" width="300" height="225" pinger-seen="true"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Flip: youtubers convivem com dinossauros acadêmicos, e isso é bom</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">15/10/2024 17h15</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TDAH existe? Como analisar a alta no transtorno por uso excessivo de telas (Blog do Dunker | UOL)]]></title>
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/10/12/existe-relacao-entre-transtorno-de-deficit-de-atencao-e-uso-de-telas.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/10/12/existe-relacao-entre-transtorno-de-deficit-de-atencao-e-uso-de-telas.htm"/>
         <updated>2024-10-12T09:10:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/56/2023/04/04/tdah-em-adultos-1680640459151_v2_300x225.jpg" width="300" height="225"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">TDAH existe? Como analisar a alta no transtorno por uso excessivo de telas</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">12/10/2024 09h10</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/entretenimento/56/2023/04/04/tdah-em-adultos-1680640459151_v2_300x225.jpg" width="300" height="225" pinger-seen="true"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">TDAH existe? Como analisar a alta no transtorno por uso excessivo de telas</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">12/10/2024 09h10</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Terapia por aplicativo prolifera, mas tem gosto de Coca-Cola (Blog do Dunker | UOL)]]></title>
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/10/02/terapia-por-aplicativo-tem-gosto-de-coca-cola.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/10/02/terapia-por-aplicativo-tem-gosto-de-coca-cola.htm"/>
         <updated>2024-10-02T09:19:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/c1/2022/10/05/mulher-usa-celular-deitada-na-cama-1664980782372_v2_300x225.jpg" width="300" height="225"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Terapia por aplicativo prolifera, mas tem gosto de Coca-Cola</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">02/10/2024 09h19</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/c1/2022/10/05/mulher-usa-celular-deitada-na-cama-1664980782372_v2_300x225.jpg" width="300" height="225" pinger-seen="true"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Terapia por aplicativo prolifera, mas tem gosto de Coca-Cola</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">02/10/2024 09h19</time>   </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Como 'redes antissociais' minam nossa sanidade -- e o papel da IA nisso (Blog do Dunker | UOL)]]></title>
         <id>https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/09/25/redes-anti-sociais-versus-desinteligencia-artificial.htm</id>
         <link href="https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/09/25/redes-anti-sociais-versus-desinteligencia-artificial.htm"/>
         <updated>2024-09-25T16:44:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/91/2024/05/29/homem-mesmerizado-por-fake-news-1716965214640_v2_300x225.jpg" width="300" height="225"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Como 'redes antissociais' minam nossa sanidade -- e o papel da IA nisso</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">25/09/2024 16h44</time>   </div>]]></content>
+        <content type="html"><![CDATA[<figure class="thumb-image col-xs-3 col-sm-6 no-gutter default"><div class="thumb-layer">  <img src="https://conteudo.imguol.com.br/c/geral/3d/2021/05/25/placeholder-image-1621949831997_v2_300x225.jpg" data-crop="{&quot;xs&quot;:&quot;300x300&quot;,&quot;sm&quot;:&quot;300x225&quot;}" data-src="https://conteudo.imguol.com.br/c/noticias/91/2024/05/29/homem-mesmerizado-por-fake-news-1716965214640_v2_300x225.jpg" width="300" height="225" pinger-seen="true"></div>  <i class="thumb-icon icone-small icone-news"> <svg class="svg-news"><use xlink:href="#svg-news"></use></svg>  </i>   </figure>  <div class="thumb-caption col-xs-5 col-sm-18 no-gutter">     <h3 class="thumb-title title-xsmall title-lg-small">Como 'redes antissociais' minam nossa sanidade -- e o papel da IA nisso</h3>   <p class="author">Christian Dunker</p>    <time class="thumb-date">25/09/2024 16h44</time>   </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ai se eu te processo, Ai, ai se eu te processo (Conrado Hübner Mendes | Folha)]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/01/ai-se-eu-te-processo-ai-ai-se-eu-te-processo.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/01/ai-se-eu-te-processo-ai-ai-se-eu-te-processo.shtml"/>
+        <updated>2025-01-29T18:33:00.000Z</updated>
+        <content type="html"><![CDATA[Fenômeno sintomático de nosso tempo, o lawfare verbal abusa da ameaça]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pode acontecer aqui de novo ou nunca mais? (Conrado Hübner Mendes | Folha)]]></title>
@@ -3352,24 +3359,17 @@ Page 1 of 20 clips
         <content type="html"><![CDATA[Inovação jurídica corajosa é urgente, pois a democracia nem sempre vence no final]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Constituição manda polarizar (Conrado Hübner Mendes | Folha)]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2023/01/a-constituicao-manda-polarizar.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2023/01/a-constituicao-manda-polarizar.shtml"/>
-        <updated>2023-01-04T17:56:00.000Z</updated>
-        <content type="html"><![CDATA[Incluir, cuidar e punir são ordens jurídicas, não revanche ideológica]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (Conrado Hübner Mendes | Folha)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2025-01-29T17:40:31.836Z</updated>
+        <updated>2025-01-30T05:41:56.009Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo&nbsp;(1921 - 2025)&nbsp;é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Conrado Hübner Mendes | Folha)]]></title>
         <id>https://AleDTS.github.io/feed-me-up/all.xml</id>
         <link href="https://AleDTS.github.io/feed-me-up/all.xml"/>
-        <updated>2025-01-29T17:40:31.844Z</updated>
+        <updated>2025-01-30T05:41:56.010Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo&nbsp;(1921 - 2025)&nbsp;é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
     <entry>

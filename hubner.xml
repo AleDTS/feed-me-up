@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2025-01-29T17:40:37.225Z</updated>
+    <updated>2025-01-30T05:42:01.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Ai se eu te processo, Ai, ai se eu te processo]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/01/ai-se-eu-te-processo-ai-ai-se-eu-te-processo.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/01/ai-se-eu-te-processo-ai-ai-se-eu-te-processo.shtml"/>
+        <updated>2025-01-29T18:33:00.000Z</updated>
+        <content type="html"><![CDATA[Fenômeno sintomático de nosso tempo, o lawfare verbal abusa da ameaça]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pode acontecer aqui de novo ou nunca mais?]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/01/pode-acontecer-aqui-de-novo-ou-nunca-mais.shtml</id>
@@ -699,24 +706,17 @@
         <content type="html"><![CDATA[Inovação jurídica corajosa é urgente, pois a democracia nem sempre vence no final]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Constituição manda polarizar]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2023/01/a-constituicao-manda-polarizar.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2023/01/a-constituicao-manda-polarizar.shtml"/>
-        <updated>2023-01-04T17:56:00.000Z</updated>
-        <content type="html"><![CDATA[Incluir, cuidar e punir são ordens jurídicas, não revanche ideológica]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2025-01-29T17:40:31.836Z</updated>
+        <updated>2025-01-30T05:41:56.009Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo&nbsp;(1921 - 2025)&nbsp;é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[101]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2025-01-29T17:40:31.844Z</updated>
+        <updated>2025-01-30T05:41:56.010Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo&nbsp;(1921 - 2025)&nbsp;é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
