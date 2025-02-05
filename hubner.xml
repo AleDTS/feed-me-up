@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2025-02-05T05:42:19.938Z</updated>
+    <updated>2025-02-05T17:40:46.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[TJ-SP bate na mesa e não explica]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/02/tj-sp-bate-na-mesa-e-nao-explica.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/02/tj-sp-bate-na-mesa-e-nao-explica.shtml"/>
+        <updated>2025-02-05T10:44:00.000Z</updated>
+        <content type="html"><![CDATA[Tribunal bandeirante deve explicação pública sobre uso de depósitos judiciais]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ai se eu te processo, Ai, ai se eu te processo]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/01/ai-se-eu-te-processo-ai-ai-se-eu-te-processo.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[Forças Armadas são mal-armadas de integridade institucional e mal-armadas de vocação democrática]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[As quatro linhas da autocracia militante]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2023/01/as-quatro-linhas-da-autocracia-militante.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2023/01/as-quatro-linhas-da-autocracia-militante.shtml"/>
-        <updated>2023-01-11T17:10:00.000Z</updated>
-        <content type="html"><![CDATA[Inovação jurídica corajosa é urgente, pois a democracia nem sempre vence no final]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2025-02-05T05:42:14.200Z</updated>
+        <updated>2025-02-05T17:40:40.615Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo&nbsp;(1921 - 2025)&nbsp;é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
