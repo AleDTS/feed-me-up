@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.imoveis-sc.com.br/florianopolis/apartamento/caeira-do-saco-dos-limoes_carvoeira_corrego-grande_jose-mendes_pantanal_saco-dos-limoes_trindade/quartos/2,3?ordenacao=recentes&amp;valor=-4000&amp;area=30-</id>
     <title>Imóveis-SC</title>
-    <updated>2025-02-10T17:41:15.592Z</updated>
+    <updated>2025-02-11T05:42:21.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.imoveis-sc.com.br/front/img/favicon/favicon.ico</icon>
     <entry>
@@ -64,61 +64,53 @@
             </a>
         </div>
     </div>
-        <div class="imovel-imagem owl-carousel owl-theme owl-loaded">
-                        
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-580px, 0px, 0px); transition: all; width: 5510px;"><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-13-671ca5f63f2df426414070.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-14-671ca5f63f2e41244918516.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item active" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        <div class="imovel-imagem owl-carousel owl-theme ">
+                        <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-0-671ca5f63f2981798542993.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-1-671ca5f63f29f1289352734.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-2-671ca5f63f2a51701740307.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-3-671ca5f63f2aa299107089.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-4-671ca5f63f2b02017726015.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-5-671ca5f63f2b61921196010.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-6-671ca5f63f2bb450407076.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-7-671ca5f63f2c01624010968.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-8-671ca5f63f2c5152024052.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-9-671ca5f63f2ca767668234.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-10-671ca5f63f2d0817208909.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-11-671ca5f63f2d51743071327.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-12-671ca5f63f2db979540410.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-13-671ca5f63f2df426414070.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
+        </a>
+                <a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
             <img data-src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-14-671ca5f63f2e41244918516.jpg" class="owl-lazy" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-0-671ca5f63f2981798542993.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div><div class="owl-item cloned" style="width: 290px; margin-right: 0px;"><a href="https://www.imoveis-sc.com.br/florianopolis/alugar/apartamento/trindade/apartamento-florianopolis-trindade-1378113.html" class="owl-item " onclick="if (window.innerWidth < 780) return false;">
-            <img src="https://media.imoveis-sc.com.br/media/thumb-290-250/florianopolis-apartamento-trindade-1378113-1-671ca5f63f29f1289352734.jpg" class="" width="290" height="250" alt="Apartamento no Bairro Trindade em Florianópolis com 2 Dormitórios e 74 m² - AP03063L">
-        </a></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style=""><i class="fa fa-angle-left"></i></div><div class="owl-next" style=""><i class="fa fa-angle-right"></i></div></div><div style="display: none;" class="owl-dots"></div></div></div>
+        </a>
+                    </div>
 
     <button class="btn-favoritar btn-action " title="Adicionar aos favoritos" data-href="https://www.imoveis-sc.com.br/ajax-favoritar-imovel" data-id="1378113" data-value="1">
 	<i class="fa fa-heart-o "></i>
