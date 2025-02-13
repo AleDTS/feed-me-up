@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2025-02-12T17:43:13.804Z</updated>
+    <updated>2025-02-13T05:41:52.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Os 12 trabalhos do autocrata]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/02/os-12-trabalhos-do-autocrata.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/02/os-12-trabalhos-do-autocrata.shtml"/>
+        <updated>2025-02-12T18:53:00.000Z</updated>
+        <content type="html"><![CDATA[A cartilha da erosão democrática disparada por Trump]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TJ-SP bate na mesa e não explica]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/02/tj-sp-bate-na-mesa-e-nao-explica.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[O 'mutirão pela igualdade' pede um Judiciário menos magistocrático]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Não reformar a instituição mais covarde será uma forma de anistia]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2023/01/nao-reformar-a-instituicao-mais-covarde-sera-uma-forma-de-anistia.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2023/01/nao-reformar-a-instituicao-mais-covarde-sera-uma-forma-de-anistia.shtml"/>
-        <updated>2023-01-18T18:59:00.000Z</updated>
-        <content type="html"><![CDATA[Forças Armadas são mal-armadas de integridade institucional e mal-armadas de vocação democrática]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2025-02-12T17:43:07.828Z</updated>
+        <updated>2025-02-13T05:41:46.475Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo&nbsp;(1921 - 2025)&nbsp;é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
