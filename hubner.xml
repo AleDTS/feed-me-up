@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2025-02-19T17:41:27.874Z</updated>
+    <updated>2025-02-20T05:42:14.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Ao Supremo, com carinho. Da sua Constituição]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/02/ao-supremo-com-carinho-da-sua-constituicao.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/02/ao-supremo-com-carinho-da-sua-constituicao.shtml"/>
+        <updated>2025-02-19T16:32:00.000Z</updated>
+        <content type="html"><![CDATA[STF não pode empurrar jabuti legislativo do Brasil colônia]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Os 12 trabalhos do autocrata]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/02/os-12-trabalhos-do-autocrata.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[Integrantes da corte participam em Portugal de evento com participantes e patrocinadores brasileiros]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Por coerência, Lula deve nomear juízas]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2023/01/por-coerencia-lula-deve-nomear-juizas.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2023/01/por-coerencia-lula-deve-nomear-juizas.shtml"/>
-        <updated>2023-01-25T16:09:00.000Z</updated>
-        <content type="html"><![CDATA[O 'mutirão pela igualdade' pede um Judiciário menos magistocrático]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2025-02-19T17:41:22.680Z</updated>
+        <updated>2025-02-20T05:42:08.468Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo&nbsp;(1921 - 2025)&nbsp;é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
