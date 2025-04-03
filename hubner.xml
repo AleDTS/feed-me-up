@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2025-04-02T17:43:12.669Z</updated>
+    <updated>2025-04-03T05:44:10.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Biblioteca oficial do crime bolsonarista]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/04/biblioteca-oficial-do-crime-bolsonarista.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/04/biblioteca-oficial-do-crime-bolsonarista.shtml"/>
+        <updated>2025-04-02T15:36:00.000Z</updated>
+        <content type="html"><![CDATA[País sempre cedeu ao seu maior delinquente. Se punido agora, está barato.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aviso]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/03/aviso.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[Preto Pobre Preso, nosso PPP criminal, é das políticas públicas fundadoras do país]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A corrida dos 'cotados ao STF' tem mais fofoca que jornalismo]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2023/03/a-corrida-dos-cotados-ao-stf-tem-mais-fofoca-que-jornalismo.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2023/03/a-corrida-dos-cotados-ao-stf-tem-mais-fofoca-que-jornalismo.shtml"/>
-        <updated>2023-03-01T18:30:00.000Z</updated>
-        <content type="html"><![CDATA[Parece um campeonato de pontos corridos, mas é um festival de frivolidades]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2025-04-02T17:43:07.086Z</updated>
+        <updated>2025-04-03T05:44:04.664Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo&nbsp;(1921 - 2025)&nbsp;é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
