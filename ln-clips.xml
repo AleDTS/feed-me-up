@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
     <title>Listen Notes - clips</title>
-    <updated>2025-04-03T17:42:55.431Z</updated>
+    <updated>2025-04-04T05:44:02.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.listennotes.com/static/v4/img/logo/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
         <link href="https://www.listennotes.com/@aledts/podcast-clips/"/>
-        <updated>2025-04-03T17:42:37.240Z</updated>
+        <updated>2025-04-04T05:43:41.886Z</updated>
         <content type="html"><![CDATA[<div class="flex-1 flex items-center text-sm text-helper-color">
 
 
@@ -490,7 +490,7 @@ Page 1 of 20 clips
         <div class="flex">
             <div class="flex-none">
                 <a href="https://www.listennotes.com/podcast-clips/a-força-do-el-niño-ahlRWIJeD9z/" title="A força do El Niño">
-                    <div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://cdn-images-3.listennotes.com/podcasts/pesquisa-brasil-revista-pesquisa-fapesp-h0Z8l5ujdzW-1cbljAXB6VG.300x300.jpg')"></div>
+                    <div class="ln-center-bg-img w-pod-img-md h-pod-img-md rounded shadow hover:opacity-50" style="background-image: url('https://cdn-images-3.listennotes.com/podcasts/pesquisa-brasil-revista-pesquisa-fapesp-3fjn8zlN0Dg-1cbljAXB6VG.300x300.jpg')"></div>
                 </a>
             </div>
             <div class="w-4"></div>
@@ -1562,7 +1562,7 @@ Page 1 of 20 clips
         <title type="html"><![CDATA[21]]></title>
         <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
         <link href="https://www.listennotes.com/@aledts/podcast-clips/"/>
-        <updated>2025-04-03T17:42:37.242Z</updated>
+        <updated>2025-04-04T05:43:41.896Z</updated>
         <content type="html"><![CDATA[<a href="/podcast-clips/" class="ln-btn ln-btn-secondary">
                             Curate your own podcast clips
                             <span class="ln-icon-arrow-right"></span>
@@ -1572,7 +1572,7 @@ Page 1 of 20 clips
         <title type="html"><![CDATA[22]]></title>
         <id>https://www.listennotes.com/@aledts/podcast-clips/</id>
         <link href="https://www.listennotes.com/@aledts/podcast-clips/"/>
-        <updated>2025-04-03T17:42:37.242Z</updated>
+        <updated>2025-04-04T05:43:41.905Z</updated>
         <content type="html"><![CDATA[<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-16">
     
     
