@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
     <title>Conrado Hübner Mendes | Folha</title>
-    <updated>2025-04-09T17:44:16.041Z</updated>
+    <updated>2025-04-10T05:43:56.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://f.i.uol.com.br/hunting/folha/1/common/icons/favicon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Do Código napoleônico ao macarrônico]]></title>
+        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/04/do-codigo-napoleonico-ao-macarronico.shtml</id>
+        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/04/do-codigo-napoleonico-ao-macarronico.shtml"/>
+        <updated>2025-04-09T17:26:00.000Z</updated>
+        <content type="html"><![CDATA[Como reformar o Código Civil por métodos incivis: juristas no Congresso respondem]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Biblioteca oficial do crime bolsonarista]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2025/04/biblioteca-oficial-do-crime-bolsonarista.shtml</id>
@@ -699,17 +706,10 @@
         <content type="html"><![CDATA[Criticar a magistocracia não é ignorar os membros íntegros da Justiça, mas valorizá-los]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uma Justiça para a riqueza, outra para a pobreza]]></title>
-        <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2023/03/uma-justica-para-a-riqueza-outra-para-a-pobreza.shtml</id>
-        <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2023/03/uma-justica-para-a-riqueza-outra-para-a-pobreza.shtml"/>
-        <updated>2023-03-08T19:36:00.000Z</updated>
-        <content type="html"><![CDATA[Preto Pobre Preso, nosso PPP criminal, é das políticas públicas fundadoras do país]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100]]></title>
         <id>https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/</id>
         <link href="https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/"/>
-        <updated>2025-04-09T17:44:10.222Z</updated>
+        <updated>2025-04-10T05:43:49.889Z</updated>
         <content type="html"><![CDATA[O jornal&nbsp;Folha de S.Paulo&nbsp;(1921 - 2025)&nbsp;é publicado pela Empresa Folha da Manhã S.A. CNPJ: 60.579.703/0001-48]]></content>
     </entry>
 </feed>
